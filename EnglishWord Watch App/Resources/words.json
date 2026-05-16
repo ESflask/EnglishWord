@@ -1,0 +1,92 @@
+[
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000001",
+    "english": "accomplish",
+    "japanese": "達成する",
+    "category": "動詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000002",
+    "english": "ambiguous",
+    "japanese": "曖昧な",
+    "category": "形容詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000003",
+    "english": "anticipate",
+    "japanese": "予期する",
+    "category": "動詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000004",
+    "english": "apparent",
+    "japanese": "明らかな",
+    "category": "形容詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000005",
+    "english": "consistent",
+    "japanese": "一貫した",
+    "category": "形容詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000006",
+    "english": "contribute",
+    "japanese": "貢献する",
+    "category": "動詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000007",
+    "english": "convince",
+    "japanese": "説得する",
+    "category": "動詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000008",
+    "english": "elaborate",
+    "japanese": "詳しく説明する",
+    "category": "動詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000009",
+    "english": "enormous",
+    "japanese": "巨大な",
+    "category": "形容詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000010",
+    "english": "essential",
+    "japanese": "不可欠な",
+    "category": "形容詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000011",
+    "english": "fundamental",
+    "japanese": "基本的な",
+    "category": "形容詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000012",
+    "english": "implement",
+    "japanese": "実装する",
+    "category": "動詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000013",
+    "english": "inevitable",
+    "japanese": "避けられない",
+    "category": "形容詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000014",
+    "english": "significant",
+    "japanese": "重要な",
+    "category": "形容詞"
+  },
+  {
+    "id": "A1B2C3D4-0001-0001-0001-000000000015",
+    "english": "sufficient",
+    "japanese": "十分な",
+    "category": "形容詞"
+  }
+]
