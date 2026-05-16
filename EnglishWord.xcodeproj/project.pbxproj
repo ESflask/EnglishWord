@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		9662F19A2FB86673004CA5BB /* EnglishWord Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 9662F1992FB86673004CA5BB /* EnglishWord Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		9662F1DF2FB8700E004CA5BB /* GoogleService-Info (2).plist in Resources */ = {isa = PBXBuildFile; fileRef = 9662F1DE2FB8700E004CA5BB /* GoogleService-Info (2).plist */; };
+		9662F1E12FB8700E004CA5BB /* FirebaseCore in Frameworks */ = {isa = PBXBuildFile; productRef = 9662F1E02FB8700E004CA5BB /* FirebaseCore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9662F1E12FB8700E004CA5BB /* FirebaseCore in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -154,6 +156,7 @@
 			);
 			name = EnglishWordIOS;
 			packageProductDependencies = (
+				9662F1E02FB8700E004CA5BB /* FirebaseCore */,
 			);
 			productName = EnglishWordIOS;
 			productReference = 9662F1D22FB86DE2004CA5BB /* EnglishWordIOS.app */;
@@ -582,6 +585,14 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		9662F1E02FB8700E004CA5BB /* FirebaseCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 9662F1DD2FB86FEA004CA5BB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCore;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCRemoteSwiftPackageReference section */
 		9662F1DD2FB86FEA004CA5BB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
