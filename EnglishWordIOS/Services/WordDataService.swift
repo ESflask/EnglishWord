@@ -11,7 +11,7 @@ final class WordDataService {
 
         let filtered = baseWords.filter { $0.level == level }
         let progress = loadProgress()
-        return filtered.map { word in
+        let all = filtered.map { word -> Word in
             var w = word
             if let p = progress[word.id.uuidString] {
                 w.isLearned = p.isLearned
@@ -19,6 +19,7 @@ final class WordDataService {
             }
             return w
         }
+        return Array(all.shuffled().prefix(30))
     }
 
     func saveProgress(for words: [Word]) {
