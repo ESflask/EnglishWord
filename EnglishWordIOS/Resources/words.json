@@ -9121,6 +9121,2106 @@
     "level": "2級"
   },
   {
+    "id": "22000000-0277-0277-0277-000000000277",
+    "english": "abolish",
+    "japanese": "廃止する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0278-0278-0278-000000000278",
+    "english": "adapt",
+    "japanese": "適応させる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0279-0279-0279-000000000279",
+    "english": "admire",
+    "japanese": "賞賛する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0280-0280-0280-000000000280",
+    "english": "admit",
+    "japanese": "認める",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0281-0281-0281-000000000281",
+    "english": "adopt",
+    "japanese": "採用する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0282-0282-0282-000000000282",
+    "english": "advance",
+    "japanese": "前進させる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0283-0283-0283-000000000283",
+    "english": "advise",
+    "japanese": "助言する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0284-0284-0284-000000000284",
+    "english": "afford",
+    "japanese": "余裕がある",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0285-0285-0285-000000000285",
+    "english": "aid",
+    "japanese": "援助する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0286-0286-0286-000000000286",
+    "english": "aim",
+    "japanese": "目指す",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0287-0287-0287-000000000287",
+    "english": "amaze",
+    "japanese": "驚かせる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0288-0288-0288-000000000288",
+    "english": "announce",
+    "japanese": "発表する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0289-0289-0289-000000000289",
+    "english": "appeal",
+    "japanese": "訴える",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0290-0290-0290-000000000290",
+    "english": "arise",
+    "japanese": "生じる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0291-0291-0291-000000000291",
+    "english": "arrange",
+    "japanese": "手配する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0292-0292-0292-000000000292",
+    "english": "attach",
+    "japanese": "取り付ける",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0293-0293-0293-000000000293",
+    "english": "attract",
+    "japanese": "引きつける",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0294-0294-0294-000000000294",
+    "english": "balance",
+    "japanese": "釣り合わせる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0295-0295-0295-000000000295",
+    "english": "ban",
+    "japanese": "禁止する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0296-0296-0296-000000000296",
+    "english": "bear",
+    "japanese": "耐える",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0297-0297-0297-000000000297",
+    "english": "bind",
+    "japanese": "縛る",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0298-0298-0298-000000000298",
+    "english": "boost",
+    "japanese": "高める",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0299-0299-0299-000000000299",
+    "english": "broadcast",
+    "japanese": "放送する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0300-0300-0300-000000000300",
+    "english": "bury",
+    "japanese": "埋める",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0301-0301-0301-000000000301",
+    "english": "capture",
+    "japanese": "捕らえる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0302-0302-0302-000000000302",
+    "english": "cease",
+    "japanese": "やめる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0303-0303-0303-000000000303",
+    "english": "claim",
+    "japanese": "主張する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0304-0304-0304-000000000304",
+    "english": "combine",
+    "japanese": "組み合わせる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0305-0305-0305-000000000305",
+    "english": "command",
+    "japanese": "命じる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0306-0306-0306-000000000306",
+    "english": "compete",
+    "japanese": "競争する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0307-0307-0307-000000000307",
+    "english": "compose",
+    "japanese": "構成する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0308-0308-0308-000000000308",
+    "english": "conceal",
+    "japanese": "隠す",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0309-0309-0309-000000000309",
+    "english": "confess",
+    "japanese": "告白する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0310-0310-0310-000000000310",
+    "english": "confine",
+    "japanese": "制限する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0311-0311-0311-000000000311",
+    "english": "confuse",
+    "japanese": "混乱させる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0312-0312-0312-000000000312",
+    "english": "consume",
+    "japanese": "消費する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0313-0313-0313-000000000313",
+    "english": "contact",
+    "japanese": "連絡する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0314-0314-0314-000000000314",
+    "english": "contain",
+    "japanese": "含む",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0315-0315-0315-000000000315",
+    "english": "convert",
+    "japanese": "変換する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0316-0316-0316-000000000316",
+    "english": "coordinate",
+    "japanese": "調整する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0317-0317-0317-000000000317",
+    "english": "criticize",
+    "japanese": "批判する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0318-0318-0318-000000000318",
+    "english": "cultivate",
+    "japanese": "耕す",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0319-0319-0319-000000000319",
+    "english": "cure",
+    "japanese": "治す",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0320-0320-0320-000000000320",
+    "english": "declare",
+    "japanese": "宣言する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0321-0321-0321-000000000321",
+    "english": "delay",
+    "japanese": "遅らせる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0322-0322-0322-000000000322",
+    "english": "deliver",
+    "japanese": "配達する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0323-0323-0323-000000000323",
+    "english": "deny",
+    "japanese": "否定する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0324-0324-0324-000000000324",
+    "english": "deserve",
+    "japanese": "値する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0325-0325-0325-000000000325",
+    "english": "display",
+    "japanese": "表示する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0326-0326-0326-000000000326",
+    "english": "distinguish",
+    "japanese": "区別する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0327-0327-0327-000000000327",
+    "english": "donate",
+    "japanese": "寄付する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0328-0328-0328-000000000328",
+    "english": "employ",
+    "japanese": "雇う",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0329-0329-0329-000000000329",
+    "english": "encounter",
+    "japanese": "遭遇する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0330-0330-0330-000000000330",
+    "english": "engage",
+    "japanese": "従事する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0331-0331-0331-000000000331",
+    "english": "entertain",
+    "japanese": "楽しませる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0332-0332-0332-000000000332",
+    "english": "estimate",
+    "japanese": "見積もる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0333-0333-0333-000000000333",
+    "english": "evolve",
+    "japanese": "進化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0334-0334-0334-000000000334",
+    "english": "exceed",
+    "japanese": "超える",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0335-0335-0335-000000000335",
+    "english": "exchange",
+    "japanese": "交換する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0336-0336-0336-000000000336",
+    "english": "expand",
+    "japanese": "拡大する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0337-0337-0337-000000000337",
+    "english": "export",
+    "japanese": "輸出する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0338-0338-0338-000000000338",
+    "english": "found",
+    "japanese": "設立する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0339-0339-0339-000000000339",
+    "english": "fulfill",
+    "japanese": "果たす",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0340-0340-0340-000000000340",
+    "english": "govern",
+    "japanese": "統治する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0341-0341-0341-000000000341",
+    "english": "guarantee",
+    "japanese": "保証する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0342-0342-0342-000000000342",
+    "english": "hesitate",
+    "japanese": "ためらう",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0343-0343-0343-000000000343",
+    "english": "illustrate",
+    "japanese": "説明する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0344-0344-0344-000000000344",
+    "english": "import",
+    "japanese": "輸入する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0345-0345-0345-000000000345",
+    "english": "impress",
+    "japanese": "感心させる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0346-0346-0346-000000000346",
+    "english": "inspire",
+    "japanese": "刺激する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0347-0347-0347-000000000347",
+    "english": "instruct",
+    "japanese": "指導する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0348-0348-0348-000000000348",
+    "english": "intend",
+    "japanese": "意図する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0349-0349-0349-000000000349",
+    "english": "interfere",
+    "japanese": "干渉する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0350-0350-0350-000000000350",
+    "english": "invent",
+    "japanese": "発明する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0351-0351-0351-000000000351",
+    "english": "involve",
+    "japanese": "含む",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0352-0352-0352-000000000352",
+    "english": "judge",
+    "japanese": "判断する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0353-0353-0353-000000000353",
+    "english": "locate",
+    "japanese": "位置を特定する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0354-0354-0354-000000000354",
+    "english": "manufacture",
+    "japanese": "製造する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0355-0355-0355-000000000355",
+    "english": "measure",
+    "japanese": "測定する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0356-0356-0356-000000000356",
+    "english": "observe",
+    "japanese": "観察する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0357-0357-0357-000000000357",
+    "english": "occupy",
+    "japanese": "占める",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0358-0358-0358-000000000358",
+    "english": "oppose",
+    "japanese": "反対する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0359-0359-0359-000000000359",
+    "english": "overlook",
+    "japanese": "見落とす",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0360-0360-0360-000000000360",
+    "english": "permit",
+    "japanese": "許可する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0361-0361-0361-000000000361",
+    "english": "persuade",
+    "japanese": "説得する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0362-0362-0362-000000000362",
+    "english": "possess",
+    "japanese": "所有する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0363-0363-0363-000000000363",
+    "english": "predict",
+    "japanese": "予測する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0364-0364-0364-000000000364",
+    "english": "pretend",
+    "japanese": "ふりをする",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0365-0365-0365-000000000365",
+    "english": "publish",
+    "japanese": "出版する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0366-0366-0366-000000000366",
+    "english": "purchase",
+    "japanese": "購入する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0367-0367-0367-000000000367",
+    "english": "quit",
+    "japanese": "やめる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0368-0368-0368-000000000368",
+    "english": "react",
+    "japanese": "反応する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0369-0369-0369-000000000369",
+    "english": "recommend",
+    "japanese": "推薦する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0370-0370-0370-000000000370",
+    "english": "recover",
+    "japanese": "回復する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0371-0371-0371-000000000371",
+    "english": "regard",
+    "japanese": "見なす",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0372-0372-0372-000000000372",
+    "english": "regret",
+    "japanese": "後悔する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0373-0373-0373-000000000373",
+    "english": "relate",
+    "japanese": "関連づける",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0374-0374-0374-000000000374",
+    "english": "relieve",
+    "japanese": "和らげる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0375-0375-0375-000000000375",
+    "english": "remind",
+    "japanese": "思い出させる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0376-0376-0376-000000000376",
+    "english": "remove",
+    "japanese": "取り除く",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0377-0377-0377-000000000377",
+    "english": "repair",
+    "japanese": "修理する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0378-0378-0378-000000000378",
+    "english": "reserve",
+    "japanese": "予約する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0379-0379-0379-000000000379",
+    "english": "resist",
+    "japanese": "抵抗する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0380-0380-0380-000000000380",
+    "english": "resolve",
+    "japanese": "解決する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0381-0381-0381-000000000381",
+    "english": "restore",
+    "japanese": "回復させる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0382-0382-0382-000000000382",
+    "english": "retain",
+    "japanese": "保持する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0383-0383-0383-000000000383",
+    "english": "retire",
+    "japanese": "退職する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0384-0384-0384-000000000384",
+    "english": "seek",
+    "japanese": "探し求める",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0385-0385-0385-000000000385",
+    "english": "settle",
+    "japanese": "解決する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0386-0386-0386-000000000386",
+    "english": "survive",
+    "japanese": "生き残る",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0387-0387-0387-000000000387",
+    "english": "threaten",
+    "japanese": "脅す",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0388-0388-0388-000000000388",
+    "english": "trace",
+    "japanese": "跡をたどる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0389-0389-0389-000000000389",
+    "english": "translate",
+    "japanese": "翻訳する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0390-0390-0390-000000000390",
+    "english": "urge",
+    "japanese": "促す",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0391-0391-0391-000000000391",
+    "english": "vote",
+    "japanese": "投票する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0392-0392-0392-000000000392",
+    "english": "witness",
+    "japanese": "目撃する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0393-0393-0393-000000000393",
+    "english": "accessory",
+    "japanese": "付属品",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0394-0394-0394-000000000394",
+    "english": "account",
+    "japanese": "口座",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0395-0395-0395-000000000395",
+    "english": "accuracy",
+    "japanese": "正確さ",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0396-0396-0396-000000000396",
+    "english": "acquaintance",
+    "japanese": "知人",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0397-0397-0397-000000000397",
+    "english": "agency",
+    "japanese": "機関",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0398-0398-0398-000000000398",
+    "english": "agenda",
+    "japanese": "議題",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0399-0399-0399-000000000399",
+    "english": "amount",
+    "japanese": "量",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0400-0400-0400-000000000400",
+    "english": "ancestor",
+    "japanese": "祖先",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0401-0401-0401-000000000401",
+    "english": "anniversary",
+    "japanese": "記念日",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0402-0402-0402-000000000402",
+    "english": "anxiety",
+    "japanese": "不安",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0403-0403-0403-000000000403",
+    "english": "apology",
+    "japanese": "謝罪",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0404-0404-0404-000000000404",
+    "english": "appointment",
+    "japanese": "予約",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0405-0405-0405-000000000405",
+    "english": "architect",
+    "japanese": "建築家",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0406-0406-0406-000000000406",
+    "english": "argument",
+    "japanese": "議論",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0407-0407-0407-000000000407",
+    "english": "army",
+    "japanese": "軍隊",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0408-0408-0408-000000000408",
+    "english": "arrival",
+    "japanese": "到着",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0409-0409-0409-000000000409",
+    "english": "atmosphere",
+    "japanese": "雰囲気",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0410-0410-0410-000000000410",
+    "english": "author",
+    "japanese": "著者",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0411-0411-0411-000000000411",
+    "english": "award",
+    "japanese": "賞",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0412-0412-0412-000000000412",
+    "english": "background",
+    "japanese": "背景",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0413-0413-0413-000000000413",
+    "english": "base",
+    "japanese": "基盤",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0414-0414-0414-000000000414",
+    "english": "basis",
+    "japanese": "根拠",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0415-0415-0415-000000000415",
+    "english": "battle",
+    "japanese": "戦い",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0416-0416-0416-000000000416",
+    "english": "belief",
+    "japanese": "信念",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0417-0417-0417-000000000417",
+    "english": "birth",
+    "japanese": "誕生",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0418-0418-0418-000000000418",
+    "english": "branch",
+    "japanese": "支店",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0419-0419-0419-000000000419",
+    "english": "campaign",
+    "japanese": "運動",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0420-0420-0420-000000000420",
+    "english": "candidate",
+    "japanese": "候補者",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0421-0421-0421-000000000421",
+    "english": "capital",
+    "japanese": "首都",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0422-0422-0422-000000000422",
+    "english": "cash",
+    "japanese": "現金",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0423-0423-0423-000000000423",
+    "english": "ceremony",
+    "japanese": "式典",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0424-0424-0424-000000000424",
+    "english": "challenge",
+    "japanese": "課題",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0425-0425-0425-000000000425",
+    "english": "channel",
+    "japanese": "チャンネル",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0426-0426-0426-000000000426",
+    "english": "charge",
+    "japanese": "料金",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0427-0427-0427-000000000427",
+    "english": "climate",
+    "japanese": "気候",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0428-0428-0428-000000000428",
+    "english": "commerce",
+    "japanese": "商業",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0429-0429-0429-000000000429",
+    "english": "committee",
+    "japanese": "委員会",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0430-0430-0430-000000000430",
+    "english": "conflict",
+    "japanese": "対立",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0431-0431-0431-000000000431",
+    "english": "consumer",
+    "japanese": "消費者",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0432-0432-0432-000000000432",
+    "english": "contract",
+    "japanese": "契約",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0433-0433-0433-000000000433",
+    "english": "council",
+    "japanese": "議会",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0434-0434-0434-000000000434",
+    "english": "crime",
+    "japanese": "犯罪",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0435-0435-0435-000000000435",
+    "english": "critic",
+    "japanese": "批評家",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0436-0436-0436-000000000436",
+    "english": "crowd",
+    "japanese": "群衆",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0437-0437-0437-000000000437",
+    "english": "custom",
+    "japanese": "慣習",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0438-0438-0438-000000000438",
+    "english": "debt",
+    "japanese": "借金",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0439-0439-0439-000000000439",
+    "english": "decade",
+    "japanese": "10年",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0440-0440-0440-000000000440",
+    "english": "defense",
+    "japanese": "防衛",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0441-0441-0441-000000000441",
+    "english": "delivery",
+    "japanese": "配達",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0442-0442-0442-000000000442",
+    "english": "department",
+    "japanese": "部門",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0443-0443-0443-000000000443",
+    "english": "description",
+    "japanese": "説明",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0444-0444-0444-000000000444",
+    "english": "device",
+    "japanese": "装置",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0445-0445-0445-000000000445",
+    "english": "disaster",
+    "japanese": "災害",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0446-0446-0446-000000000446",
+    "english": "discipline",
+    "japanese": "規律",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0447-0447-0447-000000000447",
+    "english": "district",
+    "japanese": "地区",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0448-0448-0448-000000000448",
+    "english": "economy",
+    "japanese": "経済",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0449-0449-0449-000000000449",
+    "english": "editor",
+    "japanese": "編集者",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0450-0450-0450-000000000450",
+    "english": "emergency",
+    "japanese": "緊急事態",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0451-0451-0451-000000000451",
+    "english": "emotion",
+    "japanese": "感情",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0452-0452-0452-000000000452",
+    "english": "employee",
+    "japanese": "従業員",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0453-0453-0453-000000000453",
+    "english": "employer",
+    "japanese": "雇用主",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0454-0454-0454-000000000454",
+    "english": "engineer",
+    "japanese": "技術者",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0455-0455-0455-000000000455",
+    "english": "enterprise",
+    "japanese": "企業",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0456-0456-0456-000000000456",
+    "english": "equation",
+    "japanese": "方程式",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0457-0457-0457-000000000457",
+    "english": "equipment",
+    "japanese": "設備",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0458-0458-0458-000000000458",
+    "english": "era",
+    "japanese": "時代",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0459-0459-0459-000000000459",
+    "english": "estate",
+    "japanese": "財産",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0460-0460-0460-000000000460",
+    "english": "exception",
+    "japanese": "例外",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0461-0461-0461-000000000461",
+    "english": "expert",
+    "japanese": "専門家",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0462-0462-0462-000000000462",
+    "english": "explanation",
+    "japanese": "説明",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0463-0463-0463-000000000463",
+    "english": "facility",
+    "japanese": "施設",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0464-0464-0464-000000000464",
+    "english": "failure",
+    "japanese": "失敗",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0465-0465-0465-000000000465",
+    "english": "fee",
+    "japanese": "料金",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0466-0466-0466-000000000466",
+    "english": "firm",
+    "japanese": "会社",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0467-0467-0467-000000000467",
+    "english": "foundation",
+    "japanese": "基礎",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0468-0468-0468-000000000468",
+    "english": "fuel",
+    "japanese": "燃料",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0469-0469-0469-000000000469",
+    "english": "gene",
+    "japanese": "遺伝子",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0470-0470-0470-000000000470",
+    "english": "goods",
+    "japanese": "商品",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0471-0471-0471-000000000471",
+    "english": "government",
+    "japanese": "政府",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0472-0472-0472-000000000472",
+    "english": "graduate",
+    "japanese": "卒業生",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0473-0473-0473-000000000473",
+    "english": "harbor",
+    "japanese": "港",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0474-0474-0474-000000000474",
+    "english": "host",
+    "japanese": "主催者",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0475-0475-0475-000000000475",
+    "english": "household",
+    "japanese": "世帯",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0476-0476-0476-000000000476",
+    "english": "identity",
+    "japanese": "身元",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0477-0477-0477-000000000477",
+    "english": "illness",
+    "japanese": "病気",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0478-0478-0478-000000000478",
+    "english": "imagination",
+    "japanese": "想像力",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0479-0479-0479-000000000479",
+    "english": "immigrant",
+    "japanese": "移民",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0480-0480-0480-000000000480",
+    "english": "impression",
+    "japanese": "印象",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0481-0481-0481-000000000481",
+    "english": "incident",
+    "japanese": "出来事",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0482-0482-0482-000000000482",
+    "english": "industry",
+    "japanese": "産業",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0483-0483-0483-000000000483",
+    "english": "injury",
+    "japanese": "けが",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0484-0484-0484-000000000484",
+    "english": "institute",
+    "japanese": "研究所",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0485-0485-0485-000000000485",
+    "english": "instruction",
+    "japanese": "指示",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0486-0486-0486-000000000486",
+    "english": "instrument",
+    "japanese": "器具",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0487-0487-0487-000000000487",
+    "english": "intention",
+    "japanese": "意図",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0488-0488-0488-000000000488",
+    "english": "issue",
+    "japanese": "問題",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0489-0489-0489-000000000489",
+    "english": "journal",
+    "japanese": "雑誌",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0490-0490-0490-000000000490",
+    "english": "labor",
+    "japanese": "労働",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0491-0491-0491-000000000491",
+    "english": "landscape",
+    "japanese": "風景",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0492-0492-0492-000000000492",
+    "english": "license",
+    "japanese": "免許",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0493-0493-0493-000000000493",
+    "english": "limit",
+    "japanese": "限界",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0494-0494-0494-000000000494",
+    "english": "literature",
+    "japanese": "文学",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0495-0495-0495-000000000495",
+    "english": "location",
+    "japanese": "場所",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0496-0496-0496-000000000496",
+    "english": "loss",
+    "japanese": "損失",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0497-0497-0497-000000000497",
+    "english": "majority",
+    "japanese": "大多数",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0498-0498-0498-000000000498",
+    "english": "management",
+    "japanese": "管理",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0499-0499-0499-000000000499",
+    "english": "manufacturer",
+    "japanese": "製造業者",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0500-0500-0500-000000000500",
+    "english": "material",
+    "japanese": "材料",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0501-0501-0501-000000000501",
+    "english": "medicine",
+    "japanese": "薬",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0502-0502-0502-000000000502",
+    "english": "medium",
+    "japanese": "媒体",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0503-0503-0503-000000000503",
+    "english": "method",
+    "japanese": "方法",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0504-0504-0504-000000000504",
+    "english": "minister",
+    "japanese": "大臣",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0505-0505-0505-000000000505",
+    "english": "minority",
+    "japanese": "少数派",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0506-0506-0506-000000000506",
+    "english": "mood",
+    "japanese": "気分",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0507-0507-0507-000000000507",
+    "english": "nation",
+    "japanese": "国家",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0508-0508-0508-000000000508",
+    "english": "neighborhood",
+    "japanese": "近所",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0509-0509-0509-000000000509",
+    "english": "notion",
+    "japanese": "考え",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0510-0510-0510-000000000510",
+    "english": "obligation",
+    "japanese": "義務",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0511-0511-0511-000000000511",
+    "english": "occasion",
+    "japanese": "機会",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0512-0512-0512-000000000512",
+    "english": "operation",
+    "japanese": "運営",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0513-0513-0513-000000000513",
+    "english": "organization",
+    "japanese": "組織",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0514-0514-0514-000000000514",
+    "english": "origin",
+    "japanese": "起源",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0515-0515-0515-000000000515",
+    "english": "passenger",
+    "japanese": "乗客",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0516-0516-0516-000000000516",
+    "english": "permission",
+    "japanese": "許可",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0517-0517-0517-000000000517",
+    "english": "personality",
+    "japanese": "性格",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0518-0518-0518-000000000518",
+    "english": "pollution",
+    "japanese": "汚染",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0519-0519-0519-000000000519",
+    "english": "possession",
+    "japanese": "所有",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0520-0520-0520-000000000520",
+    "english": "poverty",
+    "japanese": "貧困",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0521-0521-0521-000000000521",
+    "english": "preference",
+    "japanese": "好み",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0522-0522-0522-000000000522",
+    "english": "pressure",
+    "japanese": "圧力",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0523-0523-0523-000000000523",
+    "english": "profit",
+    "japanese": "利益",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0524-0524-0524-000000000524",
+    "english": "proposal",
+    "japanese": "提案",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0525-0525-0525-000000000525",
+    "english": "quantity",
+    "japanese": "量",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0526-0526-0526-000000000526",
+    "english": "reaction",
+    "japanese": "反応",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0527-0527-0527-000000000527",
+    "english": "reference",
+    "japanese": "参照",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0528-0528-0528-000000000528",
+    "english": "region",
+    "japanese": "地域",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0529-0529-0529-000000000529",
+    "english": "resident",
+    "japanese": "居住者",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0530-0530-0530-000000000530",
+    "english": "resource",
+    "japanese": "資源",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0531-0531-0531-000000000531",
+    "english": "responsibility",
+    "japanese": "責任",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0532-0532-0532-000000000532",
+    "english": "route",
+    "japanese": "経路",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0533-0533-0533-000000000533",
+    "english": "security",
+    "japanese": "安全保障",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0534-0534-0534-000000000534",
+    "english": "shelter",
+    "japanese": "避難所",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0535-0535-0535-000000000535",
+    "english": "species",
+    "japanese": "種",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0536-0536-0536-000000000536",
+    "english": "statement",
+    "japanese": "声明",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0537-0537-0537-000000000537",
+    "english": "strategy",
+    "japanese": "戦略",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0538-0538-0538-000000000538",
+    "english": "surface",
+    "japanese": "表面",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0539-0539-0539-000000000539",
+    "english": "survey",
+    "japanese": "調査",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0540-0540-0540-000000000540",
+    "english": "survival",
+    "japanese": "生存",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0541-0541-0541-000000000541",
+    "english": "tension",
+    "japanese": "緊張",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0542-0542-0542-000000000542",
+    "english": "territory",
+    "japanese": "領土",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0543-0543-0543-000000000543",
+    "english": "trade",
+    "japanese": "貿易",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0544-0544-0544-000000000544",
+    "english": "vehicle",
+    "japanese": "乗り物",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0545-0545-0545-000000000545",
+    "english": "victim",
+    "japanese": "犠牲者",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0546-0546-0546-000000000546",
+    "english": "wealth",
+    "japanese": "富",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0547-0547-0547-000000000547",
+    "english": "accurate",
+    "japanese": "正確な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0548-0548-0548-000000000548",
+    "english": "actual",
+    "japanese": "実際の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0549-0549-0549-000000000549",
+    "english": "additional",
+    "japanese": "追加の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0550-0550-0550-000000000550",
+    "english": "annual",
+    "japanese": "年1回の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0551-0551-0551-000000000551",
+    "english": "anxious",
+    "japanese": "不安な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0552-0552-0552-000000000552",
+    "english": "appropriate",
+    "japanese": "適切な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0553-0553-0553-000000000553",
+    "english": "artificial",
+    "japanese": "人工の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0554-0554-0554-000000000554",
+    "english": "available",
+    "japanese": "利用できる",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0555-0555-0555-000000000555",
+    "english": "basic",
+    "japanese": "基本的な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0556-0556-0556-000000000556",
+    "english": "biological",
+    "japanese": "生物学的な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0557-0557-0557-000000000557",
+    "english": "brief",
+    "japanese": "短い",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0558-0558-0558-000000000558",
+    "english": "capable",
+    "japanese": "能力がある",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0559-0559-0559-000000000559",
+    "english": "certain",
+    "japanese": "確かな",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0560-0560-0560-000000000560",
+    "english": "civil",
+    "japanese": "市民の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0561-0561-0561-000000000561",
+    "english": "classic",
+    "japanese": "古典的な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0562-0562-0562-000000000562",
+    "english": "complex",
+    "japanese": "複雑な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0563-0563-0563-000000000563",
+    "english": "confident",
+    "japanese": "自信のある",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0564-0564-0564-000000000564",
+    "english": "conscious",
+    "japanese": "意識している",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0565-0565-0565-000000000565",
+    "english": "constant",
+    "japanese": "絶え間ない",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0566-0566-0566-000000000566",
+    "english": "creative",
+    "japanese": "創造的な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0567-0567-0567-000000000567",
+    "english": "critical",
+    "japanese": "重大な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0568-0568-0568-000000000568",
+    "english": "cultural",
+    "japanese": "文化的な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0569-0569-0569-000000000569",
+    "english": "current",
+    "japanese": "現在の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0570-0570-0570-000000000570",
+    "english": "daily",
+    "japanese": "毎日の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0571-0571-0571-000000000571",
+    "english": "direct",
+    "japanese": "直接の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0572-0572-0572-000000000572",
+    "english": "domestic",
+    "japanese": "国内の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0573-0573-0573-000000000573",
+    "english": "efficient",
+    "japanese": "効率的な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0574-0574-0574-000000000574",
+    "english": "emotional",
+    "japanese": "感情的な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0575-0575-0575-000000000575",
+    "english": "entire",
+    "japanese": "全体の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "22000000-0576-0576-0576-000000000576",
+    "english": "essential",
+    "japanese": "不可欠な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
     "id": "11500000-0001-0001-0001-000000000001",
     "english": "abolish",
     "japanese": "廃止する",
@@ -18161,7 +20261,7 @@
     "id": "210d08f5-855a-48a5-9b9d-df1a8241abe9",
     "english": "retirement",
     "japanese": "退職",
-    "category": "退職",
+    "category": "名詞",
     "level": "準2級"
   },
   {
@@ -18625,5 +20725,4940 @@
     "japanese": "部分的な",
     "category": "形容詞",
     "level": "準2級"
+  },
+  {
+    "id": "44000000-0217-0217-0217-000000000217",
+    "english": "add",
+    "japanese": "加える",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0218-0218-0218-000000000218",
+    "english": "bake",
+    "japanese": "焼く",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0219-0219-0219-000000000219",
+    "english": "borrow",
+    "japanese": "借りる",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0220-0220-0220-000000000220",
+    "english": "break",
+    "japanese": "壊す",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0221-0221-0221-000000000221",
+    "english": "build",
+    "japanese": "建てる",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0222-0222-0222-000000000222",
+    "english": "choose",
+    "japanese": "選ぶ",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0223-0223-0223-000000000223",
+    "english": "collect",
+    "japanese": "集める",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0224-0224-0224-000000000224",
+    "english": "cross",
+    "japanese": "横切る",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0225-0225-0225-000000000225",
+    "english": "decide",
+    "japanese": "決める",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0226-0226-0226-000000000226",
+    "english": "describe",
+    "japanese": "説明する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0227-0227-0227-000000000227",
+    "english": "explain",
+    "japanese": "説明する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0228-0228-0228-000000000228",
+    "english": "fix",
+    "japanese": "直す",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0229-0229-0229-000000000229",
+    "english": "hit",
+    "japanese": "打つ",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0230-0230-0230-000000000230",
+    "english": "hold",
+    "japanese": "持つ",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0231-0231-0231-000000000231",
+    "english": "hurt",
+    "japanese": "傷つける",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0232-0232-0232-000000000232",
+    "english": "introduce",
+    "japanese": "紹介する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0233-0233-0233-000000000233",
+    "english": "invite",
+    "japanese": "招待する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0234-0234-0234-000000000234",
+    "english": "join",
+    "japanese": "加わる",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0235-0235-0235-000000000235",
+    "english": "jump",
+    "japanese": "跳ぶ",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0236-0236-0236-000000000236",
+    "english": "kick",
+    "japanese": "蹴る",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0237-0237-0237-000000000237",
+    "english": "laugh",
+    "japanese": "笑う",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0238-0238-0238-000000000238",
+    "english": "lend",
+    "japanese": "貸す",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0239-0239-0239-000000000239",
+    "english": "lose",
+    "japanese": "失う",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0240-0240-0240-000000000240",
+    "english": "miss",
+    "japanese": "逃す",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0241-0241-0241-000000000241",
+    "english": "mix",
+    "japanese": "混ぜる",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0242-0242-0242-000000000242",
+    "english": "pass",
+    "japanese": "渡す",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0243-0243-0243-000000000243",
+    "english": "pick",
+    "japanese": "選ぶ",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0244-0244-0244-000000000244",
+    "english": "practice",
+    "japanese": "練習する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0245-0245-0245-000000000245",
+    "english": "press",
+    "japanese": "押す",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0246-0246-0246-000000000246",
+    "english": "pull",
+    "japanese": "引く",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0247-0247-0247-000000000247",
+    "english": "push",
+    "japanese": "押す",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0248-0248-0248-000000000248",
+    "english": "reach",
+    "japanese": "届く",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0249-0249-0249-000000000249",
+    "english": "remember",
+    "japanese": "覚えている",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0250-0250-0250-000000000250",
+    "english": "repeat",
+    "japanese": "繰り返す",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0251-0251-0251-000000000251",
+    "english": "return",
+    "japanese": "戻る",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0252-0252-0252-000000000252",
+    "english": "save",
+    "japanese": "救う",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0253-0253-0253-000000000253",
+    "english": "share",
+    "japanese": "共有する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0254-0254-0254-000000000254",
+    "english": "shout",
+    "japanese": "叫ぶ",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0255-0255-0255-000000000255",
+    "english": "smile",
+    "japanese": "微笑む",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0256-0256-0256-000000000256",
+    "english": "spell",
+    "japanese": "つづる",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0257-0257-0257-000000000257",
+    "english": "spend",
+    "japanese": "使う",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0258-0258-0258-000000000258",
+    "english": "taste",
+    "japanese": "味がする",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0259-0259-0259-000000000259",
+    "english": "touch",
+    "japanese": "触る",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0260-0260-0260-000000000260",
+    "english": "train",
+    "japanese": "訓練する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0261-0261-0261-000000000261",
+    "english": "understand",
+    "japanese": "理解する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0262-0262-0262-000000000262",
+    "english": "wake",
+    "japanese": "起きる",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0263-0263-0263-000000000263",
+    "english": "wear",
+    "japanese": "着る",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0264-0264-0264-000000000264",
+    "english": "win",
+    "japanese": "勝つ",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0265-0265-0265-000000000265",
+    "english": "wish",
+    "japanese": "願う",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0266-0266-0266-000000000266",
+    "english": "wonder",
+    "japanese": "不思議に思う",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0267-0267-0267-000000000267",
+    "english": "worry",
+    "japanese": "心配する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0268-0268-0268-000000000268",
+    "english": "plan",
+    "japanese": "計画する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0269-0269-0269-000000000269",
+    "english": "act",
+    "japanese": "行動する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0270-0270-0270-000000000270",
+    "english": "agree",
+    "japanese": "同意する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0271-0271-0271-000000000271",
+    "english": "begin",
+    "japanese": "始める",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0272-0272-0272-000000000272",
+    "english": "care",
+    "japanese": "気にかける",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0273-0273-0273-000000000273",
+    "english": "copy",
+    "japanese": "コピーする",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0274-0274-0274-000000000274",
+    "english": "cry",
+    "japanese": "泣く",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0275-0275-0275-000000000275",
+    "english": "fail",
+    "japanese": "失敗する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0276-0276-0276-000000000276",
+    "english": "fight",
+    "japanese": "戦う",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0277-0277-0277-000000000277",
+    "english": "happen",
+    "japanese": "起こる",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0278-0278-0278-000000000278",
+    "english": "hate",
+    "japanese": "嫌いだ",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0279-0279-0279-000000000279",
+    "english": "hide",
+    "japanese": "隠れる",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0280-0280-0280-000000000280",
+    "english": "paint",
+    "japanese": "絵を描く",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0281-0281-0281-000000000281",
+    "english": "prepare",
+    "japanese": "準備する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0282-0282-0282-000000000282",
+    "english": "print",
+    "japanese": "印刷する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0283-0283-0283-000000000283",
+    "english": "promise",
+    "japanese": "約束する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0284-0284-0284-000000000284",
+    "english": "raise",
+    "japanese": "上げる",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0285-0285-0285-000000000285",
+    "english": "reply",
+    "japanese": "返事する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0286-0286-0286-000000000286",
+    "english": "rest",
+    "japanese": "休む",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0287-0287-0287-000000000287",
+    "english": "skip",
+    "japanese": "跳び越える",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0288-0288-0288-000000000288",
+    "english": "study",
+    "japanese": "勉強する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0289-0289-0289-000000000289",
+    "english": "thank",
+    "japanese": "感謝する",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0290-0290-0290-000000000290",
+    "english": "address",
+    "japanese": "住所",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0291-0291-0291-000000000291",
+    "english": "age",
+    "japanese": "年齢",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0292-0292-0292-000000000292",
+    "english": "air",
+    "japanese": "空気",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0293-0293-0293-000000000293",
+    "english": "airport",
+    "japanese": "空港",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0294-0294-0294-000000000294",
+    "english": "art",
+    "japanese": "芸術",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0295-0295-0295-000000000295",
+    "english": "aunt",
+    "japanese": "叔母",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0296-0296-0296-000000000296",
+    "english": "baby",
+    "japanese": "赤ちゃん",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0297-0297-0297-000000000297",
+    "english": "bathroom",
+    "japanese": "浴室",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0298-0298-0298-000000000298",
+    "english": "beach",
+    "japanese": "浜辺",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0299-0299-0299-000000000299",
+    "english": "bedroom",
+    "japanese": "寝室",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0300-0300-0300-000000000300",
+    "english": "birthday",
+    "japanese": "誕生日",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0301-0301-0301-000000000301",
+    "english": "body",
+    "japanese": "体",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0302-0302-0302-000000000302",
+    "english": "bridge",
+    "japanese": "橋",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0303-0303-0303-000000000303",
+    "english": "building",
+    "japanese": "建物",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0304-0304-0304-000000000304",
+    "english": "cap",
+    "japanese": "帽子",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0305-0305-0305-000000000305",
+    "english": "card",
+    "japanese": "カード",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0306-0306-0306-000000000306",
+    "english": "club",
+    "japanese": "クラブ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0307-0307-0307-000000000307",
+    "english": "coat",
+    "japanese": "コート",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0308-0308-0308-000000000308",
+    "english": "college",
+    "japanese": "大学",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0309-0309-0309-000000000309",
+    "english": "comic",
+    "japanese": "漫画",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0310-0310-0310-000000000310",
+    "english": "corner",
+    "japanese": "角",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0311-0311-0311-000000000311",
+    "english": "country",
+    "japanese": "国",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0312-0312-0312-000000000312",
+    "english": "cousin",
+    "japanese": "いとこ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0313-0313-0313-000000000313",
+    "english": "dinner",
+    "japanese": "夕食",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0314-0314-0314-000000000314",
+    "english": "dream",
+    "japanese": "夢",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0315-0315-0315-000000000315",
+    "english": "dress",
+    "japanese": "ドレス",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0316-0316-0316-000000000316",
+    "english": "earth",
+    "japanese": "地球",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0317-0317-0317-000000000317",
+    "english": "egg",
+    "japanese": "卵",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0318-0318-0318-000000000318",
+    "english": "evening",
+    "japanese": "夕方",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0319-0319-0319-000000000319",
+    "english": "event",
+    "japanese": "イベント",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0320-0320-0320-000000000320",
+    "english": "face",
+    "japanese": "顔",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0321-0321-0321-000000000321",
+    "english": "fan",
+    "japanese": "ファン",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0322-0322-0322-000000000322",
+    "english": "farm",
+    "japanese": "農場",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0323-0323-0323-000000000323",
+    "english": "field",
+    "japanese": "野原",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0324-0324-0324-000000000324",
+    "english": "foot",
+    "japanese": "足",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0325-0325-0325-000000000325",
+    "english": "forest",
+    "japanese": "森",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0326-0326-0326-000000000326",
+    "english": "garden",
+    "japanese": "庭",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0327-0327-0327-000000000327",
+    "english": "gate",
+    "japanese": "門",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0328-0328-0328-000000000328",
+    "english": "gift",
+    "japanese": "贈り物",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0329-0329-0329-000000000329",
+    "english": "grade",
+    "japanese": "学年",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0330-0330-0330-000000000330",
+    "english": "grandfather",
+    "japanese": "祖父",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0331-0331-0331-000000000331",
+    "english": "grandmother",
+    "japanese": "祖母",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0332-0332-0332-000000000332",
+    "english": "grass",
+    "japanese": "草",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0333-0333-0333-000000000333",
+    "english": "ground",
+    "japanese": "地面",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0334-0334-0334-000000000334",
+    "english": "group",
+    "japanese": "グループ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0335-0335-0335-000000000335",
+    "english": "gym",
+    "japanese": "体育館",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0336-0336-0336-000000000336",
+    "english": "health",
+    "japanese": "健康",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0337-0337-0337-000000000337",
+    "english": "heart",
+    "japanese": "心",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0338-0338-0338-000000000338",
+    "english": "hill",
+    "japanese": "丘",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0339-0339-0339-000000000339",
+    "english": "hobby",
+    "japanese": "趣味",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0340-0340-0340-000000000340",
+    "english": "holiday",
+    "japanese": "休日",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0341-0341-0341-000000000341",
+    "english": "hospital",
+    "japanese": "病院",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0342-0342-0342-000000000342",
+    "english": "hotel",
+    "japanese": "ホテル",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0343-0343-0343-000000000343",
+    "english": "hour",
+    "japanese": "時間",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0344-0344-0344-000000000344",
+    "english": "idea",
+    "japanese": "考え",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0345-0345-0345-000000000345",
+    "english": "island",
+    "japanese": "島",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0346-0346-0346-000000000346",
+    "english": "job",
+    "japanese": "仕事",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0347-0347-0347-000000000347",
+    "english": "juice",
+    "japanese": "ジュース",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0348-0348-0348-000000000348",
+    "english": "key",
+    "japanese": "鍵",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0349-0349-0349-000000000349",
+    "english": "kitchen",
+    "japanese": "台所",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0350-0350-0350-000000000350",
+    "english": "leg",
+    "japanese": "足",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0351-0351-0351-000000000351",
+    "english": "lesson",
+    "japanese": "授業",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0352-0352-0352-000000000352",
+    "english": "light",
+    "japanese": "光",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0353-0353-0353-000000000353",
+    "english": "line",
+    "japanese": "線",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0354-0354-0354-000000000354",
+    "english": "lunch",
+    "japanese": "昼食",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0355-0355-0355-000000000355",
+    "english": "map",
+    "japanese": "地図",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0356-0356-0356-000000000356",
+    "english": "market",
+    "japanese": "市場",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0357-0357-0357-000000000357",
+    "english": "meal",
+    "japanese": "食事",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0358-0358-0358-000000000358",
+    "english": "member",
+    "japanese": "メンバー",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0359-0359-0359-000000000359",
+    "english": "minute",
+    "japanese": "分",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0360-0360-0360-000000000360",
+    "english": "mountain",
+    "japanese": "山",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0361-0361-0361-000000000361",
+    "english": "movie",
+    "japanese": "映画",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0362-0362-0362-000000000362",
+    "english": "museum",
+    "japanese": "博物館",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0363-0363-0363-000000000363",
+    "english": "neighbor",
+    "japanese": "隣人",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0364-0364-0364-000000000364",
+    "english": "news",
+    "japanese": "ニュース",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0365-0365-0365-000000000365",
+    "english": "notebook",
+    "japanese": "ノート",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0366-0366-0366-000000000366",
+    "english": "nurse",
+    "japanese": "看護師",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0367-0367-0367-000000000367",
+    "english": "office",
+    "japanese": "事務所",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0368-0368-0368-000000000368",
+    "english": "orange",
+    "japanese": "オレンジ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0369-0369-0369-000000000369",
+    "english": "party",
+    "japanese": "パーティー",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0370-0370-0370-000000000370",
+    "english": "phone",
+    "japanese": "電話",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0371-0371-0371-000000000371",
+    "english": "photo",
+    "japanese": "写真",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0372-0372-0372-000000000372",
+    "english": "piano",
+    "japanese": "ピアノ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0373-0373-0373-000000000373",
+    "english": "plant",
+    "japanese": "植物",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0374-0374-0374-000000000374",
+    "english": "player",
+    "japanese": "選手",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0375-0375-0375-000000000375",
+    "english": "police",
+    "japanese": "警察",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0376-0376-0376-000000000376",
+    "english": "pool",
+    "japanese": "プール",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0377-0377-0377-000000000377",
+    "english": "present",
+    "japanese": "プレゼント",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0378-0378-0378-000000000378",
+    "english": "price",
+    "japanese": "値段",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0379-0379-0379-000000000379",
+    "english": "problem",
+    "japanese": "問題",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0380-0380-0380-000000000380",
+    "english": "question",
+    "japanese": "質問",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0381-0381-0381-000000000381",
+    "english": "rabbit",
+    "japanese": "ウサギ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0382-0382-0382-000000000382",
+    "english": "rice",
+    "japanese": "ご飯",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0383-0383-0383-000000000383",
+    "english": "river",
+    "japanese": "川",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0384-0384-0384-000000000384",
+    "english": "robot",
+    "japanese": "ロボット",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0385-0385-0385-000000000385",
+    "english": "sandwich",
+    "japanese": "サンドイッチ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0386-0386-0386-000000000386",
+    "english": "science",
+    "japanese": "科学",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0387-0387-0387-000000000387",
+    "english": "season",
+    "japanese": "季節",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0388-0388-0388-000000000388",
+    "english": "seat",
+    "japanese": "座席",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0389-0389-0389-000000000389",
+    "english": "shoulder",
+    "japanese": "肩",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0390-0390-0390-000000000390",
+    "english": "side",
+    "japanese": "側面",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0391-0391-0391-000000000391",
+    "english": "size",
+    "japanese": "サイズ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0392-0392-0392-000000000392",
+    "english": "soccer",
+    "japanese": "サッカー",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0393-0393-0393-000000000393",
+    "english": "sofa",
+    "japanese": "ソファ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0394-0394-0394-000000000394",
+    "english": "soup",
+    "japanese": "スープ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0395-0395-0395-000000000395",
+    "english": "station",
+    "japanese": "駅",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0396-0396-0396-000000000396",
+    "english": "step",
+    "japanese": "歩み",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0397-0397-0397-000000000397",
+    "english": "stone",
+    "japanese": "石",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0398-0398-0398-000000000398",
+    "english": "store",
+    "japanese": "店",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0399-0399-0399-000000000399",
+    "english": "story",
+    "japanese": "話",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0400-0400-0400-000000000400",
+    "english": "subject",
+    "japanese": "科目",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0401-0401-0401-000000000401",
+    "english": "sugar",
+    "japanese": "砂糖",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0402-0402-0402-000000000402",
+    "english": "summer",
+    "japanese": "夏",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0403-0403-0403-000000000403",
+    "english": "sun",
+    "japanese": "太陽",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0404-0404-0404-000000000404",
+    "english": "supper",
+    "japanese": "夕食",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0405-0405-0405-000000000405",
+    "english": "ticket",
+    "japanese": "チケット",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0406-0406-0406-000000000406",
+    "english": "tiger",
+    "japanese": "トラ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0407-0407-0407-000000000407",
+    "english": "tomato",
+    "japanese": "トマト",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0408-0408-0408-000000000408",
+    "english": "toy",
+    "japanese": "おもちゃ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0409-0409-0409-000000000409",
+    "english": "uncle",
+    "japanese": "叔父",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0410-0410-0410-000000000410",
+    "english": "uniform",
+    "japanese": "制服",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0411-0411-0411-000000000411",
+    "english": "vacation",
+    "japanese": "休暇",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0412-0412-0412-000000000412",
+    "english": "vegetable",
+    "japanese": "野菜",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0413-0413-0413-000000000413",
+    "english": "village",
+    "japanese": "村",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0414-0414-0414-000000000414",
+    "english": "voice",
+    "japanese": "声",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0415-0415-0415-000000000415",
+    "english": "wall",
+    "japanese": "壁",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0416-0416-0416-000000000416",
+    "english": "weather",
+    "japanese": "天気",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0417-0417-0417-000000000417",
+    "english": "weekend",
+    "japanese": "週末",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0418-0418-0418-000000000418",
+    "english": "wife",
+    "japanese": "妻",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0419-0419-0419-000000000419",
+    "english": "wind",
+    "japanese": "風",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0420-0420-0420-000000000420",
+    "english": "winter",
+    "japanese": "冬",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0421-0421-0421-000000000421",
+    "english": "zoo",
+    "japanese": "動物園",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0422-0422-0422-000000000422",
+    "english": "afternoon",
+    "japanese": "午後",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0423-0423-0423-000000000423",
+    "english": "arm",
+    "japanese": "腕",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0424-0424-0424-000000000424",
+    "english": "back",
+    "japanese": "背中",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0425-0425-0425-000000000425",
+    "english": "band",
+    "japanese": "バンド",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0426-0426-0426-000000000426",
+    "english": "bank",
+    "japanese": "銀行",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0427-0427-0427-000000000427",
+    "english": "boat",
+    "japanese": "ボート",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0428-0428-0428-000000000428",
+    "english": "bottle",
+    "japanese": "ボトル",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0429-0429-0429-000000000429",
+    "english": "camera",
+    "japanese": "カメラ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0430-0430-0430-000000000430",
+    "english": "chance",
+    "japanese": "チャンス",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0431-0431-0431-000000000431",
+    "english": "cheese",
+    "japanese": "チーズ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0432-0432-0432-000000000432",
+    "english": "chocolate",
+    "japanese": "チョコレート",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0433-0433-0433-000000000433",
+    "english": "computer",
+    "japanese": "コンピューター",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0434-0434-0434-000000000434",
+    "english": "floor",
+    "japanese": "床",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0435-0435-0435-000000000435",
+    "english": "fruit",
+    "japanese": "フルーツ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0436-0436-0436-000000000436",
+    "english": "head",
+    "japanese": "頭",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0437-0437-0437-000000000437",
+    "english": "homework",
+    "japanese": "宿題",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0438-0438-0438-000000000438",
+    "english": "horse",
+    "japanese": "馬",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0439-0439-0439-000000000439",
+    "english": "husband",
+    "japanese": "夫",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0440-0440-0440-000000000440",
+    "english": "neck",
+    "japanese": "首",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0441-0441-0441-000000000441",
+    "english": "nose",
+    "japanese": "鼻",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0442-0442-0442-000000000442",
+    "english": "pet",
+    "japanese": "ペット",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0443-0443-0443-000000000443",
+    "english": "pizza",
+    "japanese": "ピザ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0444-0444-0444-000000000444",
+    "english": "shirt",
+    "japanese": "シャツ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0445-0445-0445-000000000445",
+    "english": "afraid",
+    "japanese": "怖い",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0446-0446-0446-000000000446",
+    "english": "angry",
+    "japanese": "怒っている",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0447-0447-0447-000000000447",
+    "english": "beautiful",
+    "japanese": "美しい",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0448-0448-0448-000000000448",
+    "english": "boring",
+    "japanese": "退屈な",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0449-0449-0449-000000000449",
+    "english": "brave",
+    "japanese": "勇敢な",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0450-0450-0450-000000000450",
+    "english": "careful",
+    "japanese": "注意深い",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0451-0451-0451-000000000451",
+    "english": "cheap",
+    "japanese": "安い",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0452-0452-0452-000000000452",
+    "english": "cloudy",
+    "japanese": "曇りの",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0453-0453-0453-000000000453",
+    "english": "correct",
+    "japanese": "正しい",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0454-0454-0454-000000000454",
+    "english": "different",
+    "japanese": "異なる",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0455-0455-0455-000000000455",
+    "english": "difficult",
+    "japanese": "難しい",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0456-0456-0456-000000000456",
+    "english": "early",
+    "japanese": "早い",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0457-0457-0457-000000000457",
+    "english": "excited",
+    "japanese": "興奮している",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0458-0458-0458-000000000458",
+    "english": "expensive",
+    "japanese": "高い",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0459-0459-0459-000000000459",
+    "english": "famous",
+    "japanese": "有名な",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0460-0460-0460-000000000460",
+    "english": "fine",
+    "japanese": "良い",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0461-0461-0461-000000000461",
+    "english": "fresh",
+    "japanese": "新鮮な",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0462-0462-0462-000000000462",
+    "english": "funny",
+    "japanese": "面白い",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0463-0463-0463-000000000463",
+    "english": "heavy",
+    "japanese": "重い",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0464-0464-0464-000000000464",
+    "english": "high",
+    "japanese": "高い",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0465-0465-0465-000000000465",
+    "english": "hungry",
+    "japanese": "空腹の",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0466-0466-0466-000000000466",
+    "english": "important",
+    "japanese": "重要な",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0467-0467-0467-000000000467",
+    "english": "interesting",
+    "japanese": "面白い",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0468-0468-0468-000000000468",
+    "english": "late",
+    "japanese": "遅い",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0469-0469-0469-000000000469",
+    "english": "lazy",
+    "japanese": "怠け者の",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0470-0470-0470-000000000470",
+    "english": "loud",
+    "japanese": "うるさい",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0471-0471-0471-000000000471",
+    "english": "low",
+    "japanese": "低い",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0472-0472-0472-000000000472",
+    "english": "lucky",
+    "japanese": "運のいい",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0473-0473-0473-000000000473",
+    "english": "noisy",
+    "japanese": "騒がしい",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0474-0474-0474-000000000474",
+    "english": "poor",
+    "japanese": "貧しい",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0475-0475-0475-000000000475",
+    "english": "popular",
+    "japanese": "人気の",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0476-0476-0476-000000000476",
+    "english": "rainy",
+    "japanese": "雨の",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0477-0477-0477-000000000477",
+    "english": "ready",
+    "japanese": "準備ができた",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0478-0478-0478-000000000478",
+    "english": "rich",
+    "japanese": "豊かな",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0479-0479-0479-000000000479",
+    "english": "same",
+    "japanese": "同じ",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0480-0480-0480-000000000480",
+    "english": "slow",
+    "japanese": "遅い",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0481-0481-0481-000000000481",
+    "english": "soft",
+    "japanese": "柔らかい",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0482-0482-0482-000000000482",
+    "english": "special",
+    "japanese": "特別な",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0483-0483-0483-000000000483",
+    "english": "sunny",
+    "japanese": "晴れた",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0484-0484-0484-000000000484",
+    "english": "sure",
+    "japanese": "確かな",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0485-0485-0485-000000000485",
+    "english": "terrible",
+    "japanese": "ひどい",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0486-0486-0486-000000000486",
+    "english": "thirsty",
+    "japanese": "のどが渇いた",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0487-0487-0487-000000000487",
+    "english": "wonderful",
+    "japanese": "素晴らしい",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0488-0488-0488-000000000488",
+    "english": "already",
+    "japanese": "すでに",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0489-0489-0489-000000000489",
+    "english": "also",
+    "japanese": "また",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0490-0490-0490-000000000490",
+    "english": "always",
+    "japanese": "いつも",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0491-0491-0491-000000000491",
+    "english": "away",
+    "japanese": "離れて",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0492-0492-0492-000000000492",
+    "english": "carefully",
+    "japanese": "注意深く",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0493-0493-0493-000000000493",
+    "english": "enough",
+    "japanese": "十分に",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0494-0494-0494-000000000494",
+    "english": "everywhere",
+    "japanese": "至る所で",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0495-0495-0495-000000000495",
+    "english": "here",
+    "japanese": "ここに",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0496-0496-0496-000000000496",
+    "english": "just",
+    "japanese": "ちょうど",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0497-0497-0497-000000000497",
+    "english": "later",
+    "japanese": "後で",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0498-0498-0498-000000000498",
+    "english": "maybe",
+    "japanese": "たぶん",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0499-0499-0499-000000000499",
+    "english": "never",
+    "japanese": "決して~ない",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0500-0500-0500-000000000500",
+    "english": "often",
+    "japanese": "しばしば",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0501-0501-0501-000000000501",
+    "english": "once",
+    "japanese": "一度",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0502-0502-0502-000000000502",
+    "english": "outside",
+    "japanese": "外に",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0503-0503-0503-000000000503",
+    "english": "perhaps",
+    "japanese": "たぶん",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0504-0504-0504-000000000504",
+    "english": "quickly",
+    "japanese": "素早く",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0505-0505-0505-000000000505",
+    "english": "really",
+    "japanese": "本当に",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0506-0506-0506-000000000506",
+    "english": "slowly",
+    "japanese": "ゆっくりと",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0507-0507-0507-000000000507",
+    "english": "sometimes",
+    "japanese": "時々",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0508-0508-0508-000000000508",
+    "english": "soon",
+    "japanese": "すぐに",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0509-0509-0509-000000000509",
+    "english": "still",
+    "japanese": "まだ",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0510-0510-0510-000000000510",
+    "english": "surely",
+    "japanese": "確かに",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0511-0511-0511-000000000511",
+    "english": "there",
+    "japanese": "そこに",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0512-0512-0512-000000000512",
+    "english": "together",
+    "japanese": "一緒に",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0513-0513-0513-000000000513",
+    "english": "too",
+    "japanese": "も",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0514-0514-0514-000000000514",
+    "english": "tonight",
+    "japanese": "今夜",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0515-0515-0515-000000000515",
+    "english": "usually",
+    "japanese": "普通は",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0516-0516-0516-000000000516",
+    "english": "very",
+    "japanese": "とても",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "11500000-0300-0300-0300-000000000300",
+    "english": "accelerate",
+    "japanese": "加速する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0301-0301-0301-000000000301",
+    "english": "accommodate",
+    "japanese": "適応する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0302-0302-0302-000000000302",
+    "english": "accumulate",
+    "japanese": "蓄積する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0303-0303-0303-000000000303",
+    "english": "acknowledge",
+    "japanese": "認める",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0304-0304-0304-000000000304",
+    "english": "adhere",
+    "japanese": "固守する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0305-0305-0305-000000000305",
+    "english": "advocate",
+    "japanese": "主張する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0306-0306-0306-000000000306",
+    "english": "aggregate",
+    "japanese": "集計する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0307-0307-0307-000000000307",
+    "english": "alienate",
+    "japanese": "疎外する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0308-0308-0308-000000000308",
+    "english": "alleviate",
+    "japanese": "軽減する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0309-0309-0309-000000000309",
+    "english": "allude",
+    "japanese": "ほのめかす",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0310-0310-0310-000000000310",
+    "english": "alter",
+    "japanese": "変える",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0311-0311-0311-000000000311",
+    "english": "amplify",
+    "japanese": "増幅する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0312-0312-0312-000000000312",
+    "english": "analyze",
+    "japanese": "分析する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0313-0313-0313-000000000313",
+    "english": "anticipate",
+    "japanese": "予期する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0314-0314-0314-000000000314",
+    "english": "aspire",
+    "japanese": "熱望する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0315-0315-0315-000000000315",
+    "english": "assess",
+    "japanese": "評価する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0316-0316-0316-000000000316",
+    "english": "assimilate",
+    "japanese": "同化する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0317-0317-0317-000000000317",
+    "english": "attain",
+    "japanese": "達成する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0318-0318-0318-000000000318",
+    "english": "augment",
+    "japanese": "増大する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0319-0319-0319-000000000319",
+    "english": "authorize",
+    "japanese": "認可する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0320-0320-0320-000000000320",
+    "english": "broaden",
+    "japanese": "広げる",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0321-0321-0321-000000000321",
+    "english": "cease",
+    "japanese": "やめる",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0322-0322-0322-000000000322",
+    "english": "clarify",
+    "japanese": "明確にする",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0323-0323-0323-000000000323",
+    "english": "classify",
+    "japanese": "分類する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0324-0324-0324-000000000324",
+    "english": "collaborate",
+    "japanese": "協力する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0325-0325-0325-000000000325",
+    "english": "compel",
+    "japanese": "強制する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0326-0326-0326-000000000326",
+    "english": "complement",
+    "japanese": "補完する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0327-0327-0327-000000000327",
+    "english": "comply",
+    "japanese": "従う",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0328-0328-0328-000000000328",
+    "english": "confront",
+    "japanese": "直面する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0329-0329-0329-000000000329",
+    "english": "contrast",
+    "japanese": "対比する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0330-0330-0330-000000000330",
+    "english": "convene",
+    "japanese": "召集する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0331-0331-0331-000000000331",
+    "english": "converge",
+    "japanese": "収束する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0332-0332-0332-000000000332",
+    "english": "cooperate",
+    "japanese": "協力する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0333-0333-0333-000000000333",
+    "english": "coordinate",
+    "japanese": "調整する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0334-0334-0334-000000000334",
+    "english": "delegate",
+    "japanese": "委任する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0335-0335-0335-000000000335",
+    "english": "demonstrate",
+    "japanese": "証明する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0336-0336-0336-000000000336",
+    "english": "depict",
+    "japanese": "描く",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0337-0337-0337-000000000337",
+    "english": "deter",
+    "japanese": "抑止する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0338-0338-0338-000000000338",
+    "english": "diagnose",
+    "japanese": "診断する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0339-0339-0339-000000000339",
+    "english": "differentiate",
+    "japanese": "区別する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0340-0340-0340-000000000340",
+    "english": "distribute",
+    "japanese": "分配する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0341-0341-0341-000000000341",
+    "english": "eliminate",
+    "japanese": "排除する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0342-0342-0342-000000000342",
+    "english": "emerge",
+    "japanese": "出現する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0343-0343-0343-000000000343",
+    "english": "encounter",
+    "japanese": "遭遇する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0344-0344-0344-000000000344",
+    "english": "enhance",
+    "japanese": "高める",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0345-0345-0345-000000000345",
+    "english": "escalate",
+    "japanese": "拡大する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0346-0346-0346-000000000346",
+    "english": "estimate",
+    "japanese": "推定する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0347-0347-0347-000000000347",
+    "english": "evaluate",
+    "japanese": "評価する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0348-0348-0348-000000000348",
+    "english": "exemplify",
+    "japanese": "例証する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0349-0349-0349-000000000349",
+    "english": "expose",
+    "japanese": "露出する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0350-0350-0350-000000000350",
+    "english": "facilitate",
+    "japanese": "促進する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0351-0351-0351-000000000351",
+    "english": "formulate",
+    "japanese": "形成する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0352-0352-0352-000000000352",
+    "english": "harmonize",
+    "japanese": "調和させる",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0353-0353-0353-000000000353",
+    "english": "identify",
+    "japanese": "識別する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0354-0354-0354-000000000354",
+    "english": "implement",
+    "japanese": "実施する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0355-0355-0355-000000000355",
+    "english": "impose",
+    "japanese": "課す",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0356-0356-0356-000000000356",
+    "english": "incentivize",
+    "japanese": "動機づける",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0357-0357-0357-000000000357",
+    "english": "infer",
+    "japanese": "推論する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0358-0358-0358-000000000358",
+    "english": "integrate",
+    "japanese": "統合する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0359-0359-0359-000000000359",
+    "english": "interpret",
+    "japanese": "解釈する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0360-0360-0360-000000000360",
+    "english": "involve",
+    "japanese": "巻き込む",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0361-0361-0361-000000000361",
+    "english": "justify",
+    "japanese": "正当化する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0362-0362-0362-000000000362",
+    "english": "leverage",
+    "japanese": "活用する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0363-0363-0363-000000000363",
+    "english": "maintain",
+    "japanese": "維持する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0364-0364-0364-000000000364",
+    "english": "manifest",
+    "japanese": "明らかにする",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0365-0365-0365-000000000365",
+    "english": "minimize",
+    "japanese": "最小化する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0366-0366-0366-000000000366",
+    "english": "mimic",
+    "japanese": "模倣する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0367-0367-0367-000000000367",
+    "english": "modify",
+    "japanese": "修正する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0368-0368-0368-000000000368",
+    "english": "monitor",
+    "japanese": "監視する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0369-0369-0369-000000000369",
+    "english": "navigate",
+    "japanese": "舵取りする",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0370-0370-0370-000000000370",
+    "english": "obtain",
+    "japanese": "得る",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0371-0371-0371-000000000371",
+    "english": "oppose",
+    "japanese": "反対する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0372-0372-0372-000000000372",
+    "english": "optimize",
+    "japanese": "最適化する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0373-0373-0373-000000000373",
+    "english": "overcome",
+    "japanese": "克服する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0374-0374-0374-000000000374",
+    "english": "overhaul",
+    "japanese": "刷新する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0375-0375-0375-000000000375",
+    "english": "participate",
+    "japanese": "参加する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0376-0376-0376-000000000376",
+    "english": "prioritize",
+    "japanese": "優先する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0377-0377-0377-000000000377",
+    "english": "proceed",
+    "japanese": "進む",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0378-0378-0378-000000000378",
+    "english": "promote",
+    "japanese": "促進する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0379-0379-0379-000000000379",
+    "english": "propose",
+    "japanese": "提案する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0380-0380-0380-000000000380",
+    "english": "pursue",
+    "japanese": "追求する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0381-0381-0381-000000000381",
+    "english": "reassess",
+    "japanese": "再評価する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0382-0382-0382-000000000382",
+    "english": "reconsider",
+    "japanese": "再考する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0383-0383-0383-000000000383",
+    "english": "reform",
+    "japanese": "改革する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0384-0384-0384-000000000384",
+    "english": "reiterate",
+    "japanese": "繰り返す",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0385-0385-0385-000000000385",
+    "english": "relocate",
+    "japanese": "移転する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0386-0386-0386-000000000386",
+    "english": "resolve",
+    "japanese": "解決する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0387-0387-0387-000000000387",
+    "english": "restore",
+    "japanese": "回復する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0388-0388-0388-000000000388",
+    "english": "streamline",
+    "japanese": "合理化する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0389-0389-0389-000000000389",
+    "english": "sustain",
+    "japanese": "維持する",
+    "category": "動詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0390-0390-0390-000000000390",
+    "english": "abundance",
+    "japanese": "豊富さ",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0391-0391-0391-000000000391",
+    "english": "agenda",
+    "japanese": "議題",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0392-0392-0392-000000000392",
+    "english": "alliance",
+    "japanese": "同盟",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0393-0393-0393-000000000393",
+    "english": "amendment",
+    "japanese": "修正案",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0394-0394-0394-000000000394",
+    "english": "analysis",
+    "japanese": "分析",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0395-0395-0395-000000000395",
+    "english": "anticipation",
+    "japanese": "予期",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0396-0396-0396-000000000396",
+    "english": "assumption",
+    "japanese": "仮定",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0397-0397-0397-000000000397",
+    "english": "awareness",
+    "japanese": "意識",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0398-0398-0398-000000000398",
+    "english": "backlash",
+    "japanese": "反発",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0399-0399-0399-000000000399",
+    "english": "benchmark",
+    "japanese": "基準",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0400-0400-0400-000000000400",
+    "english": "boundary",
+    "japanese": "境界",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0401-0401-0401-000000000401",
+    "english": "breakthrough",
+    "japanese": "突破口",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0402-0402-0402-000000000402",
+    "english": "caliber",
+    "japanese": "能力水準",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0403-0403-0403-000000000403",
+    "english": "capacity",
+    "japanese": "能力",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0404-0404-0404-000000000404",
+    "english": "catalyst",
+    "japanese": "触媒",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0405-0405-0405-000000000405",
+    "english": "certainty",
+    "japanese": "確実性",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0406-0406-0406-000000000406",
+    "english": "challenge",
+    "japanese": "課題",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0407-0407-0407-000000000407",
+    "english": "characteristic",
+    "japanese": "特性",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0408-0408-0408-000000000408",
+    "english": "circumstance",
+    "japanese": "状況",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0409-0409-0409-000000000409",
+    "english": "clarity",
+    "japanese": "明確さ",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0410-0410-0410-000000000410",
+    "english": "coherence",
+    "japanese": "一貫性",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0411-0411-0411-000000000411",
+    "english": "cohesion",
+    "japanese": "結束",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0412-0412-0412-000000000412",
+    "english": "commitment",
+    "japanese": "取り組み",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0413-0413-0413-000000000413",
+    "english": "compassion",
+    "japanese": "思いやり",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0414-0414-0414-000000000414",
+    "english": "competitiveness",
+    "japanese": "競争力",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0415-0415-0415-000000000415",
+    "english": "compromise",
+    "japanese": "妥協",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0416-0416-0416-000000000416",
+    "english": "concentration",
+    "japanese": "集中",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0417-0417-0417-000000000417",
+    "english": "concern",
+    "japanese": "懸念",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0418-0418-0418-000000000418",
+    "english": "confidence",
+    "japanese": "自信",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0419-0419-0419-000000000419",
+    "english": "conflict",
+    "japanese": "紛争",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0420-0420-0420-000000000420",
+    "english": "consequence",
+    "japanese": "結果",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0421-0421-0421-000000000421",
+    "english": "consideration",
+    "japanese": "考慮",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0422-0422-0422-000000000422",
+    "english": "consistency",
+    "japanese": "一貫性",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0423-0423-0423-000000000423",
+    "english": "constraint",
+    "japanese": "制約",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0424-0424-0424-000000000424",
+    "english": "consumption",
+    "japanese": "消費",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0425-0425-0425-000000000425",
+    "english": "context",
+    "japanese": "文脈",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0426-0426-0426-000000000426",
+    "english": "contribution",
+    "japanese": "貢献",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0427-0427-0427-000000000427",
+    "english": "conviction",
+    "japanese": "確信",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0428-0428-0428-000000000428",
+    "english": "cooperation",
+    "japanese": "協力",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0429-0429-0429-000000000429",
+    "english": "criterion",
+    "japanese": "基準",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0430-0430-0430-000000000430",
+    "english": "criticism",
+    "japanese": "批判",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0431-0431-0431-000000000431",
+    "english": "deficiency",
+    "japanese": "不足",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0432-0432-0432-000000000432",
+    "english": "definition",
+    "japanese": "定義",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0433-0433-0433-000000000433",
+    "english": "demand",
+    "japanese": "需要",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0434-0434-0434-000000000434",
+    "english": "dependence",
+    "japanese": "依存",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0435-0435-0435-000000000435",
+    "english": "deterrence",
+    "japanese": "抑止力",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0436-0436-0436-000000000436",
+    "english": "dignity",
+    "japanese": "尊厳",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0437-0437-0437-000000000437",
+    "english": "dilemma",
+    "japanese": "ジレンマ",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0438-0438-0438-000000000438",
+    "english": "discipline",
+    "japanese": "規律",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0439-0439-0439-000000000439",
+    "english": "discourse",
+    "japanese": "議論",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0440-0440-0440-000000000440",
+    "english": "discrepancy",
+    "japanese": "矛盾",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0441-0441-0441-000000000441",
+    "english": "dissent",
+    "japanese": "異議",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0442-0442-0442-000000000442",
+    "english": "diversity",
+    "japanese": "多様性",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0443-0443-0443-000000000443",
+    "english": "efficiency",
+    "japanese": "効率",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0444-0444-0444-000000000444",
+    "english": "empathy",
+    "japanese": "共感",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0445-0445-0445-000000000445",
+    "english": "emphasis",
+    "japanese": "強調",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0446-0446-0446-000000000446",
+    "english": "entitlement",
+    "japanese": "権利",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0447-0447-0447-000000000447",
+    "english": "equity",
+    "japanese": "公平性",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0448-0448-0448-000000000448",
+    "english": "evolution",
+    "japanese": "進化",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0449-0449-0449-000000000449",
+    "english": "exclusion",
+    "japanese": "排除",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0450-0450-0450-000000000450",
+    "english": "expectation",
+    "japanese": "期待",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0451-0451-0451-000000000451",
+    "english": "expenditure",
+    "japanese": "支出",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0452-0452-0452-000000000452",
+    "english": "exploitation",
+    "japanese": "搾取",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0453-0453-0453-000000000453",
+    "english": "exposure",
+    "japanese": "露出",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0454-0454-0454-000000000454",
+    "english": "fallacy",
+    "japanese": "誤謬",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0455-0455-0455-000000000455",
+    "english": "fidelity",
+    "japanese": "忠実さ",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0456-0456-0456-000000000456",
+    "english": "foundation",
+    "japanese": "基盤",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0457-0457-0457-000000000457",
+    "english": "framework",
+    "japanese": "枠組み",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0458-0458-0458-000000000458",
+    "english": "friction",
+    "japanese": "摩擦",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0459-0459-0459-000000000459",
+    "english": "frustration",
+    "japanese": "欲求不満",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0460-0460-0460-000000000460",
+    "english": "gap",
+    "japanese": "格差",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0461-0461-0461-000000000461",
+    "english": "guideline",
+    "japanese": "指針",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0462-0462-0462-000000000462",
+    "english": "hegemony",
+    "japanese": "覇権",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0463-0463-0463-000000000463",
+    "english": "heritage",
+    "japanese": "遺産",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0464-0464-0464-000000000464",
+    "english": "implication",
+    "japanese": "含意",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0465-0465-0465-000000000465",
+    "english": "inconsistency",
+    "japanese": "矛盾",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0466-0466-0466-000000000466",
+    "english": "indicator",
+    "japanese": "指標",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0467-0467-0467-000000000467",
+    "english": "influence",
+    "japanese": "影響",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0468-0468-0468-000000000468",
+    "english": "initiative",
+    "japanese": "主導権",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0469-0469-0469-000000000469",
+    "english": "insight",
+    "japanese": "洞察",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0470-0470-0470-000000000470",
+    "english": "integrity",
+    "japanese": "誠実さ",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0471-0471-0471-000000000471",
+    "english": "interpretation",
+    "japanese": "解釈",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0472-0472-0472-000000000472",
+    "english": "investigation",
+    "japanese": "調査",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0473-0473-0473-000000000473",
+    "english": "isolation",
+    "japanese": "孤立",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0474-0474-0474-000000000474",
+    "english": "justification",
+    "japanese": "正当化",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0475-0475-0475-000000000475",
+    "english": "leadership",
+    "japanese": "リーダーシップ",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0476-0476-0476-000000000476",
+    "english": "legacy",
+    "japanese": "遺産",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0477-0477-0477-000000000477",
+    "english": "likelihood",
+    "japanese": "可能性",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0478-0478-0478-000000000478",
+    "english": "literacy",
+    "japanese": "識字率",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0479-0479-0479-000000000479",
+    "english": "logic",
+    "japanese": "論理",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0480-0480-0480-000000000480",
+    "english": "loyalty",
+    "japanese": "忠誠心",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0481-0481-0481-000000000481",
+    "english": "magnitude",
+    "japanese": "規模",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0482-0482-0482-000000000482",
+    "english": "mandate",
+    "japanese": "命令",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0483-0483-0483-000000000483",
+    "english": "meritocracy",
+    "japanese": "能力主義",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0484-0484-0484-000000000484",
+    "english": "mobilization",
+    "japanese": "動員",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0485-0485-0485-000000000485",
+    "english": "moratorium",
+    "japanese": "一時停止",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0486-0486-0486-000000000486",
+    "english": "motivation",
+    "japanese": "動機",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0487-0487-0487-000000000487",
+    "english": "municipality",
+    "japanese": "市町村",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0488-0488-0488-000000000488",
+    "english": "narrative",
+    "japanese": "物語",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0489-0489-0489-000000000489",
+    "english": "norm",
+    "japanese": "規範",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0490-0490-0490-000000000490",
+    "english": "obstacle",
+    "japanese": "障害",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0491-0491-0491-000000000491",
+    "english": "outcome",
+    "japanese": "結果",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0492-0492-0492-000000000492",
+    "english": "output",
+    "japanese": "生産量",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0493-0493-0493-000000000493",
+    "english": "perspective",
+    "japanese": "視点",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0494-0494-0494-000000000494",
+    "english": "polarization",
+    "japanese": "二極化",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0495-0495-0495-000000000495",
+    "english": "potential",
+    "japanese": "可能性",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0496-0496-0496-000000000496",
+    "english": "poverty",
+    "japanese": "貧困",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0497-0497-0497-000000000497",
+    "english": "practice",
+    "japanese": "実践",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0498-0498-0498-000000000498",
+    "english": "precedent",
+    "japanese": "先例",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0499-0499-0499-000000000499",
+    "english": "priority",
+    "japanese": "優先事項",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0500-0500-0500-000000000500",
+    "english": "procedure",
+    "japanese": "手順",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0501-0501-0501-000000000501",
+    "english": "productivity",
+    "japanese": "生産性",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0502-0502-0502-000000000502",
+    "english": "progress",
+    "japanese": "進歩",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0503-0503-0503-000000000503",
+    "english": "proportion",
+    "japanese": "割合",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0504-0504-0504-000000000504",
+    "english": "provocation",
+    "japanese": "挑発",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0505-0505-0505-000000000505",
+    "english": "recognition",
+    "japanese": "認識",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0506-0506-0506-000000000506",
+    "english": "redundancy",
+    "japanese": "余剰",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0507-0507-0507-000000000507",
+    "english": "resource",
+    "japanese": "資源",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0508-0508-0508-000000000508",
+    "english": "restitution",
+    "japanese": "返還",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0509-0509-0509-000000000509",
+    "english": "retribution",
+    "japanese": "報復",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0510-0510-0510-000000000510",
+    "english": "rigidity",
+    "japanese": "硬直性",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0511-0511-0511-000000000511",
+    "english": "solidarity",
+    "japanese": "連帯",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0512-0512-0512-000000000512",
+    "english": "stagnation",
+    "japanese": "停滞",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0513-0513-0513-000000000513",
+    "english": "stipulation",
+    "japanese": "条件",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0514-0514-0514-000000000514",
+    "english": "strategy",
+    "japanese": "戦略",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0515-0515-0515-000000000515",
+    "english": "symbiosis",
+    "japanese": "共生",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0516-0516-0516-000000000516",
+    "english": "tendency",
+    "japanese": "傾向",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0517-0517-0517-000000000517",
+    "english": "trajectory",
+    "japanese": "軌跡",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0518-0518-0518-000000000518",
+    "english": "turmoil",
+    "japanese": "混乱",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0519-0519-0519-000000000519",
+    "english": "upheaval",
+    "japanese": "激変",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0520-0520-0520-000000000520",
+    "english": "veto",
+    "japanese": "拒否権",
+    "category": "名詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0521-0521-0521-000000000521",
+    "english": "abstract",
+    "japanese": "抽象的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0522-0522-0522-000000000522",
+    "english": "accountable",
+    "japanese": "責任ある",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0523-0523-0523-000000000523",
+    "english": "adaptable",
+    "japanese": "適応できる",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0524-0524-0524-000000000524",
+    "english": "adequate",
+    "japanese": "十分な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0525-0525-0525-000000000525",
+    "english": "adjacent",
+    "japanese": "隣接した",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0526-0526-0526-000000000526",
+    "english": "affordable",
+    "japanese": "手頃な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0527-0527-0527-000000000527",
+    "english": "aggressive",
+    "japanese": "積極的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0528-0528-0528-000000000528",
+    "english": "ambitious",
+    "japanese": "野心的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0529-0529-0529-000000000529",
+    "english": "analogous",
+    "japanese": "類似した",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0530-0530-0530-000000000530",
+    "english": "approximate",
+    "japanese": "おおよその",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0531-0531-0531-000000000531",
+    "english": "assertive",
+    "japanese": "断定的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0532-0532-0532-000000000532",
+    "english": "authentic",
+    "japanese": "本物の",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0533-0533-0533-000000000533",
+    "english": "autonomous",
+    "japanese": "自律的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0534-0534-0534-000000000534",
+    "english": "authoritative",
+    "japanese": "権威ある",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0535-0535-0535-000000000535",
+    "english": "beneficial",
+    "japanese": "有益な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0536-0536-0536-000000000536",
+    "english": "candid",
+    "japanese": "率直な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0537-0537-0537-000000000537",
+    "english": "categorical",
+    "japanese": "明確な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0538-0538-0538-000000000538",
+    "english": "challenging",
+    "japanese": "困難な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0539-0539-0539-000000000539",
+    "english": "chronic",
+    "japanese": "慢性的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0540-0540-0540-000000000540",
+    "english": "coercive",
+    "japanese": "強制的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0541-0541-0541-000000000541",
+    "english": "cohesive",
+    "japanese": "結束した",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0542-0542-0542-000000000542",
+    "english": "collective",
+    "japanese": "集団的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0543-0543-0543-000000000543",
+    "english": "comparable",
+    "japanese": "比較可能な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0544-0544-0544-000000000544",
+    "english": "competent",
+    "japanese": "有能な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0545-0545-0545-000000000545",
+    "english": "comprehensive",
+    "japanese": "包括的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0546-0546-0546-000000000546",
+    "english": "conclusive",
+    "japanese": "決定的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0547-0547-0547-000000000547",
+    "english": "congruent",
+    "japanese": "一致した",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0548-0548-0548-000000000548",
+    "english": "consistent",
+    "japanese": "一貫した",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0549-0549-0549-000000000549",
+    "english": "constructive",
+    "japanese": "建設的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0550-0550-0550-000000000550",
+    "english": "contingent",
+    "japanese": "条件次第の",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0551-0551-0551-000000000551",
+    "english": "conventional",
+    "japanese": "従来の",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0552-0552-0552-000000000552",
+    "english": "cooperative",
+    "japanese": "協力的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0553-0553-0553-000000000553",
+    "english": "critical",
+    "japanese": "重要な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0554-0554-0554-000000000554",
+    "english": "decisive",
+    "japanese": "決定的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0555-0555-0555-000000000555",
+    "english": "deficient",
+    "japanese": "不足した",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0556-0556-0556-000000000556",
+    "english": "deliberate",
+    "japanese": "意図的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0557-0557-0557-000000000557",
+    "english": "discriminatory",
+    "japanese": "差別的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0558-0558-0558-000000000558",
+    "english": "dominant",
+    "japanese": "支配的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0559-0559-0559-000000000559",
+    "english": "dynamic",
+    "japanese": "動的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0560-0560-0560-000000000560",
+    "english": "effective",
+    "japanese": "効果的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0561-0561-0561-000000000561",
+    "english": "efficient",
+    "japanese": "効率的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0562-0562-0562-000000000562",
+    "english": "eligible",
+    "japanese": "資格のある",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0563-0563-0563-000000000563",
+    "english": "equivalent",
+    "japanese": "同等の",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0564-0564-0564-000000000564",
+    "english": "ethical",
+    "japanese": "倫理的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0565-0565-0565-000000000565",
+    "english": "evident",
+    "japanese": "明らかな",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0566-0566-0566-000000000566",
+    "english": "exclusive",
+    "japanese": "独占的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0567-0567-0567-000000000567",
+    "english": "extensive",
+    "japanese": "広範な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0568-0568-0568-000000000568",
+    "english": "fundamental",
+    "japanese": "基本的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0569-0569-0569-000000000569",
+    "english": "genuine",
+    "japanese": "本物の",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0570-0570-0570-000000000570",
+    "english": "global",
+    "japanese": "世界的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0571-0571-0571-000000000571",
+    "english": "gradual",
+    "japanese": "段階的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0572-0572-0572-000000000572",
+    "english": "impartial",
+    "japanese": "公平な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0573-0573-0573-000000000573",
+    "english": "imperative",
+    "japanese": "必須の",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0574-0574-0574-000000000574",
+    "english": "inconclusive",
+    "japanese": "決定的でない",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0575-0575-0575-000000000575",
+    "english": "inevitable",
+    "japanese": "避けられない",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0576-0576-0576-000000000576",
+    "english": "influential",
+    "japanese": "影響力のある",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0577-0577-0577-000000000577",
+    "english": "innovative",
+    "japanese": "革新的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0578-0578-0578-000000000578",
+    "english": "intense",
+    "japanese": "激しい",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0579-0579-0579-000000000579",
+    "english": "invaluable",
+    "japanese": "非常に貴重な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0580-0580-0580-000000000580",
+    "english": "irrefutable",
+    "japanese": "反論できない",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0581-0581-0581-000000000581",
+    "english": "logical",
+    "japanese": "論理的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0582-0582-0582-000000000582",
+    "english": "mandatory",
+    "japanese": "義務的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0583-0583-0583-000000000583",
+    "english": "meticulous",
+    "japanese": "細心の",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0584-0584-0584-000000000584",
+    "english": "mutual",
+    "japanese": "相互の",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0585-0585-0585-000000000585",
+    "english": "neutral",
+    "japanese": "中立的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0586-0586-0586-000000000586",
+    "english": "nuanced",
+    "japanese": "微妙な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0587-0587-0587-000000000587",
+    "english": "obsolete",
+    "japanese": "時代遅れの",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0588-0588-0588-000000000588",
+    "english": "omnipotent",
+    "japanese": "全能の",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0589-0589-0589-000000000589",
+    "english": "optimal",
+    "japanese": "最適な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0590-0590-0590-000000000590",
+    "english": "organic",
+    "japanese": "有機的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0591-0591-0591-000000000591",
+    "english": "paramount",
+    "japanese": "最重要の",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0592-0592-0592-000000000592",
+    "english": "perfunctory",
+    "japanese": "おざなりな",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0593-0593-0593-000000000593",
+    "english": "peripheral",
+    "japanese": "周辺的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0594-0594-0594-000000000594",
+    "english": "pervasive",
+    "japanese": "広まっている",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0595-0595-0595-000000000595",
+    "english": "plausible",
+    "japanese": "もっともらしい",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0596-0596-0596-000000000596",
+    "english": "precarious",
+    "japanese": "不安定な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0597-0597-0597-000000000597",
+    "english": "prevalent",
+    "japanese": "普及している",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0598-0598-0598-000000000598",
+    "english": "prolific",
+    "japanese": "多産な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0599-0599-0599-000000000599",
+    "english": "proportional",
+    "japanese": "比例した",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0600-0600-0600-000000000600",
+    "english": "rational",
+    "japanese": "合理的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0601-0601-0601-000000000601",
+    "english": "realistic",
+    "japanese": "現実的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0602-0602-0602-000000000602",
+    "english": "relevant",
+    "japanese": "関連した",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0603-0603-0603-000000000603",
+    "english": "reliable",
+    "japanese": "信頼できる",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0604-0604-0604-000000000604",
+    "english": "resilient",
+    "japanese": "回復力のある",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0605-0605-0605-000000000605",
+    "english": "rigorous",
+    "japanese": "厳密な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0606-0606-0606-000000000606",
+    "english": "skeptical",
+    "japanese": "懐疑的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0607-0607-0607-000000000607",
+    "english": "stable",
+    "japanese": "安定した",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0608-0608-0608-000000000608",
+    "english": "stringent",
+    "japanese": "厳格な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0609-0609-0609-000000000609",
+    "english": "sufficient",
+    "japanese": "十分な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0610-0610-0610-000000000610",
+    "english": "superfluous",
+    "japanese": "余分な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0611-0611-0611-000000000611",
+    "english": "sustainable",
+    "japanese": "持続可能な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0612-0612-0612-000000000612",
+    "english": "systematic",
+    "japanese": "体系的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0613-0613-0613-000000000613",
+    "english": "uniform",
+    "japanese": "均一な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
+  },
+  {
+    "id": "11500000-0614-0614-0614-000000000614",
+    "english": "universal",
+    "japanese": "普遍的な",
+    "category": "形容詞",
+    "level": "準1級",
+    "isLearned": false,
+    "reviewCount": 0
   }
 ]

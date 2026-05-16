@@ -22,12 +22,6 @@ struct SettingsView: View {
                 }
                 .buttonStyle(GlassButtonStyle())
 
-                NavigationLink {
-                    AccountView()
-                } label: {
-                    Text("アカウント")
-                }
-                .buttonStyle(GlassButtonStyle())
             }
             .padding(.horizontal)
         }

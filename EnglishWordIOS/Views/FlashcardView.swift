@@ -46,6 +46,8 @@ struct FlashcardView: View {
                     .foregroundStyle(themeManager.current.foreground)
                     .multilineTextAlignment(.center)
 
+                PartOfSpeechBadge(category: word.category)
+
                 if viewModel.isShowingAnswer {
                     Divider()
                         .overlay(themeManager.current.glassStroke)
@@ -54,10 +56,6 @@ struct FlashcardView: View {
                         .font(.title2)
                         .foregroundStyle(themeManager.current.foreground.opacity(0.8))
                         .multilineTextAlignment(.center)
-
-                    Text(word.category)
-                        .font(.caption)
-                        .foregroundStyle(themeManager.current.foreground.opacity(0.5))
                 }
             }
             .padding(28)

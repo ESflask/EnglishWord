@@ -1,0 +1,271 @@
+/* ── リセット & ベース ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --radius-btn: 16px;
+  --radius-card: 20px;
+  --transition: 0.12s ease-out;
+}
+
+/* ── テーマ変数 ── */
+body.dark {
+  --bg: #000;
+  --fg: #fff;
+  --glass-fill: rgba(255,255,255,0.10);
+  --glass-stroke: rgba(255,255,255,0.25);
+  --divider: rgba(255,255,255,0.2);
+  --nav-bg: rgba(0,0,0,0.7);
+}
+body.light {
+  --bg: #f2f2f7;
+  --fg: #000;
+  --glass-fill: rgba(0,0,0,0.07);
+  --glass-stroke: rgba(0,0,0,0.18);
+  --divider: rgba(0,0,0,0.15);
+  --nav-bg: rgba(242,242,247,0.85);
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  min-height: 100dvh;
+  transition: background var(--transition), color var(--transition);
+}
+
+/* ── 画面管理 ── */
+.screen { display: none; min-height: 100dvh; flex-direction: column; }
+.screen.active { display: flex; }
+
+/* ── ナビゲーションバー ── */
+.nav-bar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  padding: 12px 16px;
+  background: var(--nav-bg);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 0.5px solid var(--glass-stroke);
+  z-index: 10;
+  min-height: 52px;
+}
+.back-btn {
+  background: none;
+  border: none;
+  color: var(--fg);
+  font-size: 17px;
+  cursor: pointer;
+  padding: 4px 8px 4px 0;
+  opacity: 0.85;
+}
+.back-btn:hover { opacity: 1; }
+.nav-title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 17px;
+  font-weight: 600;
+  pointer-events: none;
+}
+
+/* ── レイアウト ── */
+.center-layout {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  padding: 32px 32px 48px;
+}
+.scroll-layout {
+  flex: 1;
+  overflow-y: auto;
+  padding: 24px 32px 48px;
+}
+.flashcard-layout {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  padding: 24px 24px 32px;
+  gap: 20px;
+}
+.settings-layout {
+  padding: 24px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* ── タイトル ── */
+.app-title {
+  font-size: 48px;
+  font-weight: 700;
+  letter-spacing: -1px;
+}
+
+/* ── ガラスボタン ── */
+.btn-group {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  width: 100%;
+  max-width: 360px;
+}
+.glass-btn {
+  width: 100%;
+  padding: 16px;
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--fg);
+  background: var(--glass-fill);
+  border: 0.8px solid var(--glass-stroke);
+  border-radius: var(--radius-btn);
+  cursor: pointer;
+  transition: transform var(--transition), opacity var(--transition);
+}
+.glass-btn:hover  { opacity: 0.85; }
+.glass-btn:active { transform: scale(0.97); opacity: 0.75; }
+
+/* ── フラッシュカード ── */
+.card {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  background: var(--glass-fill);
+  border: 0.8px solid var(--glass-stroke);
+  border-radius: var(--radius-card);
+  padding: 32px 24px;
+  min-height: 220px;
+  text-align: center;
+}
+.card-english {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.card-divider {
+  width: 100%;
+  border: none;
+  border-top: 0.5px solid var(--divider);
+  margin: 4px 0;
+}
+.card-japanese {
+  font-size: 22px;
+  opacity: 0.8;
+}
+
+/* ── 品詞バッジ ── */
+.pos-badge {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 999px;
+}
+.pos-動詞    { color: #f97316; background: rgba(249,115,22,0.15); border: 0.8px solid rgba(249,115,22,0.4); }
+.pos-名詞    { color: #3b82f6; background: rgba(59,130,246,0.15); border: 0.8px solid rgba(59,130,246,0.4); }
+.pos-形容詞  { color: #22c55e; background: rgba(34,197,94,0.15);  border: 0.8px solid rgba(34,197,94,0.4);  }
+.pos-副詞    { color: #a855f7; background: rgba(168,85,247,0.15); border: 0.8px solid rgba(168,85,247,0.4); }
+.pos-default { color: #6b7280; background: rgba(107,114,128,0.15); border: 0.8px solid rgba(107,114,128,0.4); }
+
+/* ── 正解・不正解ボタン ── */
+.judge-row {
+  display: flex;
+  gap: 16px;
+}
+.judge-btn {
+  flex: 1;
+  padding: 16px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: var(--radius-btn);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  transition: transform var(--transition), opacity var(--transition);
+}
+.judge-btn:active { transform: scale(0.97); opacity: 0.75; }
+.judge-btn.incorrect { color: #ef4444; background: rgba(239,68,68,0.12); }
+.judge-btn.correct   { color: #22c55e; background: rgba(34,197,94,0.12);  }
+.judge-icon { font-size: 18px; }
+
+/* ── プログレスバー ── */
+.progress-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.progress-bar {
+  flex: 1;
+  height: 6px;
+  background: var(--glass-fill);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.progress-fill {
+  height: 100%;
+  background: #3b82f6;
+  border-radius: 999px;
+  transition: width 0.2s ease;
+  width: 0%;
+}
+.progress-label {
+  font-size: 13px;
+  opacity: 0.6;
+  white-space: nowrap;
+  min-width: 48px;
+  text-align: right;
+}
+
+/* ── 結果画面 ── */
+.result-icon { font-size: 72px; }
+.result-title { font-size: 36px; font-weight: 700; }
+.result-score { font-size: 22px; opacity: 0.7; }
+
+/* ── 設定画面 ── */
+.glass-card {
+  background: var(--glass-fill);
+  border: 0.8px solid var(--glass-stroke);
+  border-radius: var(--radius-card);
+  padding: 16px 20px;
+}
+.settings-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.settings-label { font-size: 17px; font-weight: 600; }
+.theme-toggle {
+  display: flex;
+  gap: 8px;
+}
+.theme-btn {
+  padding: 8px 14px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--fg);
+  background: transparent;
+  border: 0.8px solid var(--glass-stroke);
+  border-radius: 10px;
+  cursor: pointer;
+  opacity: 0.6;
+  transition: opacity var(--transition), background var(--transition);
+}
+.theme-btn.active {
+  background: var(--glass-fill);
+  opacity: 1;
+  border-color: var(--fg);
+}
+
+/* ── ユーティリティ ── */
+.hidden { display: none !important; }

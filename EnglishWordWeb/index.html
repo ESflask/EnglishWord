@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>英単語</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark">
+
+  <!-- ホーム画面 -->
+  <div id="screen-home" class="screen active">
+    <div class="center-layout">
+      <h1 class="app-title">英単語</h1>
+      <div class="btn-group">
+        <button class="glass-btn" onclick="showScreen('level-select')">スタート</button>
+        <button class="glass-btn" onclick="showScreen('settings')">設定</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- レベル選択 -->
+  <div id="screen-level-select" class="screen">
+    <div class="nav-bar">
+      <button class="back-btn" onclick="showScreen('home')">&#8249; ホーム</button>
+      <span class="nav-title">レベル選択</span>
+    </div>
+    <div class="scroll-layout">
+      <div class="btn-group">
+        <button class="glass-btn" onclick="startSession('4級')">4級</button>
+        <button class="glass-btn" onclick="startSession('3級')">3級</button>
+        <button class="glass-btn" onclick="startSession('準2級')">準2級</button>
+        <button class="glass-btn" onclick="startSession('2級')">2級</button>
+        <button class="glass-btn" onclick="startSession('準1級')">準1級</button>
+        <button class="glass-btn" onclick="startSession('1級')">1級</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- フラッシュカード -->
+  <div id="screen-flashcard" class="screen">
+    <div class="nav-bar">
+      <button class="back-btn" onclick="goHome()">&#8249; ホーム</button>
+      <span class="nav-title" id="fc-level-title"></span>
+    </div>
+    <div class="flashcard-layout">
+      <div class="card" id="fc-card">
+        <p class="card-english" id="fc-english"></p>
+        <span class="pos-badge" id="fc-pos"></span>
+        <div id="fc-answer-section" class="hidden">
+          <hr class="card-divider">
+          <p class="card-japanese" id="fc-japanese"></p>
+        </div>
+      </div>
+
+      <div id="fc-action-show">
+        <button class="glass-btn" onclick="showAnswer()">答えを見る</button>
+      </div>
+      <div id="fc-action-judge" class="hidden">
+        <div class="judge-row">
+          <button class="judge-btn incorrect" onclick="markIncorrect()">
+            <span class="judge-icon">✕</span> 不正解
+          </button>
+          <button class="judge-btn correct" onclick="markCorrect()">
+            <span class="judge-icon">✓</span> 正解
+          </button>
+        </div>
+      </div>
+
+      <div class="progress-wrap">
+        <div class="progress-bar">
+          <div class="progress-fill" id="fc-progress"></div>
+        </div>
+        <span class="progress-label" id="fc-progress-label"></span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 結果画面 -->
+  <div id="screen-result" class="screen">
+    <div class="center-layout">
+      <div class="result-icon">✅</div>
+      <h2 class="result-title">完了!</h2>
+      <p class="result-score" id="result-score"></p>
+      <div class="btn-group" style="width:100%;max-width:360px">
+        <button class="glass-btn" onclick="retrySession()">もう一度</button>
+        <button class="glass-btn" onclick="goHome()">ホームへ戻る</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 設定画面 -->
+  <div id="screen-settings" class="screen">
+    <div class="nav-bar">
+      <button class="back-btn" onclick="showScreen('home')">&#8249; ホーム</button>
+      <span class="nav-title">設定</span>
+    </div>
+    <div class="settings-layout">
+      <div class="settings-card glass-card">
+        <span class="settings-label">テーマ</span>
+        <div class="theme-toggle">
+          <button class="theme-btn" id="btn-dark"  onclick="setTheme('dark')">🌙 ダーク</button>
+          <button class="theme-btn" id="btn-light" onclick="setTheme('light')">☀️ ライト</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

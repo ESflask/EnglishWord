@@ -23,6 +23,8 @@ struct FlashcardView: View {
                 .fontWeight(.bold)
                 .multilineTextAlignment(.center)
 
+            PartOfSpeechBadge(category: word.category)
+
             if viewModel.isShowingAnswer {
                 Divider()
                 Text(word.japanese)
