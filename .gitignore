@@ -26,3 +26,4 @@ Pods/
 # Firebase credentials (commit しない)
 GoogleService-Info.plist
 GoogleService-Info (2).plist
+EnglishWordIOS/GoogleService-Info.plist
