@@ -72,36 +72,20 @@ struct FlashcardView: View {
             Spacer()
 
             if viewModel.isShowingAnswer {
-                HStack(spacing: 24) {
+                HStack(spacing: 16) {
                     Button {
                         viewModel.markIncorrect()
                     } label: {
                         Label("不正解", systemImage: "xmark.circle.fill")
-                            .font(.title3.weight(.semibold))
-                            .foregroundStyle(.red)
-                            .frame(maxWidth: .infinity)
-                            .padding(.vertical, 16)
-                            .background {
-                                RoundedRectangle(cornerRadius: 16)
-                                    .fill(Color.red.opacity(0.12))
-                            }
                     }
-                    .buttonStyle(.plain)
+                    .buttonStyle(GlassButtonStyle())
 
                     Button {
                         viewModel.markCorrect()
                     } label: {
                         Label("正解", systemImage: "checkmark.circle.fill")
-                            .font(.title3.weight(.semibold))
-                            .foregroundStyle(.green)
-                            .frame(maxWidth: .infinity)
-                            .padding(.vertical, 16)
-                            .background {
-                                RoundedRectangle(cornerRadius: 16)
-                                    .fill(Color.green.opacity(0.12))
-                            }
                     }
-                    .buttonStyle(.plain)
+                    .buttonStyle(GlassButtonStyle())
                 }
                 .padding(.horizontal, 24)
             } else {
