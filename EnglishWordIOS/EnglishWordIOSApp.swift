@@ -1,17 +1,23 @@
-//
-//  EnglishWordIOSApp.swift
-//  EnglishWordIOS
-//
-//  Created by 遠藤省吾 on R 8/05/16.
-//
-
 import SwiftUI
+import FirebaseCore
+
+class AppDelegate: NSObject, UIApplicationDelegate {
+    func application(_ application: UIApplication,
+                     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil) -> Bool {
+        FirebaseApp.configure()
+        return true
+    }
+}
 
 @main
 struct EnglishWordIOSApp: App {
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate
+    @State private var themeManager = ThemeManager()
+
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environment(themeManager)
         }
     }
 }

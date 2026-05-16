@@ -5,7 +5,7 @@ struct AccountView: View {
 
     var body: some View {
         ZStack {
-            themeManager.current.background.ignoresSafeArea()
+            AppBackground()
 
             Text("近日公開予定")
                 .font(.caption)

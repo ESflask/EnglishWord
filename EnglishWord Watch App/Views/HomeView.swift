@@ -6,7 +6,7 @@ struct HomeView: View {
     var body: some View {
         NavigationStack {
             ZStack {
-                themeManager.current.background.ignoresSafeArea()
+                AppBackground()
 
                 VStack(spacing: 14) {
                     NavigationLink {

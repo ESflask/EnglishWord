@@ -19,14 +19,14 @@ struct HomeView: View {
 
                     VStack(spacing: 14) {
                         NavigationLink {
-                            Text("レベル選択")  // LevelSelectView に後で置き換え
+                            LevelSelectView()
                         } label: {
                             Text("スタート")
                         }
                         .buttonStyle(GlassButtonStyle())
 
                         NavigationLink {
-                            Text("設定")  // SettingsView に後で置き換え
+                            SettingsView()
                         } label: {
                             Text("設定")
                         }
@@ -37,6 +37,7 @@ struct HomeView: View {
                     Spacer()
                 }
             }
+            .navigationBarHidden(true)
         }
     }
 }

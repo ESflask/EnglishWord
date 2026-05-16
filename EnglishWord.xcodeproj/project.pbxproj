@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9662F19A2FB86673004CA5BB /* EnglishWord Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 9662F1992FB86673004CA5BB /* EnglishWord Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		9662F1DF2FB8700E004CA5BB /* GoogleService-Info (2).plist in Resources */ = {isa = PBXBuildFile; fileRef = 9662F1DE2FB8700E004CA5BB /* GoogleService-Info (2).plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		9662F1932FB86673004CA5BB /* EnglishWord.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EnglishWord.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9662F1992FB86673004CA5BB /* EnglishWord Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "EnglishWord Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9662F1D22FB86DE2004CA5BB /* EnglishWordIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EnglishWordIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9662F1DE2FB8700E004CA5BB /* GoogleService-Info (2).plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info (2).plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -77,6 +79,7 @@
 				9662F19D2FB86673004CA5BB /* EnglishWord Watch App */,
 				9662F1D32FB86DE2004CA5BB /* EnglishWordIOS */,
 				9662F1942FB86673004CA5BB /* Products */,
+				9662F1DE2FB8700E004CA5BB /* GoogleService-Info (2).plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -186,6 +189,9 @@
 			);
 			mainGroup = 9662F18C2FB86673004CA5BB;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				9662F1DD2FB86FEA004CA5BB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 9662F1942FB86673004CA5BB /* Products */;
 			projectDirPath = "";
@@ -210,6 +216,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9662F1DF2FB8700E004CA5BB /* GoogleService-Info (2).plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -575,6 +582,17 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		9662F1DD2FB86FEA004CA5BB /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 12.13.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = 9662F18D2FB86673004CA5BB /* Project object */;
 }

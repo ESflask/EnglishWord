@@ -9,10 +9,10 @@ struct LevelSelectView: View {
 
     var body: some View {
         ZStack {
-            AppBackground()
+            themeManager.current.background.ignoresSafeArea()
 
             ScrollView {
-                VStack(spacing: 10) {
+                VStack(spacing: 14) {
                     ForEach(levels, id: \.self) { level in
                         Button(level) {
                             viewModel.loadWords(level: level)
@@ -21,7 +21,8 @@ struct LevelSelectView: View {
                         .buttonStyle(GlassButtonStyle())
                     }
                 }
-                .padding(.horizontal)
+                .padding(.horizontal, 32)
+                .padding(.vertical, 20)
             }
         }
         .navigationTitle("レベル選択")

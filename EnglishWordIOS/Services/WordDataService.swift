@@ -22,7 +22,7 @@ final class WordDataService {
     }
 
     func saveProgress(for words: [Word]) {
-        var progress: [String: ProgressEntry] = [:]
+        var progress = loadProgress()
         for word in words {
             progress[word.id.uuidString] = ProgressEntry(isLearned: word.isLearned, reviewCount: word.reviewCount)
         }

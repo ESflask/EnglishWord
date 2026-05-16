@@ -18,10 +18,6 @@ final class WordViewModel {
         words.isEmpty ? 0 : Double(currentIndex) / Double(words.count)
     }
 
-    var learnedCount: Int {
-        words.filter { $0.isLearned }.count
-    }
-
     func loadWords(level: String) {
         words = dataService.loadWords(for: level)
         resetSession()

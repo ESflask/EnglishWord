@@ -5,7 +5,7 @@ struct ColorThemeView: View {
 
     var body: some View {
         ZStack {
-            themeManager.current.background.ignoresSafeArea()
+            AppBackground()
 
             ScrollView {
                 VStack(spacing: 10) {
