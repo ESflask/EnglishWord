@@ -31,6 +31,7 @@ EnglishWord Watch App/
 │   ├── FlashcardView.swift         # フラッシュカード（問題→答え→正誤判定）
 │   ├── ResultView.swift            # 学習結果画面
 │   ├── PartOfSpeechBadge.swift     # 品詞バッジUI（動詞/名詞/形容詞）
+│   ├── GlassButtonStyle.swift      # 共通ボタンスタイル（ガラス質）
 │   ├── SettingsView.swift          # 設定メニュー（背景・カラーテーマ）
 │   ├── ColorThemeView.swift        # カラーテーマ選択
 │   └── BackgroundPhotoView.swift   # 背景写真選択（PhotosPicker）
@@ -110,7 +111,6 @@ EnglishWordIOS/
 | 学習進捗保存 | ✅ 実装済 | UserDefaults |
 | カラーテーマ（4種） | ✅ 実装済 | ダーク・ライト・Tokyo Night・紫 |
 | 背景写真設定（Watch） | ✅ 実装済 | PhotosPicker → Documents永続化 |
-| アカウント機能 | ❌ 未実装 | — |
 
 ---
 
