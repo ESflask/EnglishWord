@@ -9,6 +9,7 @@ final class WordViewModel {
     var correctCount: Int = 0
 
     private let dataService = WordDataService()
+    private var currentLevel: String = ""
 
     var currentWord: Word? {
         words.indices.contains(currentIndex) ? words[currentIndex] : nil
@@ -18,13 +19,10 @@ final class WordViewModel {
         words.isEmpty ? 0 : Double(currentIndex) / Double(words.count)
     }
 
-    var learnedCount: Int {
-        words.filter { $0.isLearned }.count
-    }
-
     func loadWords(level: String) {
+        currentLevel = level
         words = dataService.loadWords(for: level)
-        resetSession()
+        resetCounters()
     }
 
     func showAnswer() {
@@ -45,7 +43,14 @@ final class WordViewModel {
         advance()
     }
 
+    // 「もう一度」: 新しい30語を引き直してセッションをリセット
     func resetSession() {
+        guard !currentLevel.isEmpty else { return }
+        words = dataService.loadWords(for: currentLevel)
+        resetCounters()
+    }
+
+    private func resetCounters() {
         currentIndex = 0
         isShowingAnswer = false
         sessionCompleted = false
