@@ -22,3 +22,7 @@ Pods/
 # macOS
 .DS_Store
 *.swp
+
+# Firebase credentials (commit しない)
+GoogleService-Info.plist
+GoogleService-Info (2).plist
