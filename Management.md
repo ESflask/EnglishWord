@@ -26,10 +26,12 @@ EnglishWord Watch App/
 │   └── WordViewModel.swift         # 学習セッション管理（@Observable）
 ├── Views/
 │   ├── AppBackground.swift         # 共通背景View（カラーテーマ or 写真）
-│   ├── HomeView.swift              # ホーム画面（スタート・設定）
+│   ├── HomeView.swift              # ホーム画面（クイズ・単語帳・設定）
 │   ├── LevelSelectView.swift       # レベル選択画面（6段階）
 │   ├── FlashcardView.swift         # フラッシュカード（問題→答え→正誤判定）
 │   ├── ResultView.swift            # 学習結果画面
+│   ├── VocabularyLevelSelectView.swift  # 単語帳用レベル選択画面
+│   ├── VocabularyListView.swift    # 横スクロール単語カード（単語帳）
 │   ├── PartOfSpeechBadge.swift     # 品詞バッジUI（動詞/名詞/形容詞）
 │   ├── GlassButtonStyle.swift      # 共通ボタンスタイル（ガラス質）
 │   ├── SettingsView.swift          # 設定メニュー（背景・カラーテーマ）
@@ -38,7 +40,7 @@ EnglishWord Watch App/
 ├── Services/
 │   └── WordDataService.swift       # JSON読み込み・UserDefaultsで進捗保存
 └── Resources/
-    └── words.json                  # 単語データ（3,576語）
+    └── words.json                  # 単語データ（3,976語）
 ```
 
 ### iOS App（EnglishWordIOS）
@@ -49,15 +51,17 @@ EnglishWordIOS/
 ├── Models/         # ColorTheme.swift, Word.swift（Watch版と同一）
 ├── ViewModels/     # ThemeManager.swift, WordViewModel.swift
 ├── Views/
-│   ├── HomeView.swift              # タイトル + スタート・設定ボタン
+│   ├── HomeView.swift              # タイトル + クイズ・単語帳・設定ボタン
 │   ├── LevelSelectView.swift
 │   ├── FlashcardView.swift
 │   ├── ResultView.swift
+│   ├── VocabularyLevelSelectView.swift  # 単語帳用レベル選択画面
+│   ├── VocabularyListView.swift    # 横スクロール単語カード（単語帳）
 │   ├── PartOfSpeechBadge.swift
 │   ├── GlassButtonStyle.swift
 │   └── SettingsView.swift          # テーマ選択（Pickerスタイル）
 └── Resources/
-    └── words.json                  # Watch版と同一データ（3,576語）
+    └── words.json                  # Watch版と同一データ（3,976語）
 ```
 
 ---
@@ -90,11 +94,11 @@ EnglishWordIOS/
 |---|---|
 | 4級 | 516語 |
 | 3級 | 563語 |
-| 準2級 | 548語 |
-| 2級 | 576語 |
-| 準1級 | 614語 |
-| 1級 | 759語 |
-| **合計** | **3,576語** |
+| 準2級 | 648語 |
+| 2級 | 676語 |
+| 準1級 | 714語 |
+| 1級 | 859語 |
+| **合計** | **3,976語** |
 
 ### 品詞カテゴリ
 `動詞` / `名詞` / `形容詞` / `副詞`
@@ -111,6 +115,7 @@ EnglishWordIOS/
 | 学習進捗保存 | ✅ 実装済 | UserDefaults |
 | カラーテーマ（4種） | ✅ 実装済 | ダーク・ライト・Tokyo Night・紫 |
 | 背景写真設定（Watch） | ✅ 実装済 | PhotosPicker → Documents永続化 |
+| 単語帳（横スクロール） | ✅ 実装済 | VocabularyListView |
 
 ---
 

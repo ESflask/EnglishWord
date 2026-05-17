@@ -27,3 +27,15 @@ Pods/
 GoogleService-Info.plist
 GoogleService-Info (2).plist
 EnglishWordIOS/GoogleService-Info.plist
+
+# AI tool local configs
+.claude/
+.gemini/
+
+# 内部作業ログ・一時ファイル
+PROGRESS.md
+add_100each.py
+add_100each_final.py
+add_100each_v2.py
+add_100each_v3.py
+existing_words.json

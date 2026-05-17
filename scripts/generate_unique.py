@@ -1,0 +1,228 @@
+import json
+
+with open('existing_words.json', 'r') as f:
+    existing_words = set(word.lower() for word in json.load(f))
+
+def filter_and_take(candidates, count):
+    res = []
+    seen = set()
+    for eng, jap, cat in candidates:
+        if eng.lower() not in existing_words and eng.lower() not in seen:
+            res.append((eng, jap, cat))
+            seen.add(eng.lower())
+    return res
+
+# Eiken 4 candidates (Junior High 2nd year)
+g4_candidates = [
+    # School
+    ("gym", "体育館", "名詞"), ("blackboard", "黒板", "名詞"), ("eraser", "消しゴム", "名詞"),
+    ("textbook", "教科書", "名詞"), ("uniform", "制服", "名詞"), ("locker", "ロッカー", "名詞"),
+    ("corridor", "廊下", "名詞"), ("playground", "運動場", "名詞"), ("recess", "休み時間", "名詞"),
+    ("graduation", "卒業", "名詞"), ("semester", "学期", "名詞"), ("principal", "校長", "名詞"),
+    # Home
+    ("microwave", "電子レンジ", "名詞"), ("toaster", "トースター", "名詞"), ("kettle", "やかんに", "名詞"),
+    ("stove", "コンロ", "名詞"), ("dishwasher", "食器洗い機", "名詞"), ("iron", "アイロン", "名詞"),
+    ("mirror", "鏡", "名詞"), ("blanket", "毛布", "名詞"), ("pillow", "枕", "名詞"),
+    ("cushion", "クッション", "名詞"), ("balcony", "バルコニー", "名詞"), ("attic", "屋根裏", "名詞"),
+    ("basement", "地下室", "名詞"), ("ceiling", "天井", "名詞"), ("roof", "屋根", "名詞"),
+    ("chimney", "煙突", "名詞"), ("fence", "垣根", "名詞"), ("mailbox", "郵便受け", "名詞"),
+    ("porch", "玄関", "名詞"), ("hallway", "廊下", "名詞"),
+    # Food
+    ("strawberry", "いちご", "名詞"), ("grape", "ぶどう", "名詞"), ("peach", "桃", "名詞"),
+    ("watermelon", "スイカ", "名詞"), ("pineapple", "パイナップル", "名詞"), ("mango", "マンゴー", "名詞"),
+    ("kiwi", "キウイ", "名詞"), ("pear", "梨", "名詞"), ("cabbage", "キャベツ", "名詞"),
+    ("broccoli", "ブロッコリー", "名詞"), ("spinach", "ほうれん草", "名詞"), ("lettuce", "レタス", "名詞"),
+    ("garlic", "ニンニク", "名詞"), ("cucumber", "きゅうり", "名詞"), ("eggplant", "なす", "名詞"),
+    ("pumpkin", "かぼちゃ", "名詞"), ("pea", "エンドウ豆", "名詞"), ("honey", "はちみつ", "名詞"),
+    ("jam", "ジャム", "名詞"), ("steak", "ステーキ", "名詞"), ("burger", "ハンバーガー", "名詞"),
+    ("pizza", "ピザ", "名詞"), ("pasta", "パスタ", "名詞"), ("noodle", "麺", "名詞"),
+    ("cookie", "クッキー", "名詞"),
+    # Animal
+    ("lion", "ライオン", "名詞"), ("tiger", "トラ", "名詞"), ("elephant", "象", "名詞"),
+    ("giraffe", "キリン", "名詞"), ("zebra", "シマウマ", "名詞"), ("kangaroo", "カンガルー", "名詞"),
+    ("koala", "コアラ", "名詞"), ("panda", "パンダ", "名詞"), ("wolf", "狼", "名詞"),
+    ("fox", "狐", "名詞"), ("squirrel", "リス", "名詞"), ("deer", "鹿", "名詞"),
+    ("goat", "山羊", "名詞"), ("duck", "アヒル", "名詞"), ("goose", "ガチョウ", "名詞"),
+    ("turkey", "七面鳥", "名詞"), ("owl", "フクロウ", "名詞"), ("eagle", "鷲", "名詞"),
+    ("hawk", "鷹", "名詞"), ("penguin", "ペンギン", "名詞"), ("ostrich", "ダチョウ", "名詞"),
+    ("flamingo", "フラミンゴ", "名詞"), ("swan", "白鳥", "名詞"), ("whale", "鯨", "名詞"),
+    ("dolphin", "イルカ", "名詞"), ("shark", "サメ", "名詞"), ("octopus", "タコ", "名詞"),
+    ("squid", "イカ", "名詞"), ("crab", "カニ", "名詞"), ("shrimp", "エビ", "名詞"),
+    ("turtle", "カメ", "名詞"), ("frog", "カエル", "名詞"), ("snake", "ヘビ", "名詞"),
+    ("lizard", "トカゲ", "名詞"), ("spider", "クモ", "名詞"), ("butterfly", "蝶", "名詞"),
+    # Nature
+    ("jungle", "ジャングル", "名詞"), ("desert", "砂漠", "名詞"), ("valley", "谷", "名詞"),
+    ("canyon", "峡谷", "名詞"), ("coast", "海岸", "名詞"), ("cave", "洞窟", "名詞"),
+    ("waterfall", "滝", "名詞"), ("volcano", "火山", "名詞"), ("glacier", "氷河", "名詞"),
+    ("star", "星", "名詞"), ("planet", "惑星", "名詞"), ("wind", "風", "名詞"),
+    ("storm", "嵐", "名詞"), ("thunder", "雷", "名詞"), ("lightning", "稲妻", "名詞"),
+    ("rainbow", "虹", "名詞"),
+    # Occupations
+    ("nurse", "看護師", "名詞"), ("dentist", "歯科医", "名詞"), ("vet", "獣医", "名詞"),
+    ("pilot", "パイロット", "名詞"), ("chef", "料理長", "名詞"), ("waiter", "ウェイター", "名詞"),
+    ("waitress", "ウェイトレス", "名詞"), ("reporter", "記者", "名詞"), ("photographer", "写真家", "名詞"),
+    ("programmer", "プログラマー", "名詞"), ("designer", "デザイナー", "名詞"),
+    ("firefighter", "消防士", "名詞"), ("soldier", "兵士", "名詞"), ("fisher", "漁師", "名詞"),
+    ("manager", "経営者", "名詞"), ("secretary", "秘書", "名詞"), ("architect", "建築家", "名詞"),
+    ("baker", "パン屋", "名詞"), ("butcher", "肉屋", "名詞"), ("carpenter", "大工", "名詞"),
+    ("electrician", "電気技師", "名詞"), ("plumber", "配管工", "名詞"), ("tailor", "仕立屋", "名詞"),
+    ("barber", "理髪師", "名詞"),
+    # Verbs
+    ("climb", "登る", "動詞"), ("collect", "集める", "動詞"), ("dance", "踊る", "動詞"),
+    ("draw", "描く", "動詞"), ("drink", "飲む", "動詞"), ("drive", "運転する", "動詞"),
+    ("drop", "落とす", "動詞"), ("eat", "食べる", "動詞"), ("explain", "説明する", "動詞"),
+    ("fall", "落ちる", "動詞"), ("find", "見つける", "動詞"), ("finish", "終える", "動詞"),
+    ("happen", "起こる", "動詞"), ("hear", "聞こえる", "動詞"), ("hurry", "急ぐ", "動詞"),
+    ("move", "動く", "動詞"), ("need", "必要とする", "動詞"), ("wash", "洗う", "動詞"),
+    ("paint", "塗る", "動詞"), ("skate", "スケートをする", "動詞"), ("ski", "スキーをする", "動詞"),
+    ("shout", "叫ぶ", "動詞"), ("smile", "微笑む", "動詞"), ("study", "勉強する", "動詞"),
+    # Adjectives
+    ("boring", "退屈な", "形容詞"), ("cheap", "安い", "形容詞"), ("cloudy", "曇った", "形容詞"),
+    ("cool", "涼しい", "形容詞"), ("cute", "かわいい", "形容詞"), ("dark", "暗い", "形容詞"),
+    ("dirty", "汚い", "形容詞"), ("easy", "簡単な", "形容詞"), ("exciting", "わくわくさせる", "形容詞"),
+    ("famous", "有名な", "形容詞"), ("fast", "速い", "形容詞"), ("fine", "元気な", "形容詞"),
+    ("foreign", "外国の", "形容詞"), ("free", "自由な", "形容詞"), ("glad", "うれしい", "形容詞"),
+    ("heavy", "重い", "形容詞"), ("kind", "親切な", "形容詞"), ("lucky", "幸運な", "形容詞"),
+    ("noisy", "騒がしい", "形容詞"), ("quiet", "静かな", "形容詞"), ("rich", "裕福な", "形容詞"),
+    ("poor", "貧しい", "形容詞"), ("strong", "強い", "形容詞"), ("weak", "弱い", "形容詞"),
+    # Adverbs
+    ("again", "再び", "副詞"), ("ago", "〜前に", "副詞"), ("almost", "ほとんど", "副詞"),
+    ("already", "すでに", "副詞"), ("also", "〜もまた", "副詞"), ("always", "いつも", "副詞"),
+    ("away", "離れて", "副詞"), ("back", "戻って", "副詞"), ("before", "以前に", "副詞"),
+    ("carefully", "注意深く", "副詞"), ("easily", "簡単に", "副詞"), ("enough", "十分に", "副詞"),
+    ("ever", "今までに", "副詞"), ("finally", "ついに", "副詞"), ("just", "ちょうど", "副詞"),
+    ("maybe", "たぶん", "副詞"), ("never", "一度も〜ない", "副詞"), ("often", "しばしば", "副詞"),
+    ("once", "一度", "副詞"), ("outside", "外で", "副詞"), ("over", "向こうへ", "副詞"),
+    ("perhaps", "ひょっとすると", "副詞"), ("quickly", "速く", "副詞"), ("really", "本当に", "副詞"),
+    ("slowly", "ゆっくりと", "副詞"), ("someday", "いつか", "副詞"), ("sometimes", "ときどき", "副詞"),
+    ("soon", "すぐに", "副詞"), ("still", "まだ", "副詞"), ("together", "一緒に", "副詞")
+]
+
+# Eiken 3 candidates (Junior High 3rd year)
+g3_candidates = [
+    # Verbs
+    ("agree", "同意する", "動詞"), ("appear", "現れる", "動詞"), ("believe", "信じる", "動詞"),
+    ("build", "建てる", "動詞"), ("choose", "選ぶ", "動詞"), ("continue", "続ける", "動詞"),
+    ("deliver", "配達する", "動詞"), ("describe", "説明する", "動詞"), ("discover", "発見する", "動詞"),
+    ("follow", "従う", "動詞"), ("grow", "育つ", "動詞"), ("hold", "開催する", "動詞"),
+    ("imagine", "想像する", "動詞"), ("improve", "向上させる", "動詞"), ("introduce", "紹介する", "動詞"),
+    ("invite", "招待する", "動詞"), ("laugh", "笑う", "動詞"), ("notice", "気づく", "動詞"),
+    ("offer", "提供する", "動詞"), ("order", "注文する", "動詞"), ("practice", "練習する", "動詞"),
+    ("prepare", "準備する", "動詞"), ("produce", "生産する", "動詞"), ("promise", "約束する", "動詞"),
+    ("protect", "守る", "動詞"), ("act", "行動する", "動詞"), ("allow", "許す", "動詞"),
+    ("attack", "攻撃する", "動詞"), ("attend", "出席する", "動詞"), ("beat", "打つ", "動詞"),
+    ("belong", "属する", "動詞"), ("blow", "吹く", "動詞"), ("break", "壊す", "動詞"),
+    ("burn", "燃える", "動詞"), ("cause", "引き起こす", "動詞"), ("celebrate", "祝う", "動詞"),
+    ("compare", "比較する", "動詞"), ("complain", "不平を言う", "動詞"), ("complete", "完了する", "動詞"),
+    ("count", "数える", "動詞"), ("cover", "覆う", "動詞"), ("create", "創造する", "動詞"),
+    ("cross", "横切る", "動詞"), ("cry", "泣く", "動詞"), ("damage", "損害を与える", "動詞"),
+    ("depend", "頼る", "動詞"), ("design", "設計する", "動詞"), ("destroy", "破壊する", "動詞"),
+    ("divide", "分ける", "動詞"), ("doubt", "疑う", "動詞"), ("encourage", "励ます", "動詞"),
+    ("expect", "予期する", "動詞"), ("fail", "失敗する", "動詞"), ("fill", "満たす", "動詞"),
+    ("fit", "合う", "動詞"), ("fly", "飛ぶ", "動詞"), ("form", "形づくる", "動詞"),
+    ("gather", "集める", "動詞"), ("greet", "挨拶する", "動詞"), ("guess", "推測する", "動詞"),
+    ("guide", "案内する", "動詞"), ("handle", "扱う", "動詞"), ("hate", "嫌う", "動詞"),
+    ("hide", "隠す", "動詞"), ("hit", "打つ", "動詞"), ("hunt", "狩る", "動詞"),
+    ("increase", "増える", "動詞"), ("invent", "発明する", "動詞"), ("kick", "蹴る", "動詞"),
+    ("kill", "殺す", "動詞"), ("knock", "叩く", "動詞"), ("last", "続く", "動詞"),
+    ("lay", "置く", "動詞"), ("lead", "導く", "動詞"), ("lift", "持ち上げる", "動詞"),
+    ("lock", "鍵をかける", "動詞"), ("manage", "管理する", "動詞"), ("march", "行進する", "動詞"),
+    ("mark", "印をつける", "動詞"), ("marry", "結婚する", "動詞"), ("match", "一致する", "動詞"),
+    ("matter", "重要である", "動詞"), ("measure", "測る", "動詞"), ("mention", "言及する", "動詞"),
+    ("mind", "気にする", "動詞"), ("miss", "逃す", "動詞"), ("mix", "混ぜる", "動詞"),
+    # Nouns
+    ("accident", "事故", "名詞"), ("activity", "活動", "名詞"), ("address", "住所", "名詞"),
+    ("adult", "大人", "名詞"), ("adventure", "冒険", "名詞"), ("advice", "助言", "名詞"),
+    ("area", "地域", "名詞"), ("art", "芸術", "名詞"), ("attention", "注意", "名詞"),
+    ("autumn", "秋", "名詞"), ("birthday", "誕生日", "名詞"), ("bottle", "瓶", "名詞"),
+    ("business", "ビジネス", "名詞"), ("card", "カード", "名詞"), ("care", "世話", "名詞"),
+    ("case", "場合", "名詞"), ("chance", "機会", "名詞"), ("church", "教会", "名詞"),
+    ("city", "都市", "名詞"), ("course", "コース", "名詞"), ("danger", "危険", "名詞"),
+    ("energy", "エネルギー", "名詞"), ("farmer", "農家", "名詞"), ("film", "映画", "名詞"),
+    ("fruit", "果物", "名詞"), ("gift", "贈り物", "名詞"), ("air", "空気", "名詞"),
+    ("amount", "量", "名詞"), ("article", "記事", "名詞"), ("audience", "観客", "名詞"),
+    ("author", "著者", "名詞"), ("base", "底", "名詞"), ("beauty", "美しさ", "名詞"),
+    ("benefit", "利益", "名詞"), ("blood", "血", "名詞"), ("board", "板", "名詞"),
+    ("body", "体", "名詞"), ("brain", "脳", "名詞"), ("breath", "呼吸", "名詞"),
+    ("capital", "首都", "名詞"), ("captain", "船長", "名詞"), ("cash", "現金", "名詞"),
+    ("century", "世紀", "名詞"), ("character", "性格", "名詞"), ("choice", "選択", "名詞"),
+    ("clerk", "店員", "名詞"), ("climate", "気候", "名詞"), ("cloud", "雲", "名詞"),
+    ("coach", "コーチ", "名詞"), ("coast", "海岸", "名詞"), ("collection", "収集", "名詞"),
+    ("comfort", "快適さ", "名詞"), ("community", "共同体", "名詞"), ("company", "会社", "名詞"),
+    ("condition", "状態", "名詞"), ("control", "支配", "名詞"), ("conversation", "会話", "名詞"),
+    ("couple", "カップル", "名詞"), ("court", "法廷", "名詞"), ("customer", "顧客", "名詞"),
+    ("damage", "損害", "名詞"), ("death", "死", "名詞"), ("degree", "程度", "名詞"),
+    ("design", "デザイン", "名詞"), ("detail", "詳細", "名詞"), ("difference", "違い", "名詞"),
+    ("direction", "方向", "名詞"), ("distance", "距離", "名詞"), ("district", "地区", "名詞"),
+    ("duty", "義務", "名詞"), ("edge", "端", "名詞"), ("education", "教育", "名詞"),
+    ("effect", "効果", "名詞"), ("effort", "努力", "名詞"), ("election", "選挙", "名詞"),
+    ("emotion", "感情", "名詞"), ("end", "終わり", "名詞"), ("environment", "環境", "名詞"),
+    ("event", "行事", "名詞"), ("evidence", "証拠", "名詞"), ("exercise", "運動", "名詞"),
+    ("experience", "経験", "名詞"), ("expert", "専門家", "名詞"), ("expression", "表現", "名詞"),
+    ("face", "顔", "名詞"), ("fact", "事実", "名詞"), ("factor", "要因", "名詞"),
+    ("failure", "失敗", "名詞"), ("fear", "恐怖", "名詞"), ("feature", "特徴", "名詞"),
+    ("feeling", "感情", "名詞"), ("festival", "祭り", "名詞"), ("fiction", "フィクション", "名詞"),
+    ("field", "分野", "名詞"), ("figure", "数字", "名詞"), ("file", "ファイル", "名詞"),
+    ("final", "決勝", "名詞"), ("fire", "火", "名詞"), ("firm", "会社", "名詞"),
+    ("flight", "飛行", "名詞"), ("flood", "洪水", "名詞"), ("flow", "流れ", "名詞"),
+    ("focus", "焦点", "名詞"), ("force", "力", "名詞"), ("form", "形態", "名詞"),
+    # Adjectives
+    ("able", "できる", "形容詞"), ("alive", "生きている", "形容詞"), ("ancient", "古代の", "形容詞"),
+    ("anxious", "心配な", "形容詞"), ("asleep", "眠っている", "形容詞"), ("awful", "ひどい", "形容詞"),
+    ("blind", "盲目の", "形容詞"), ("calm", "穏やかな", "形容詞"), ("central", "中心の", "形容詞"),
+    ("certain", "確信して", "形容詞"), ("cheerful", "陽気な", "形容詞"), ("complete", "完全な", "形容詞"),
+    ("constant", "一定の", "形容詞"), ("crowded", "混雑した", "形容詞"), ("cruel", "残酷な", "形容詞"),
+    ("curious", "好奇心の強い", "形容詞"), ("daily", "毎日の", "形容詞"), ("dead", "死んだ", "形容詞"),
+    ("deaf", "耳が聞こえない", "形容詞"), ("dear", "親愛な", "形容詞"), ("delighted", "喜んでいる", "形容詞"),
+    ("direct", "直接の", "形容詞"), ("distant", "遠い", "形容詞"), ("double", "二重の", "形容詞"),
+    ("dry", "乾いた", "形容詞"), ("due", "到着予定の", "形容詞"), ("eager", "熱心な", "形容詞"),
+    ("electric", "電気の", "形容詞"), ("elementary", "初歩的な", "形容詞"), ("entire", "全体の", "形容詞"),
+    ("equal", "等しい", "形容詞"), ("essential", "不可欠な", "形容詞"), ("excellent", "優れた", "形容詞"),
+    ("excited", "興奮した", "形容詞"), ("expensive", "高価な", "形容詞"), ("extra", "余分な", "形容詞"),
+    ("fair", "公平な", "形容詞"), ("false", "偽の", "形容詞"), ("familiar", "親しみのある", "形容詞"),
+    ("fancy", "派手な", "形容詞"), ("fantastic", "すばらしい", "形容詞"), ("female", "女性の", "形容詞"),
+    ("final", "最終の", "形容詞"), ("flat", "平らな", "形容詞"), ("foolish", "愚かな", "形容詞"),
+    ("former", "前の", "形容詞"), ("fortunate", "幸運な", "形容詞"), ("frequent", "頻繁な", "形容詞"),
+    ("front", "正面の", "形容詞"), ("funny", "おかしい", "形容詞"), ("general", "一般的な", "形容詞"),
+    ("gentle", "優しい", "形容詞"), ("global", "地球規模の", "形容詞"), ("golden", "金の", "形容詞"),
+    ("gradual", "徐々の", "形容詞"), ("grand", "壮大な", "形容詞"), ("grateful", "感謝している", "形容詞"),
+    ("guilty", "有罪の", "形容詞"),
+    # Adverbs
+    ("abroad", "外国へ", "副詞"), ("ahead", "前方に", "副詞"), ("anywhere", "どこかに", "副詞"),
+    ("apart", "離れて", "副詞"), ("besides", "その上", "副詞"), ("certainly", "確かに", "副詞"),
+    ("completely", "完全に", "副詞"), ("directly", "直接に", "副詞"), ("elsewhere", "他のどこかに", "副詞"),
+    ("entirely", "完全に", "副詞"), ("especially", "特に", "副詞"), ("extremely", "極端に", "副詞"),
+    ("fairly", "かなり", "副詞"), ("further", "さらに", "副詞"), ("hardly", "ほとんど〜ない", "副詞"),
+    ("highly", "非常に", "副詞"), ("immediately", "直ちに", "副詞"), ("largely", "主に", "副詞"),
+    ("mostly", "大部分は", "副詞"), ("naturally", "自然に", "副詞"), ("nearly", "ほとんど", "副詞"),
+    ("necessarily", "必ずしも", "副詞"), ("obviously", "明らかに", "副詞"), ("originally", "元々は", "副詞"),
+    ("partly", "部分的に", "副詞"), ("perfectly", "完全に", "副詞"), ("possibly", "ひょっとすると", "副詞"),
+    ("previously", "以前に", "副詞"), ("probably", "おそらく", "副詞"), ("properly", "適切に", "副詞"),
+    ("purely", "純粋に", "副詞"), ("rarely", "めったに〜ない", "副詞"), ("regularly", "定期的に", "副詞"),
+    ("roughly", "おおよそ", "副詞"), ("safely", "安全に", "副詞"), ("scarcely", "ほとんど〜ない", "副詞"),
+    ("seriously", "真剣に", "副詞"), ("sharply", "急激に", "副詞"), ("shortly", "まもなく", "副詞"),
+    ("similarly", "同様に", "副詞"), ("simply", "単に", "副詞"), ("slightly", "わずかに", "副詞"),
+    ("totally", "完全に", "副詞"), ("truly", "本当に", "副詞"), ("twice", "二度", "副詞"),
+    ("ultimately", "結局", "副詞"), ("usually", "たいてい", "副詞"), ("widely", "広く", "副詞")
+]
+
+final_g4 = filter_and_take(g4_candidates, 100)
+final_g3 = filter_and_take(g3_candidates, 100)
+
+print(f"G4 unique: {len(final_g4)}")
+print(f"G3 unique: {len(final_g3)}")
+
+if len(final_g4) >= 100 and len(final_g3) >= 100:
+    output = {
+        "4級": final_g4[:100],
+        "3級": final_g3[:100]
+    }
+    print("SUCCESS")
+    # Using json.dumps with indent to make it easy to read but also copyable
+    # We want a format that is a Python dictionary literal.
+    # Actually, the user asked for a Python dictionary structure.
+    # I'll print it in a way that can be copy-pasted.
+else:
+    print("STILL NEED MORE WORDS")
+    print(f"G4: {len(final_g4)}, G3: {len(final_g3)}")
+

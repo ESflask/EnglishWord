@@ -3,6 +3,24 @@ import Foundation
 final class WordDataService {
     private let progressKey = "wordProgress"
 
+    func loadAllWords(for level: String) -> [Word] {
+        guard let url = Bundle.main.url(forResource: "words", withExtension: "json"),
+              let data = try? Data(contentsOf: url),
+              let baseWords = try? JSONDecoder().decode([Word].self, from: data)
+        else { return [] }
+
+        let filtered = baseWords.filter { $0.level == level }
+        let progress = loadProgress()
+        return filtered.map { word -> Word in
+            var w = word
+            if let p = progress[word.id.uuidString] {
+                w.isLearned = p.isLearned
+                w.reviewCount = p.reviewCount
+            }
+            return w
+        }
+    }
+
     func loadWords(for level: String) -> [Word] {
         guard let url = Bundle.main.url(forResource: "words", withExtension: "json"),
               let data = try? Data(contentsOf: url),

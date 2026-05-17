@@ -25660,5 +25660,7005 @@
     "level": "準1級",
     "isLearned": false,
     "reviewCount": 0
+  },
+  {
+    "id": "0b568fe6-a382-43f8-b5bf-28846e9b5e77",
+    "english": "accomplish",
+    "japanese": "成し遂げる",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "05a8d817-4f73-485b-8125-c6bd9ff88dff",
+    "english": "decorate",
+    "japanese": "飾る",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "f47e48fb-b3ab-4d54-a6f3-af656f73d309",
+    "english": "desire",
+    "japanese": "望む",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "8dd3a5ed-676b-47f2-9e69-165375ef1a75",
+    "english": "educate",
+    "japanese": "教育する",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "29382069-d281-4f3d-a363-9ebaa4dfd2c3",
+    "english": "escape",
+    "japanese": "逃げる",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "efb1c062-f34a-408f-8129-e2423c3599ee",
+    "english": "harm",
+    "japanese": "傷つける",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "9af954d9-116a-42ed-abda-afb7ba4afb43",
+    "english": "install",
+    "japanese": "設置する",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "194faedf-ee0d-4bb8-99fe-d1dee51a758f",
+    "english": "adventure",
+    "japanese": "冒険",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "a50ee5c7-f140-4057-88de-9e1bbe0927fe",
+    "english": "error",
+    "japanese": "誤り",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "0fc4d16d-38fa-4af1-9ddf-33c2a74abb0c",
+    "english": "patience",
+    "japanese": "忍耐",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "1a9ceb8d-fe61-400c-a2a5-3cffa4628b69",
+    "english": "brilliant",
+    "japanese": "優秀な",
+    "category": "形容詞",
+    "level": "準2級"
+  },
+  {
+    "id": "d4ba2aec-9080-48fb-8ab3-99b8760715e2",
+    "english": "determined",
+    "japanese": "断固とした",
+    "category": "形容詞",
+    "level": "準2級"
+  },
+  {
+    "id": "793bba80-f458-416a-8d0e-10645e9d7ab0",
+    "english": "generous",
+    "japanese": "寛大な",
+    "category": "形容詞",
+    "level": "準2級"
+  },
+  {
+    "id": "a1850576-378d-4abd-971b-8e8dc7992df8",
+    "english": "valuable",
+    "japanese": "価値のある",
+    "category": "形容詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7b8c3d0b-c840-444c-a441-e5aa8567f0f0",
+    "english": "virtual",
+    "japanese": "仮想の",
+    "category": "形容詞",
+    "level": "準2級"
+  },
+  {
+    "id": "bd3ec49c-62d8-4ae0-8e05-b6d8099da641",
+    "english": "completely",
+    "japanese": "完全に",
+    "category": "副詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7ae4439d-6a7f-43ae-a2cf-6d2a3c9e86df",
+    "english": "especially",
+    "japanese": "特に",
+    "category": "副詞",
+    "level": "準2級"
+  },
+  {
+    "id": "d374d1f4-16a6-4dd2-ad06-7fe487339e99",
+    "english": "generally",
+    "japanese": "一般的に",
+    "category": "副詞",
+    "level": "準2級"
+  },
+  {
+    "id": "93bb4e4e-975f-458a-a892-4106a972a00d",
+    "english": "gradually",
+    "japanese": "徐々に",
+    "category": "副詞",
+    "level": "準2級"
+  },
+  {
+    "id": "cfdd06ea-599b-45bd-8614-c3e06b5de7fe",
+    "english": "mainly",
+    "japanese": "主に",
+    "category": "副詞",
+    "level": "準2級"
+  },
+  {
+    "id": "86c526cf-a634-4d52-a092-911bf09e30d4",
+    "english": "merely",
+    "japanese": "単に",
+    "category": "副詞",
+    "level": "準2級"
+  },
+  {
+    "id": "6c11ad4f-03e6-4fae-83df-a9ad3022ffa8",
+    "english": "nearly",
+    "japanese": "ほぼ",
+    "category": "副詞",
+    "level": "準2級"
+  },
+  {
+    "id": "a3897a9e-4786-4e3b-8501-f6fcb7659108",
+    "english": "poorly",
+    "japanese": "不十分に",
+    "category": "副詞",
+    "level": "準2級"
+  },
+  {
+    "id": "d8fc7007-10f3-4817-9349-a9d72f43af15",
+    "english": "smoothly",
+    "japanese": "スムーズに",
+    "category": "副詞",
+    "level": "準2級"
+  },
+  {
+    "id": "d7f7a88a-1c80-432e-8fc2-20647e5e6650",
+    "english": "truly",
+    "japanese": "本当に",
+    "category": "副詞",
+    "level": "準2級"
+  },
+  {
+    "id": "bf99317d-1657-47cb-815b-c90ea2f43f2c",
+    "english": "activate",
+    "japanese": "活性化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "1d8e7cbf-9df2-4379-af1c-f872ed80c131",
+    "english": "manipulate",
+    "japanese": "操作する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "c37e69cc-e152-4027-955a-4c17022a262d",
+    "english": "qualify",
+    "japanese": "資格を得る",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "56e3f724-fc35-415b-bb79-790cc7a52686",
+    "english": "restrict",
+    "japanese": "制限する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "b5bf7660-16a1-4b14-ab73-15e31d6e0a1f",
+    "english": "substitute",
+    "japanese": "代替する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "94e90580-8fb5-400c-b7d9-78559dfe86a0",
+    "english": "conclusion",
+    "japanese": "結論",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "659c37af-451e-458b-bf58-775a830f8d2e",
+    "english": "element",
+    "japanese": "要素",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "da0371b5-3460-4f77-8ead-a55284fc4d24",
+    "english": "probability",
+    "japanese": "確率",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "aca9d6da-edaf-421e-8a4d-5aab760c9e08",
+    "english": "intellectual",
+    "japanese": "知的な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "185e4eb2-2177-4c2d-869d-4a2f4dae224c",
+    "english": "persistent",
+    "japanese": "粘り強い",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "a424571f-b498-4d1b-b977-1bf181790a76",
+    "english": "theoretical",
+    "japanese": "理論的な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "20b8b85e-130a-4d75-ae13-541a4366a49c",
+    "english": "capitalize",
+    "japanese": "活用する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "dd5bc85c-f4fb-466b-ad43-9fd5677c09be",
+    "english": "devise",
+    "japanese": "考案する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "92da5040-30fc-4996-b50e-2bda9ab1f46e",
+    "english": "dispel",
+    "japanese": "払拭する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "dfaf956d-4f97-4e4c-992f-ae6483ba3d4e",
+    "english": "elaborate",
+    "japanese": "詳述する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "4f925564-f5f4-4f96-befe-2069274cdc8b",
+    "english": "embody",
+    "japanese": "体現する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "9deab944-8e0b-4fe8-a43c-59fdad8092a0",
+    "english": "encompass",
+    "japanese": "包含する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "c4a0f57c-e0bd-495a-a366-92f1c084bb98",
+    "english": "enlighten",
+    "japanese": "啓発する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "1bf88a46-b8a9-4566-b295-acea8ae7144c",
+    "english": "evoke",
+    "japanese": "呼び起こす",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "4d5e07c1-d859-4f1b-bc80-59671a75c6d4",
+    "english": "illuminate",
+    "japanese": "照らす",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "6e4245c0-76c6-49a3-8279-0fafca6e3e3e",
+    "english": "intervene",
+    "japanese": "介入する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "391fc02a-a382-4790-a512-cf3c63e082b6",
+    "english": "liberate",
+    "japanese": "解放する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "5fc85824-f208-4e07-a441-6ff8cb0e1d3d",
+    "english": "mediate",
+    "japanese": "調停する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "df14c44a-21a4-4f7e-989a-1f5cdbdf9f48",
+    "english": "obscure",
+    "japanese": "不明瞭にする",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "aa31b947-6627-417f-a085-60d06e9ae224",
+    "english": "rehabilitate",
+    "japanese": "更生させる",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "60674254-7770-46d1-8e89-ff24c9572cc3",
+    "english": "replenish",
+    "japanese": "補充する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "933c3c8f-fb81-44fe-b981-645427faf679",
+    "english": "terminate",
+    "japanese": "終わらせる",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "79486f65-894b-4142-a91c-14e96914f490",
+    "english": "configuration",
+    "japanese": "設定",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "acf302d4-1f1c-4c16-b8c3-67f4968a3c2e",
+    "english": "delegation",
+    "japanese": "委任",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "74a3888b-310c-405c-8b5d-6e95a14c0b48",
+    "english": "deterioration",
+    "japanese": "悪化",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "d5f2a9f4-1520-438c-9f4e-444d23529981",
+    "english": "disruption",
+    "japanese": "混乱",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "93753a9e-a9ec-45e4-b483-714062bac6de",
+    "english": "distinction",
+    "japanese": "区別",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "fd373b85-bf19-463e-91cc-9e859148f5f1",
+    "english": "methodology",
+    "japanese": "方法論",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "0601ca11-daf4-4414-98c6-69fc5072e34c",
+    "english": "perseverance",
+    "japanese": "忍耐力",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "fcb7c5c9-3ba5-4fca-8c4a-6deed544c62c",
+    "english": "prejudice",
+    "japanese": "偏見",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "b6244a23-b71a-4d1d-b447-03fc3b37eacc",
+    "english": "cumbersome",
+    "japanese": "扱いにくい",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "715fdde1-a3b8-4080-8d6b-ee66db7451d8",
+    "english": "diligent",
+    "japanese": "勤勉な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "b945d957-56d8-467b-b5af-2a6e33d8d872",
+    "english": "eloquent",
+    "japanese": "雄弁な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "58ec55f4-171f-4975-aebc-a8c3887e7e11",
+    "english": "empathetic",
+    "japanese": "共感的な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "fb87b090-1daf-433a-94d8-3138102fcde0",
+    "english": "holistic",
+    "japanese": "全体論的な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "2dbdc78a-a3dd-4893-a129-7341756fb7a1",
+    "english": "incompatible",
+    "japanese": "相容れない",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "61287fde-5ae8-4ffe-b853-8d3cffe6e1f4",
+    "english": "lucrative",
+    "japanese": "収益性の高い",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "2b421121-90de-403d-86be-7ad43d8f5628",
+    "english": "pragmatic",
+    "japanese": "実用的な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "634265c4-9f1e-4a5a-baf4-8722e734e34c",
+    "english": "tenacious",
+    "japanese": "粘り強い",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "57b2504e-d6d0-4d7d-b453-b6fe2a31d240",
+    "english": "antagonize",
+    "japanese": "敵対させる",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "211ce25a-41d9-4ceb-b9ea-92084b749395",
+    "english": "atrophy",
+    "japanese": "萎縮する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "f874b49a-ca08-44cc-ba14-8154185cc392",
+    "english": "circumscribe",
+    "japanese": "制限する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "1a83aad9-d951-4d94-a584-5d4befd5df58",
+    "english": "commend",
+    "japanese": "称賛する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "6970a5a1-ca08-4772-9085-9565e431b8fc",
+    "english": "concoct",
+    "japanese": "でっち上げる",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "49217ebc-8a47-46b7-af6d-c059434a58bd",
+    "english": "decapitate",
+    "japanese": "斬首する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "5d8e7695-9d7b-4101-abd4-9174facbd56f",
+    "english": "defame",
+    "japanese": "中傷する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "5e3d78be-6127-4ad6-875c-15ba2b012d40",
+    "english": "dissipate",
+    "japanese": "消散させる",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "7579af0f-9e7a-4b11-8a09-da7b436602b8",
+    "english": "elucidate",
+    "japanese": "解明する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "cc67cdca-74b2-4c71-8604-81e03f6f2417",
+    "english": "enunciate",
+    "japanese": "はっきり述べる",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "e430ad49-cbf0-4d22-9794-96dc7499f2a4",
+    "english": "eradicate",
+    "japanese": "根絶する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "452e828d-a46b-4af8-8966-90c3c0d897fe",
+    "english": "extol",
+    "japanese": "絶賛する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "8f22eb70-0fda-4927-9aa2-cc15e608364c",
+    "english": "incite",
+    "japanese": "煽動する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "86a26d8c-e28b-4d35-92b8-47919276c4b7",
+    "english": "infiltrate",
+    "japanese": "潜入する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "22013061-7937-4889-a59d-f3cbfe4b2250",
+    "english": "mollify",
+    "japanese": "なだめる",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "f80dc42b-7048-4b23-92bf-b179ed12540a",
+    "english": "ostracize",
+    "japanese": "追放する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "870a2254-4199-49e9-96c3-872386383462",
+    "english": "perpetrate",
+    "japanese": "犯す",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "74cc24e2-8693-4a6a-a0e0-e52bcaa224a3",
+    "english": "sequester",
+    "japanese": "隔離する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "d584ee5a-5114-4afb-9a14-ae0b8cbe2d2a",
+    "english": "sever",
+    "japanese": "切断する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "805daf33-fef1-4a25-85a0-a49d0828b96f",
+    "english": "subjugate",
+    "japanese": "征服する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "1d98f7ae-89ce-4332-bc1a-f1d1f0553354",
+    "english": "waive",
+    "japanese": "放棄する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "62e2e431-5529-4d27-9b25-f03995098641",
+    "english": "catharsis",
+    "japanese": "浄化",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "fdf1c0c8-cfda-46ad-a26f-9172f9f681e6",
+    "english": "circumspection",
+    "japanese": "用心深さ",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "5b5e284f-eb6b-4514-8a97-66464a1540e1",
+    "english": "culpability",
+    "japanese": "罪責",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "30d7064b-c4aa-42cd-b2fb-1f1311bd50a3",
+    "english": "demagoguery",
+    "japanese": "扇動政治",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "2e2e7789-ca0f-46b3-ade2-892e772bb3d3",
+    "english": "dialectic",
+    "japanese": "弁証法",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "5880d816-16a0-42d1-9b04-863c461375f2",
+    "english": "diffidence",
+    "japanese": "内気",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "2293e983-b9ad-432c-a432-561bab4bce3b",
+    "english": "epistemology",
+    "japanese": "認識論",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "50f8c571-6550-4d45-a383-85c08273365d",
+    "english": "genealogy",
+    "japanese": "系譜",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "629dce14-01ae-40c1-b39c-fcb726d43b25",
+    "english": "homogeneity",
+    "japanese": "均質性",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "4c82e906-50f0-463c-8ae0-67532f3a6b91",
+    "english": "hyperbole",
+    "japanese": "誇張",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "cf7ffb57-68d2-4009-9263-c690468d10f0",
+    "english": "iconoclasm",
+    "japanese": "偶像破壊",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "3b1652d9-866b-420d-9aba-6b6bbf57ed99",
+    "english": "insolence",
+    "japanese": "傲慢さ",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "22c1fe72-62f9-450e-8a4f-4bedc5adfece",
+    "english": "introspection",
+    "japanese": "内省",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "e6e4be5d-0195-4e6a-81d3-28eca14e0ebc",
+    "english": "juxtaposition",
+    "japanese": "並置",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "1acd8454-82c1-4400-9cfe-440d1a14db48",
+    "english": "misanthropy",
+    "japanese": "人間嫌い",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "ff4a65f3-2cdd-4136-8e61-6c0673a251ed",
+    "english": "orthodoxy",
+    "japanese": "正統",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "b9e7a9bf-ff43-4509-98a2-106fbc26b735",
+    "english": "pedagogy",
+    "japanese": "教育学",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "ecb8e168-cb89-4505-8776-1dc4ca4265d1",
+    "english": "rationalism",
+    "japanese": "合理主義",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "b5f8effc-0aaa-48bf-843d-e30157419284",
+    "english": "abstruse",
+    "japanese": "難解な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "c57092a3-6780-4836-81a6-1e78bf49760d",
+    "english": "antithetical",
+    "japanese": "正反対の",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "7e04375d-9a03-4d45-b974-4a8f4be938bf",
+    "english": "audacious",
+    "japanese": "大胆な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "ee5de3b8-f561-4a5c-8ca1-f59f7d6dc12e",
+    "english": "cryptic",
+    "japanese": "謎めいた",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "23f7ab6c-0aca-47cb-8b5e-a87fda62cdea",
+    "english": "destitute",
+    "japanese": "極貧の",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "612ccf93-c2b8-45fa-8af9-8186ba2a4dea",
+    "english": "didactic",
+    "japanese": "教訓的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "fd6a8157-d33d-4afb-b783-e9aa208dae8e",
+    "english": "esoteric",
+    "japanese": "難解な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "9c616ea7-1c3d-4a63-8b0d-e5d9de976b2f",
+    "english": "facetious",
+    "japanese": "ふざけた",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "c8941554-62fe-4203-b563-61695455520d",
+    "english": "imperious",
+    "japanese": "横柄な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "1d6cb796-36b7-4250-aad0-db47801641fe",
+    "english": "incongruous",
+    "japanese": "不調和な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "be91cad0-8073-4719-9ce1-df9a6352d6fb",
+    "english": "infallible",
+    "japanese": "絶対確実な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "8ad67a62-714a-44ba-874e-4ef1ce5dabac",
+    "english": "introspective",
+    "japanese": "内省的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "fbfde5a1-9131-4a61-b75d-93a229e6023d",
+    "english": "laconic",
+    "japanese": "簡潔な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "48b307c4-7d7a-4e30-96da-4464cae2d998",
+    "english": "omniscient",
+    "japanese": "全知の",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "d2802416-2fea-4112-8cdc-c851ec9378ad",
+    "english": "parsimonious",
+    "japanese": "けちな",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "4199a0a7-67f4-444e-8981-45686dd0d94f",
+    "english": "philanthropic",
+    "japanese": "博愛的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "7af98e69-4a1c-4448-a5e7-f1d62051057a",
+    "english": "prodigious",
+    "japanese": "驚異的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "4f2609e6-f092-47db-8fcd-d6c63ba3026b",
+    "english": "vindictive",
+    "japanese": "執念深い",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "c62f9e3a-ec95-4142-a833-82aae19ae2b1",
+    "english": "angle",
+    "japanese": "角度",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "d2dbfd25-7da2-4702-8d43-df5d4ad6328b",
+    "english": "ankle",
+    "japanese": "足首",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7dfe4898-d5f9-43dc-8047-89e2ea25c34d",
+    "english": "appetite",
+    "japanese": "食欲",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7fb18e8a-7b4a-4a1f-af66-918522e41ab5",
+    "english": "autumn",
+    "japanese": "秋",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "a29b1813-12a7-4fa9-8e40-de43eef4a867",
+    "english": "avenue",
+    "japanese": "大通り",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "13e9760f-3955-4562-acee-4447a734757a",
+    "english": "backpack",
+    "japanese": "リュックサック",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "2941528b-a36c-4f30-97dc-df4de61bd0ad",
+    "english": "bakery",
+    "japanese": "パン屋",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "15c03a8a-c7dd-4133-83b4-8e3ec4df91e8",
+    "english": "battery",
+    "japanese": "電池",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "09ce9c6b-2983-4d18-a552-f706d856fe30",
+    "english": "blanket",
+    "japanese": "毛布",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "cd763a27-3a18-43ce-bb66-94251f4a46ea",
+    "english": "blog",
+    "japanese": "ブログ",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "17bf6598-dcb1-4bfa-aeeb-da447ed783c3",
+    "english": "bone",
+    "japanese": "骨",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "8941d711-ad6d-4c10-b064-977a97b7290b",
+    "english": "bookshelf",
+    "japanese": "本棚",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "f1e16c95-1f90-4f6a-acc1-06e085413735",
+    "english": "border",
+    "japanese": "国境",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "ffc7d8e2-a0fd-42ec-98cb-e7833561d526",
+    "english": "bullet",
+    "japanese": "弾丸",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "c6cc6141-313f-4e2a-bbaa-fb02ade4fced",
+    "english": "button",
+    "japanese": "ボタン",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "439e040a-2d55-4e31-985a-814f503c1c4c",
+    "english": "cabin",
+    "japanese": "小屋",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "48842be1-2193-443e-9f81-4ff1fefc590e",
+    "english": "canal",
+    "japanese": "運河",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7b5f6966-a05b-46d6-a11c-541cf1e2ebfd",
+    "english": "candy",
+    "japanese": "キャンデー",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "b1682395-9b95-4b4a-8f92-90169adbae9a",
+    "english": "carpet",
+    "japanese": "じゅうたん",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "bfa4f0e7-cf75-4bc6-8ba3-449149ee961e",
+    "english": "catalog",
+    "japanese": "カタログ",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "458f30dd-3d12-48b2-9121-76dcfbbd4f09",
+    "english": "cattle",
+    "japanese": "牛",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "c18e5820-3679-436f-a7b8-bb5411233fa5",
+    "english": "certificate",
+    "japanese": "証明書",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7e7a78bc-a7ae-4ba1-99f3-134565fe6859",
+    "english": "charity",
+    "japanese": "慈善活動",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "c68eff29-5f7f-41d4-9a98-774873897f1d",
+    "english": "chart",
+    "japanese": "グラフ",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7682c422-d56a-4793-891b-b4aef97ccfe9",
+    "english": "childhood",
+    "japanese": "幼少期",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "f07a5e77-b25d-45bc-ba97-83d66fe40006",
+    "english": "chip",
+    "japanese": "チップ",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "cb6e489c-2460-434c-94fb-ebacb926e60f",
+    "english": "closet",
+    "japanese": "クローゼット",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "c0e587b2-0462-4e46-93e0-cd807434a6b9",
+    "english": "cloth",
+    "japanese": "布",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "10bb1f71-1f81-48bb-8281-272400a0372f",
+    "english": "coast",
+    "japanese": "海岸",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "e64a54e0-9682-4c73-9814-687268fa58cc",
+    "english": "comfort",
+    "japanese": "快適さ",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "9581fe60-e52b-4db4-aea9-b32bf42d9e51",
+    "english": "countryside",
+    "japanese": "田舎",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "14e2a165-1747-4ffd-8ad3-597970fd9368",
+    "english": "courage",
+    "japanese": "勇気",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "a8ab9a63-da2c-4113-9d35-ad5f9906c698",
+    "english": "crash",
+    "japanese": "衝突する",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "cb36f53e-3421-4f68-b420-1e2a3d2bf55a",
+    "english": "cycle",
+    "japanese": "周期",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "e2547379-7904-43e6-9f2b-46536afb0113",
+    "english": "dairy",
+    "japanese": "乳製品",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "bebe945d-5e10-4305-802e-dcb97d29fabe",
+    "english": "density",
+    "japanese": "密度",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "b627395d-8445-48d6-9685-59415149f3fc",
+    "english": "diagram",
+    "japanese": "図",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "ef24951e-dc0f-44c1-be54-4cb2f2ed4137",
+    "english": "diet",
+    "japanese": "食事",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "2cb2bc35-b7ef-4309-9c1d-916c98c0b93e",
+    "english": "distance",
+    "japanese": "距離",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "f94ccb50-5100-49fe-9eb6-ad63d1776db4",
+    "english": "draft",
+    "japanese": "下書き",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "a68a5ae3-a973-479a-97e3-6e339915d36d",
+    "english": "drought",
+    "japanese": "干ばつ",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "24dbffb5-c10f-44b1-8cc0-dcb570f8b35d",
+    "english": "earthquake",
+    "japanese": "地震",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "ac30eeb9-34dd-48d4-87ca-e7708a528092",
+    "english": "edition",
+    "japanese": "版",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7fb3774e-360d-47a1-8bc7-e87ed2e28d83",
+    "english": "electricity",
+    "japanese": "電気",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "b1c4c4ba-4794-4220-ba45-369f2e347f36",
+    "english": "essay",
+    "japanese": "エッセイ",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "fdd48679-ba6d-4b59-a28f-eda4c3776d84",
+    "english": "fabric",
+    "japanese": "生地",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "49734bd7-a0c5-4f56-b590-02dea550e8fa",
+    "english": "fare",
+    "japanese": "運賃",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "aca91c82-4a1d-4061-9e74-c16a9dd5b50a",
+    "english": "fashion",
+    "japanese": "ファッション",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "2afd283d-928e-4b3b-b681-e62deb4fadea",
+    "english": "freeze",
+    "japanese": "凍る",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "1f9727ab-3129-4a80-af42-ec64d9c49632",
+    "english": "furniture",
+    "japanese": "家具",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "9f801c06-c037-4e53-b3ff-3601ae89593b",
+    "english": "gallery",
+    "japanese": "画廊",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "05a61f5a-40f3-4051-9a62-28be6f7a0aca",
+    "english": "gender",
+    "japanese": "性別",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "90f8e6f8-ccbc-493d-8f56-bc044e6607c9",
+    "english": "gesture",
+    "japanese": "身振り",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "eae4c17d-4cff-4081-9016-3e2cfb3b793e",
+    "english": "grain",
+    "japanese": "穀物",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "72b2052b-5daa-4eba-b58d-50a8aae92383",
+    "english": "grocery",
+    "japanese": "食料品",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "50544e10-e1ab-4fc4-8df9-46c71ae4d631",
+    "english": "harvest",
+    "japanese": "収穫",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "feba2878-a4b7-4471-8473-1a81fd11cba0",
+    "english": "headline",
+    "japanese": "見出し",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "d1197e0c-02c0-4c37-be0e-0ef94064b35c",
+    "english": "honor",
+    "japanese": "名誉",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "d7309b6a-b6c7-474d-b6ad-f9dc0ec3d045",
+    "english": "hunger",
+    "japanese": "飢え",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "19d5cbc2-3e36-4db7-949b-e2e1f809d7d7",
+    "english": "illegal",
+    "japanese": "違法の",
+    "category": "形容詞",
+    "level": "準2級"
+  },
+  {
+    "id": "8935082e-6c9a-4a09-883d-87086fa1b8d5",
+    "english": "infection",
+    "japanese": "感染症",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "647341d9-87ce-436b-a0de-be44fcb39b5a",
+    "english": "jungle",
+    "japanese": "密林",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7bfb4a5b-97a8-4825-becd-b07301c4a40e",
+    "english": "keyboard",
+    "japanese": "キーボード",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "511715da-32b5-4524-a9a1-b6d67f73b430",
+    "english": "label",
+    "japanese": "ラベル",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "cb043013-8ce5-4bb1-b4c7-5c4f44c2e4a0",
+    "english": "layer",
+    "japanese": "層",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7ac80d7c-af94-42a7-a758-fc22df255306",
+    "english": "litter",
+    "japanese": "ごみを捨てる",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "ab2d7d82-d620-4b8b-9bee-c9cce56a48aa",
+    "english": "luggage",
+    "japanese": "荷物",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "de2938d5-8d40-44c5-a2c9-f0156bb690f7",
+    "english": "luxury",
+    "japanese": "贅沢",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "484e8882-c372-47a5-ba29-ebc6beeb0ae3",
+    "english": "mineral",
+    "japanese": "鉱物",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "732e1a0c-9056-4be7-a689-91488e27df6c",
+    "english": "moisture",
+    "japanese": "湿気",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "afa01b1c-82a8-490a-a976-e7789821e98b",
+    "english": "moment",
+    "japanese": "瞬間",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "af59d909-38c2-41f1-a045-2edaf3a06e0b",
+    "english": "muscle",
+    "japanese": "筋肉",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "8d305a46-838c-4015-8365-69d9e1355d67",
+    "english": "napkin",
+    "japanese": "ナプキン",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "4c725ad2-53f2-4a2d-ba1e-7600c1bb7490",
+    "english": "novel",
+    "japanese": "小説",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "748755cf-4f50-4536-b3ca-57e67507a11a",
+    "english": "outdoor",
+    "japanese": "屋外の",
+    "category": "形容詞",
+    "level": "準2級"
+  },
+  {
+    "id": "af17ff6c-4463-4c45-a464-20c85a070fea",
+    "english": "abrupt",
+    "japanese": "突然の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "54bfb18a-7487-48ee-b07b-7da2cb2c6271",
+    "english": "acclaim",
+    "japanese": "称賛する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "d1f96c17-a8ee-4e7c-a4f8-c70cb99f1b3c",
+    "english": "adherence",
+    "japanese": "遵守",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "e9d666a9-6996-4d87-9e3a-c602c5c60aa7",
+    "english": "affluence",
+    "japanese": "豊かさ",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "3ad6a8a5-f78b-4921-869d-17b3d4507634",
+    "english": "agility",
+    "japanese": "敏捷性",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "eb538321-5b05-430c-b4b8-63ebed6ffc3c",
+    "english": "alignment",
+    "japanese": "整合",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "23a24a93-6ca6-4812-ab40-925b3db74ce0",
+    "english": "allusion",
+    "japanese": "ほのめかし",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "a0343632-a73d-4a3c-8a45-ba7881ea6630",
+    "english": "amenity",
+    "japanese": "快適な設備",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "f8fc06cc-fd70-4002-ac36-f2e3bcbf4818",
+    "english": "amnesty",
+    "japanese": "恩赦",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "a00f6c8b-0ca1-49a3-854c-b5d2d46fa59f",
+    "english": "amplification",
+    "japanese": "増幅",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "6fc662c5-d905-418f-bfb7-ede82034f68e",
+    "english": "apparatus",
+    "japanese": "装置",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "6e2449ca-5c6b-423e-b513-23bee14f6e7d",
+    "english": "archaeology",
+    "japanese": "考古学",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "c1e1bb37-a89d-46c9-a7d5-b65bba758158",
+    "english": "archive",
+    "japanese": "記録保管所",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "7668e762-400d-42f4-aa5c-c423f06c9177",
+    "english": "aspiration",
+    "japanese": "熱望",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "685ac782-231c-4461-be0e-6f189c4e06b5",
+    "english": "aviation",
+    "japanese": "航空",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "e8d2ac53-fe45-43c0-8a29-8ffc143051ff",
+    "english": "biosphere",
+    "japanese": "生物圏",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "c975af97-f16b-4b09-bdf6-a6453748b50f",
+    "english": "citation",
+    "japanese": "引用",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "3af06e7f-781f-4b08-85b4-7dfc255381b5",
+    "english": "civic",
+    "japanese": "市民の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "f9d8283f-df97-406d-af4b-7bd623a700e9",
+    "english": "coexistence",
+    "japanese": "共存",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "60d6c4ba-1bd0-4413-8dc8-fc7ad35b5bb5",
+    "english": "commentary",
+    "japanese": "解説",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "fd092562-95f0-453e-b7d0-b066fe1c84e0",
+    "english": "competency",
+    "japanese": "能力",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "12451f59-93cb-4030-9ad4-07cd3b1997c3",
+    "english": "concession",
+    "japanese": "譲歩",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "15a353ba-5ca5-4e8e-bf21-e5e7151377fc",
+    "english": "consultant",
+    "japanese": "コンサルタント",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "7ad06b42-75d3-4c0f-a5b4-a5d7046a04f7",
+    "english": "convergence",
+    "japanese": "収束",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "414ec5a8-b712-41b8-97b7-b24d09eb331f",
+    "english": "cyclical",
+    "japanese": "循環的な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "889688c8-2efc-4ba1-a00f-25d8e007b632",
+    "english": "decentralize",
+    "japanese": "分権化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "699b5584-4152-4b33-aad1-261a286989be",
+    "english": "deficit",
+    "japanese": "赤字",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "2d44cf71-21b7-4b08-88a5-3a31fe87d440",
+    "english": "deployment",
+    "japanese": "展開",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "2d08af07-bb2b-45c6-b3ac-87d44facbc00",
+    "english": "diversion",
+    "japanese": "転換",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "6312206e-d6ea-43a7-bd37-5da246a781ab",
+    "english": "doctrine",
+    "japanese": "教義",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "7467b696-8aa5-4ce3-a221-e6ea6e160bc8",
+    "english": "downturn",
+    "japanese": "景気後退",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "9dd087da-f910-44fc-afc1-91469efc1701",
+    "english": "ecology",
+    "japanese": "生態学",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "2702fc60-d8f4-43b5-acfa-b22e27a0f68d",
+    "english": "embodiment",
+    "japanese": "体現",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "81f0586b-8a5d-484e-b60e-54d51045ce9a",
+    "english": "entrepreneurship",
+    "japanese": "起業家精神",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "7a7a36eb-707a-4417-bcce-4c2779652da7",
+    "english": "extraction",
+    "japanese": "抽出",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "2a690aec-a525-4e06-b9e1-447a9c4c159b",
+    "english": "fusion",
+    "japanese": "融合",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "b6908b7d-1484-4545-9e4e-09ded053844c",
+    "english": "gradient",
+    "japanese": "勾配",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "7a375e6c-21e6-4962-8032-3dc9ca5c7408",
+    "english": "hemisphere",
+    "japanese": "半球",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "a524a77f-c8c2-442b-adba-3baa3d78ff08",
+    "english": "humanitarian",
+    "japanese": "人道主義的な",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "1c24075e-c029-4712-8a90-8cc07a2e5482",
+    "english": "immersion",
+    "japanese": "没入",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "362bee52-c727-4ac7-90f3-e3e1308cfa23",
+    "english": "incidence",
+    "japanese": "発生率",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "a71b7f67-88fa-4dc7-a3ce-46b350fd0cd9",
+    "english": "indigenous",
+    "japanese": "先住民の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "20bf7f14-4b4c-402d-abeb-6fa50bad4c39",
+    "english": "insufficiency",
+    "japanese": "不十分さ",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "1167066b-4462-4ed5-99ea-bd3f0c263786",
+    "english": "interdependence",
+    "japanese": "相互依存",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "4606b5af-d095-4cbb-9405-bc5420e64269",
+    "english": "macroeconomics",
+    "japanese": "マクロ経済学",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "8bbad74f-f19d-4267-be10-9161765c3a68",
+    "english": "marginalization",
+    "japanese": "周縁化",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "c6d79416-1d97-4409-a8b3-8b3f20593da9",
+    "english": "merit",
+    "japanese": "長所",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "dd253bf1-5ef3-4757-ba97-17c73983d0ef",
+    "english": "metropolitan",
+    "japanese": "大都市の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "9d3f983f-2ed4-43eb-a9a5-a3c7be9af363",
+    "english": "multilateral",
+    "japanese": "多国間の",
+    "category": "形容詞",
+    "level": "2級"
+  },
+  {
+    "id": "ca3371a1-9d98-458b-8371-2862adf9790e",
+    "english": "negligence",
+    "japanese": "怠慢",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "8046c198-d0d8-4c7d-aab6-9273e591857d",
+    "english": "optimization",
+    "japanese": "最適化",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "cd402302-f9d6-471c-b003-75f55aa70689",
+    "english": "orientation",
+    "japanese": "方向性",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "8a82d01f-7f8a-4360-a9c9-e2b5bafdfcc4",
+    "english": "parameter",
+    "japanese": "パラメータ",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "829f8aa3-63f8-4716-8918-98ec91d7f8f3",
+    "english": "proficiency",
+    "japanese": "熟達",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "ae804287-e409-403e-b064-4fdef379b639",
+    "english": "proposition",
+    "japanese": "提案",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "e3240f57-2269-4655-94db-5248972b3b07",
+    "english": "prototype",
+    "japanese": "試作品",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "3d7a7084-a8af-481f-9c95-321553b6b827",
+    "english": "rationale",
+    "japanese": "根拠",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "ec33ceee-0606-433a-8c5e-6ba309532d1c",
+    "english": "regeneration",
+    "japanese": "再生",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "bb7359b1-af25-4a4d-8460-8b2b199115f9",
+    "english": "restructuring",
+    "japanese": "再編成",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "9991e9b0-281b-45a1-893e-4b0b3ef30c1f",
+    "english": "retention",
+    "japanese": "保持",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "0ad235f7-3162-48e4-9409-e54a00d62975",
+    "english": "standardization",
+    "japanese": "標準化",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "e99257af-3613-4ccb-85ca-243f19f481a5",
+    "english": "statute",
+    "japanese": "法令",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "54eff91c-f13b-48de-8c24-b781c9a393ff",
+    "english": "stigma",
+    "japanese": "汚名",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "04f621cf-b9aa-4a60-8f54-7af99769ea72",
+    "english": "subordinate",
+    "japanese": "部下",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "caeca0b8-f139-446e-ad83-9971181d52d1",
+    "english": "succession",
+    "japanese": "継承",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "c5eab816-93b1-4ee6-a551-3a36636d58a3",
+    "english": "tribunal",
+    "japanese": "裁判所",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "64b0ebd5-2975-4822-b578-8d3321fb8091",
+    "english": "turbulence",
+    "japanese": "乱気流",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "ea22cb81-0991-40ca-bd3e-2630371c0a42",
+    "english": "utilization",
+    "japanese": "利用",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "8faf4d36-7247-4813-9a11-23b4a8aae12e",
+    "english": "aberrant",
+    "japanese": "逸脱した",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "20674925-b1ea-4ed8-b84c-93a4dacd7e05",
+    "english": "abscond",
+    "japanese": "逃走する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "81c60175-a8f4-4c50-aeb7-c08460b86058",
+    "english": "accolades",
+    "japanese": "賞賛",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "cef3f5a0-ded7-42aa-aeaf-9d3966d3cffc",
+    "english": "advocacy",
+    "japanese": "支持",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "0a1b9d69-5c46-4c28-8ada-5ae1cabc8585",
+    "english": "affirmation",
+    "japanese": "肯定",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "23578213-9e3f-4cec-8fe1-2e4e80360879",
+    "english": "allegory",
+    "japanese": "寓話",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "d93b8e53-09ae-4482-bece-57c5a7efeadc",
+    "english": "antithesis",
+    "japanese": "反対",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "c89b3d8d-d7ba-4c59-8fa1-c3de4d92615e",
+    "english": "approbation",
+    "japanese": "承認",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "b49e8480-8cd3-4a37-a2ee-88d637bd3ae0",
+    "english": "ascribe",
+    "japanese": "帰する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "3401021e-ee00-4d17-a1dc-824045889b86",
+    "english": "asperity",
+    "japanese": "厳しさ",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "53b124ef-1744-4c09-9ce9-08cde64d0315",
+    "english": "atonement",
+    "japanese": "償い",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "c25fcc88-931e-43d5-b881-d7775a899ee6",
+    "english": "cacophony",
+    "japanese": "不協和音",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "14b66245-8140-42d1-b313-c1cd6fa1a480",
+    "english": "chastise",
+    "japanese": "叱責する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "50e14ba5-ebc0-42d5-8567-bb4c2eba3dbe",
+    "english": "circumspect",
+    "japanese": "用心深い",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "8c0ba26d-7ab0-4bed-b0b3-be35b70a1bff",
+    "english": "cognizant",
+    "japanese": "認識している",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "838a35aa-c4f6-4769-8398-00395826b041",
+    "english": "commensurate",
+    "japanese": "釣り合った",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "7423a68a-854e-47b1-8113-8c81cbbd7c6b",
+    "english": "compunction",
+    "japanese": "後悔",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "100710a9-5347-46f4-87ff-712175244e55",
+    "english": "conflagration",
+    "japanese": "大火",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "7f137f61-bc78-4de8-9683-631c36bc24c6",
+    "english": "contrite",
+    "japanese": "後悔している",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "c84428cf-b8d1-480e-9f82-17dbf2289dc4",
+    "english": "copious",
+    "japanese": "豊富な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "5061cf29-1d39-4ba7-a5dc-cb28e6061428",
+    "english": "culpable",
+    "japanese": "過失のある",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "e1055085-c980-41b7-8ccb-9d172cc0ee21",
+    "english": "cursory",
+    "japanese": "おざなりな",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "6c43d7bf-2f24-41a5-8e0e-7bf26bac2c6a",
+    "english": "dauntless",
+    "japanese": "大胆な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "af157b31-48e6-436e-89a6-6479511d5950",
+    "english": "debase",
+    "japanese": "品位を落とす",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "71e4e459-0f76-4e04-bab1-d3f40351aeb3",
+    "english": "decorum",
+    "japanese": "礼儀",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "f229a1d3-7089-4a7c-8a19-6f650d18f54d",
+    "english": "deferential",
+    "japanese": "敬意を示す",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "e11a7cce-7fb1-4dd0-b64a-59ab757e72ad",
+    "english": "demeanor",
+    "japanese": "態度",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "8490e056-465f-4134-854f-06bb938ef45e",
+    "english": "digression",
+    "japanese": "脱線",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "5d7ae075-724a-46dd-ac47-7c40813ff745",
+    "english": "discordant",
+    "japanese": "不調和な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "753abc5d-e6fa-4812-a167-a708f1386a75",
+    "english": "disillusionment",
+    "japanese": "幻滅",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "ecc3fa35-d444-452c-98c4-b43e719149a0",
+    "english": "disparagement",
+    "japanese": "軽蔑",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "25f150ed-b9fd-49f5-9bd1-cdfff626f674",
+    "english": "dissipation",
+    "japanese": "浪費",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "580f88c8-aa58-4e7f-9fb8-0adde2313fb5",
+    "english": "earnest",
+    "japanese": "真剣な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "bf0e8ef8-3e80-485b-9794-ba53bcad9cdd",
+    "english": "eccentricity",
+    "japanese": "風変わり",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "dd0a96a1-6557-4d5c-9f55-54319546dc49",
+    "english": "enervate",
+    "japanese": "衰弱させる",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "c76311f8-b267-46a1-b6e2-673f923ccd82",
+    "english": "equanimity",
+    "japanese": "平静",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "0f98f2dd-2022-466c-a690-725ebe0de575",
+    "english": "evasion",
+    "japanese": "回避",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "dbd0322a-05ca-44cd-b653-fdfaa87a32be",
+    "english": "exasperate",
+    "japanese": "激怒させる",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "6b349adb-3c55-47eb-946a-b8d4c16abc86",
+    "english": "exuberance",
+    "japanese": "活気",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "55ac62c9-1855-4c3d-b84c-d017ea5ba134",
+    "english": "ferocity",
+    "japanese": "凶暴さ",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "1ac8b531-0939-424a-a718-fc373e605ebf",
+    "english": "figurative",
+    "japanese": "比喩的な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "4a475553-aaf5-4a99-800f-65cf646a6f0b",
+    "english": "forbearance",
+    "japanese": "忍耐",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "aa48801d-4567-40a3-922b-f33edaa15c66",
+    "english": "grandeur",
+    "japanese": "壮大さ",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "7b19d6c6-ebdd-4818-baec-9e120b810cb2",
+    "english": "gravitas",
+    "japanese": "威厳",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "78f94c27-15b0-43d6-85b2-9804604c2c76",
+    "english": "humility",
+    "japanese": "謙虚さ",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "f87661dd-f972-4ab3-80dd-8b8f9025992c",
+    "english": "ignominy",
+    "japanese": "不名誉",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "913de390-c065-40f5-b00f-6d06d5d9b302",
+    "english": "imprudent",
+    "japanese": "軽率な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "8ae4416b-934d-4156-9194-02506c3ff73a",
+    "english": "incorrigible",
+    "japanese": "手に負えない",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "e6869f0c-dbee-4544-b269-99e3102ac76c",
+    "english": "indolence",
+    "japanese": "怠惰",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "9818a939-0a9d-4350-be15-3c593626f83e",
+    "english": "ineptitude",
+    "japanese": "無能",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "457bb12b-62a3-44c0-b074-ec9983ffebe5",
+    "english": "inequity",
+    "japanese": "不公平",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "eb2f86e0-748c-4250-b708-34f2dd3a132a",
+    "english": "inflammatory",
+    "japanese": "扇情的な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "1b9318db-085d-4953-9654-75d657483c77",
+    "english": "ingenuous",
+    "japanese": "素直な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "64a8ff8d-e48c-46cd-9104-6f16ae4d282a",
+    "english": "insatiable",
+    "japanese": "飽くことのない",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "87c4b2c8-80a3-4044-ba69-146b7d1d9b05",
+    "english": "insubordinate",
+    "japanese": "反抗的な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "3919f7e5-9ed3-4f2f-b10f-9c8760801de6",
+    "english": "intolerance",
+    "japanese": "不寛容",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "46545922-bdd3-46bd-a811-9fc03b21c28f",
+    "english": "judicious",
+    "japanese": "思慮深い",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "c24a8208-fb5b-404a-8645-d80db2583d9e",
+    "english": "lucid",
+    "japanese": "明快な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "01789a6d-33c4-4bef-b90a-21fac97ebe84",
+    "english": "malice",
+    "japanese": "悪意",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "9c6053c6-7891-4aed-b150-415852702895",
+    "english": "mendacity",
+    "japanese": "虚偽",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "e764a4d8-4215-4577-af62-31dfce8371d1",
+    "english": "mundane",
+    "japanese": "平凡な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "c205b49b-1eb2-4bf1-9894-3922ad64ab34",
+    "english": "nonchalant",
+    "japanese": "無頓着な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "9611fd94-aa83-4860-be51-e508c54de2f1",
+    "english": "obstinacy",
+    "japanese": "頑固さ",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "a2bc5e03-e135-4587-9609-0eeb46739a36",
+    "english": "opulent",
+    "japanese": "豪華な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "1e076ab2-f9b3-432d-8a0d-b5e75244f15a",
+    "english": "painstaking",
+    "japanese": "丹念な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "4552cc65-21a1-44e7-a09f-8312787f7f32",
+    "english": "palpable",
+    "japanese": "明白な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "88d57649-c8f0-4a57-afd0-c6429c75912a",
+    "english": "pellucid",
+    "japanese": "透明な",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "74443ac5-a3c1-4a6d-92d3-2e56a98f4e93",
+    "english": "abjection",
+    "japanese": "みじめさ",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "64a26b70-e216-4358-90c4-bbe9c99b73ca",
+    "english": "abrogation",
+    "japanese": "廃止",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "c12f8937-082d-469d-9b09-f50a27b93c4c",
+    "english": "acrimoniousness",
+    "japanese": "辛辣さ",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "99fc5b59-8816-49f2-af3f-4b1bcbc3ceb6",
+    "english": "adumbrate",
+    "japanese": "ほのめかす",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "429a5f61-9b6a-442d-81a7-2b42c79951c2",
+    "english": "amorphous",
+    "japanese": "不定形の",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "b012fc23-17ba-4231-ad0c-d700da4f7baf",
+    "english": "anathema",
+    "japanese": "忌み嫌われるもの",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "5f013afb-8897-4550-993b-bfda2a6feea1",
+    "english": "animism",
+    "japanese": "アニミズム",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "1632d2a0-71c0-4ef4-8bbe-495a0611dda8",
+    "english": "anomalous",
+    "japanese": "異常な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "4fec4b78-d04d-4654-86dd-c3619e8f5553",
+    "english": "aphorism",
+    "japanese": "格言",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "9997c86e-147b-4a63-8e48-24e752924142",
+    "english": "apostasy",
+    "japanese": "背教",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "3dbe3db2-3603-48b4-8d7c-4a9b9c046b2d",
+    "english": "armistice",
+    "japanese": "休戦",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "90c23a2c-7a69-4c07-af31-c94a535bde0e",
+    "english": "aspersion",
+    "japanese": "中傷",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "aa5402a4-fa01-41a8-9784-b379f669a7fa",
+    "english": "assiduous",
+    "japanese": "勤勉な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "f0caa9f1-0324-4752-a22d-e0913f435cb8",
+    "english": "atavistic",
+    "japanese": "先祖返りの",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "c3451e46-94d2-433e-b400-7ed632aaddfd",
+    "english": "auspicious",
+    "japanese": "縁起の良い",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "4908da52-5df4-4e67-9cd4-5ce8f96eff88",
+    "english": "autocracy",
+    "japanese": "独裁政治",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "9ed26138-c4e1-4aa0-a22a-7a7aaa069047",
+    "english": "axiomatic",
+    "japanese": "自明の",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "c6250093-65b3-4fe6-84a6-d1d5e4e1901f",
+    "english": "cabal",
+    "japanese": "陰謀団",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "98f07874-d0a9-40fb-8175-749741647ca1",
+    "english": "calamitous",
+    "japanese": "悲惨な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "3315cfd1-9b6c-4a8a-939d-4c3273724bb4",
+    "english": "calumny",
+    "japanese": "中傷",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "2e5ac69f-9a93-43b8-8f5c-41250cdbfe0f",
+    "english": "caveat",
+    "japanese": "警告",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "4eb1bb42-59d3-4ee6-affe-6d137dc86c47",
+    "english": "celerity",
+    "japanese": "迅速さ",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "5da82f56-f8e4-4995-8b48-bbb1f1646386",
+    "english": "censure",
+    "japanese": "非難する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "1a537cca-8270-40dd-8fcb-3be211fdfe9a",
+    "english": "circumlocution",
+    "japanese": "遠回しな表現",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "d96c87ed-3c40-45c1-9e07-54d262595915",
+    "english": "clique",
+    "japanese": "徒党",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "8b2cd6a1-f7b4-473b-b8df-4a8aae1faada",
+    "english": "cognizance",
+    "japanese": "認識",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "d93200b2-c78b-4fee-b230-d4724e53111f",
+    "english": "deceitfulness",
+    "japanese": "欺瞞性",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "073d4e8b-6ba7-4d63-9d07-d8cdd91b7ce9",
+    "english": "deprecation",
+    "japanese": "非難",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "1cb313a6-6c3d-41ec-9078-5b1104d5de77",
+    "english": "diabolical",
+    "japanese": "悪魔的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "95a3271e-4bcb-4225-8343-39b4d07e75e7",
+    "english": "dictatorship",
+    "japanese": "独裁制",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "7c0bf659-015a-4b6d-94ff-5caf46bb6d2b",
+    "english": "disapprobation",
+    "japanese": "不承認",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "604752be-02de-44a5-90a8-f9cd9c02cd0f",
+    "english": "disgrace",
+    "japanese": "不名誉",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "c718fb92-76d2-4b6f-8ed3-5c74d90f691f",
+    "english": "egotism",
+    "japanese": "自己中心主義",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "418a75cc-5b80-4f36-b0a0-f0ecd5fee008",
+    "english": "embezzlement",
+    "japanese": "横領",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "dc7014bd-219a-458f-a978-a22a2e02957a",
+    "english": "enervation",
+    "japanese": "衰弱",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "e1565cea-e1ce-498b-ac61-6cdb3044f457",
+    "english": "espionage",
+    "japanese": "スパイ行為",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "f9ff3a31-0ceb-4478-b8c4-879680074d03",
+    "english": "exorbitance",
+    "japanese": "法外さ",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "7f0d69f2-2ade-44e0-bad4-8a7cabd0ba33",
+    "english": "expedience",
+    "japanese": "便宜",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "7e4d1448-77ef-47cc-95c3-19092074d2ea",
+    "english": "expropriation",
+    "japanese": "収用",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "1b0215ab-ba71-473f-a8df-017904ea265c",
+    "english": "extrapolation",
+    "japanese": "外挿",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "6ab9ee1d-9f8f-43af-b82c-b4dfde40173f",
+    "english": "feudalism",
+    "japanese": "封建制度",
+    "category": "名詞",
+    "level": "1級"
+  },
+  {
+    "id": "c92d0049-68ce-45b2-8239-b4021f4f5d22",
+    "english": "fiduciary",
+    "japanese": "信託の",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "4829f132-5523-4982-a6a9-f8db9fd82e5d",
+    "english": "forthright",
+    "japanese": "率直な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "3fa2dc95-703e-45c9-94a8-a6ffb1e11665",
+    "english": "abolition",
+    "japanese": "廃止",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "1d55d903-39b0-4f06-96a9-071217dcfbab",
+    "english": "accession",
+    "japanese": "加入",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "f5e85701-83e7-4249-beb6-4908a616f6bc",
+    "english": "activism",
+    "japanese": "積極行動主義",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "5e7a5d9d-0d6c-4c41-9906-d47a91f34232",
+    "english": "adjacency",
+    "japanese": "隣接",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "d69f826e-3bc3-477c-a87a-86139e1d7d45",
+    "english": "adjudication",
+    "japanese": "裁定",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "2dac1bbf-8b55-41ee-bee5-bb4612ebaddf",
+    "english": "aggressiveness",
+    "japanese": "攻撃性",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "88184556-2c28-4794-ad8f-de85b1f71dd9",
+    "english": "apprenticeship",
+    "japanese": "見習い制度",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "cf58a1f4-578b-48b7-b37e-f6a254daf7a8",
+    "english": "backlog",
+    "japanese": "未処理案件",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "8d12e947-f34c-4b48-9df0-33866ed6f5b2",
+    "english": "byproduct",
+    "japanese": "副産物",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "6ddec0eb-0093-4cb1-a198-85c640932fc1",
+    "english": "centralization",
+    "japanese": "中央集権化",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "870ff737-553f-41f7-a6b1-f583da59c734",
+    "english": "classification",
+    "japanese": "分類",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "88257d3b-9b32-4ea2-8e53-decf2df30879",
+    "english": "colonization",
+    "japanese": "植民地化",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "e2a97e56-bc5c-4b70-8232-dcc6ae63e005",
+    "english": "commercialization",
+    "japanese": "商業化",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "8c5cf1bd-7187-47c6-a7b0-034a78075f2f",
+    "english": "commonality",
+    "japanese": "共通性",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "9559086e-08a0-4c9d-a880-1850a0852264",
+    "english": "conditionality",
+    "japanese": "条件性",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "c8ded07d-7332-47ea-910c-e21a1835a01f",
+    "english": "consumerism",
+    "japanese": "消費主義",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "a012df01-f6b0-417b-ab7a-efdbbc107db4",
+    "english": "contradiction",
+    "japanese": "矛盾",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "6162d1db-a8b8-4215-a131-7c1f337123f5",
+    "english": "deconstruction",
+    "japanese": "脱構築",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "a8b7c804-fdbc-4492-abc2-dcdb27beddf2",
+    "english": "deflation",
+    "japanese": "デフレ",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "fdd40e9f-fc5b-4778-a68d-9c5138914eb6",
+    "english": "democratization",
+    "japanese": "民主化",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "f68bd9b8-ad32-44f6-ba00-d6921788e718",
+    "english": "depletion",
+    "japanese": "枯渇",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "44000000-0517-0517-0517-000000000517",
+    "english": "kiss",
+    "japanese": "キスする",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0518-0518-0518-000000000518",
+    "english": "shake",
+    "japanese": "振る",
+    "category": "動詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0519-0519-0519-000000000519",
+    "english": "butter",
+    "japanese": "バター",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0520-0520-0520-000000000520",
+    "english": "ear",
+    "japanese": "耳",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0521-0521-0521-000000000521",
+    "english": "eye",
+    "japanese": "目",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0522-0522-0522-000000000522",
+    "english": "finger",
+    "japanese": "指",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0523-0523-0523-000000000523",
+    "english": "glass",
+    "japanese": "グラス",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0524-0524-0524-000000000524",
+    "english": "hair",
+    "japanese": "髪",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0525-0525-0525-000000000525",
+    "english": "knee",
+    "japanese": "膝",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0526-0526-0526-000000000526",
+    "english": "leaf",
+    "japanese": "葉",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0527-0527-0527-000000000527",
+    "english": "pencil",
+    "japanese": "鉛筆",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0528-0528-0528-000000000528",
+    "english": "sock",
+    "japanese": "靴下",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0529-0529-0529-000000000529",
+    "english": "storm",
+    "japanese": "嵐",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0530-0530-0530-000000000530",
+    "english": "tooth",
+    "japanese": "歯",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0531-0531-0531-000000000531",
+    "english": "silly",
+    "japanese": "ばかな",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0532-0532-0532-000000000532",
+    "english": "inside",
+    "japanese": "中に",
+    "category": "副詞",
+    "level": "4級"
+  },
+  {
+    "id": "33000000-0564-0564-0564-000000000564",
+    "english": "appreciate",
+    "japanese": "感謝する",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0565-0565-0565-000000000565",
+    "english": "behave",
+    "japanese": "振る舞う",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0566-0566-0566-000000000566",
+    "english": "relax",
+    "japanese": "くつろぐ",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0567-0567-0567-000000000567",
+    "english": "comedy",
+    "japanese": "コメディ",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0568-0568-0568-000000000568",
+    "english": "costume",
+    "japanese": "衣装",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0569-0569-0569-000000000569",
+    "english": "couple",
+    "japanese": "カップル",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0570-0570-0570-000000000570",
+    "english": "highlight",
+    "japanese": "ハイライト",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0571-0571-0571-000000000571",
+    "english": "humor",
+    "japanese": "ユーモア",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0572-0572-0572-000000000572",
+    "english": "luck",
+    "japanese": "運",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0573-0573-0573-000000000573",
+    "english": "manners",
+    "japanese": "マナー",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0574-0574-0574-000000000574",
+    "english": "mistake",
+    "japanese": "間違い",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0575-0575-0575-000000000575",
+    "english": "palace",
+    "japanese": "宮殿",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0576-0576-0576-000000000576",
+    "english": "pause",
+    "japanese": "休止",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0577-0577-0577-000000000577",
+    "english": "peace",
+    "japanese": "平和",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0578-0578-0578-000000000578",
+    "english": "planet",
+    "japanese": "惑星",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0579-0579-0579-000000000579",
+    "english": "pleasure",
+    "japanese": "喜び",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0580-0580-0580-000000000580",
+    "english": "prize",
+    "japanese": "賞品",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0581-0581-0581-000000000581",
+    "english": "recycling",
+    "japanese": "リサイクル",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "df41aa8a-0b66-4ac0-8935-d4fb5d1f2166",
+    "english": "disagree",
+    "japanese": "反対する",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "2208823d-2dda-4b5e-8364-512ba8fd4d00",
+    "english": "pollute",
+    "japanese": "汚染する",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "2c32cb0e-ad0e-447b-9ebd-8e36160833a2",
+    "english": "prove",
+    "japanese": "証明する",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "1b313df7-cd16-40ba-8ee5-47ba8dd0b1b5",
+    "english": "advertisement",
+    "japanese": "広告",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7c1666f8-86f2-4a56-a82c-5ac44f6374cb",
+    "english": "celebration",
+    "japanese": "祝典",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "20ba221e-0003-4c27-9e57-2e055bfdac00",
+    "english": "constitute",
+    "japanese": "構成する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "9163deda-de83-4441-add0-dbe9a7a6595e",
+    "english": "correspond",
+    "japanese": "一致する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "b884af6b-ebb7-427f-9b72-79d6d951da7d",
+    "english": "diversify",
+    "japanese": "多様化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "383fcbe6-6c0f-43c1-80ff-74d15fb1594a",
+    "english": "execute",
+    "japanese": "実行する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "9fc82cfe-fca9-431a-95a3-584cca41a63a",
+    "english": "omit",
+    "japanese": "省略する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "8c42fecc-fd69-491f-a49d-1f7771a72bee",
+    "english": "undergo",
+    "japanese": "経験する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "5cf09a36-dd9a-44d5-9012-26c7fc50462a",
+    "english": "statistics",
+    "japanese": "統計",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "1455dcbc-053e-4bee-8fba-3f3ec4a3582d",
+    "english": "shortage",
+    "japanese": "不足",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "8789294b-4ad3-4b6a-ab51-179556ec8960",
+    "english": "partnership",
+    "japanese": "協力関係",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "0864c7a4-c1ac-4093-b6c0-d5ce1979f090",
+    "english": "mobility",
+    "japanese": "移動性",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "f5cca4db-812d-41df-81fd-d867e24e0280",
+    "english": "abridge",
+    "japanese": "要約する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "b55f983c-f69d-44a1-b4e0-2842098a31bb",
+    "english": "concede",
+    "japanese": "譲歩する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "72f33559-828b-4b08-9162-5a33ade7acf5",
+    "english": "curb",
+    "japanese": "抑制する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "be242a63-9d74-4fb7-946c-656a142ff67e",
+    "english": "curtail",
+    "japanese": "削減する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "f27f76b1-0d1a-42a4-a6f7-d889917b0e91",
+    "english": "devastate",
+    "japanese": "壊滅させる",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "c64a9641-8688-4eb0-bd48-5f06c0a7a111",
+    "english": "disclose",
+    "japanese": "暴露する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "96b3f05a-59c7-47da-8ab6-dc4123817b43",
+    "english": "discriminate",
+    "japanese": "差別する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "0540366d-ef97-45cc-852f-0a6a5412b36e",
+    "english": "elude",
+    "japanese": "逃れる",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "54984437-ca46-446e-a1d4-6e95b5940943",
+    "english": "empower",
+    "japanese": "力を与える",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "9310a32c-3aee-4dfb-b959-fcbab319ff79",
+    "english": "extinguish",
+    "japanese": "消す",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "734f0fc7-94e2-46bb-9c7d-89cace3d7f32",
+    "english": "imply",
+    "japanese": "暗示する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "7eba64ef-8fc0-4111-8f18-3defd6fbdbee",
+    "english": "neutralize",
+    "japanese": "中立化する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "07367e92-2bbd-4869-aa93-d0e97b55ff34",
+    "english": "obliterate",
+    "japanese": "消し去る",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "ed264a71-c885-48a9-8242-3f36b4413b6a",
+    "english": "oppress",
+    "japanese": "抑圧する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "83a84f7d-b58a-41ca-a2d6-9c91bb13dfb5",
+    "english": "override",
+    "japanese": "覆す",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "ef7a3e7a-698b-444d-a960-7540923c414b",
+    "english": "overwhelm",
+    "japanese": "圧倒する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "c2240acd-a218-4cd7-a957-8ea9444ecde6",
+    "english": "proclaim",
+    "japanese": "宣言する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "a8d2669f-ad2e-44cb-b099-bf856680b219",
+    "english": "provoke",
+    "japanese": "刺激する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "1e973438-4a2a-4168-b290-5bf864b91043",
+    "english": "reckon",
+    "japanese": "計算する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "4c9c5b84-0e45-44b7-b10b-543eebce2a28",
+    "english": "repress",
+    "japanese": "抑圧する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "194fc887-c6a7-457a-a09b-cdcd0966ceef",
+    "english": "revoke",
+    "japanese": "取り消す",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "fff3769b-943e-4e74-8ad5-a84c8e50470f",
+    "english": "seize",
+    "japanese": "つかむ",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "9de528e4-ed68-4d36-9879-849c64c53db5",
+    "english": "unify",
+    "japanese": "統一する",
+    "category": "動詞",
+    "level": "準1級"
+  },
+  {
+    "id": "cd73f7f8-42b4-4648-b667-16c6a1075b7d",
+    "english": "diplomacy",
+    "japanese": "外交",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "6e824a17-e783-440e-9b77-c3a89e13c7d6",
+    "english": "absolve",
+    "japanese": "免除する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "c3975c17-9000-4d23-b0ce-f817487fb0a7",
+    "english": "acclimate",
+    "japanese": "順応する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "fd673e5d-9447-465f-b7d6-77886e0c113f",
+    "english": "bifurcate",
+    "japanese": "二分する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "84ce67d7-003f-4df3-925b-a35b92e60478",
+    "english": "condescend",
+    "japanese": "見下す",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "fd2551f6-cf5c-4d3d-aa47-66559a922bb0",
+    "english": "consecrate",
+    "japanese": "神聖にする",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "2fa93378-f8e8-435c-9c00-b297d1f49bba",
+    "english": "derail",
+    "japanese": "脱線させる",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "4b9c7c4d-4823-485f-830c-a7786539e1e1",
+    "english": "desiccate",
+    "japanese": "乾燥させる",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "813cf786-45ac-4750-975d-ab0fab5f8d9a",
+    "english": "diffuse",
+    "japanese": "広める",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "0d8fac73-6115-4a05-96d1-efe763cba9d5",
+    "english": "dissemble",
+    "japanese": "偽る",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "99830e8c-c527-4e2d-8875-5905b12ebc4d",
+    "english": "efface",
+    "japanese": "消す",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "9eb1a9c2-3faa-45fb-8ba5-f4496f9c55ba",
+    "english": "enumerate",
+    "japanese": "列挙する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "7b03d9cb-4e99-402c-bdae-a2f2d43d0450",
+    "english": "eschew",
+    "japanese": "避ける",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "522f0d3a-554d-4e7c-aea8-ed6ce389f521",
+    "english": "espouse",
+    "japanese": "支持する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "4a162b3c-75d4-4a4b-85b5-c4403c43aa73",
+    "english": "extricate",
+    "japanese": "救い出す",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "ea8a7a6b-b039-457f-8804-804206b290f8",
+    "english": "falsify",
+    "japanese": "偽造する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "f26803ef-5535-4de6-a6dc-ed1a598c4f65",
+    "english": "incapacitate",
+    "japanese": "無力化する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "c742db17-c970-4fc7-9b59-7ee583447be1",
+    "english": "inveigle",
+    "japanese": "誘惑する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "1d163496-7585-4797-90e6-199ea5220334",
+    "english": "lampoon",
+    "japanese": "風刺する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "fb70b232-602b-47de-a75a-224db0f11ba8",
+    "english": "pardon",
+    "japanese": "許す",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "2a1225cb-910f-4247-9ce8-5df97f58fb88",
+    "english": "placate",
+    "japanese": "なだめる",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "6fb7eab6-fa04-4562-8553-a365205d5ad6",
+    "english": "propel",
+    "japanese": "推進する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "5efe699d-3fd5-4ced-aeef-3f42087013ff",
+    "english": "raze",
+    "japanese": "破壊する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "0cb48315-3870-4e03-ab17-f79d21c1c697",
+    "english": "rebuke",
+    "japanese": "叱責する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "07c45fe6-7875-4a49-822a-9a7e92b1e9c1",
+    "english": "recant",
+    "japanese": "撤回する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "a60a317b-7009-4c47-9fc0-4a9de98ffbaf",
+    "english": "refute",
+    "japanese": "反論する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "1d132bb6-efc2-4c4f-9304-bc471f452228",
+    "english": "relegate",
+    "japanese": "降格する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "8fcc55d9-79af-4a2d-8c88-572703429442",
+    "english": "remonstrate",
+    "japanese": "抗議する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "1863a3a6-d53f-4563-9916-991103cd056d",
+    "english": "revere",
+    "japanese": "崇拝する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "8e1176cc-02d1-47f4-905b-e9b21f22d2e6",
+    "english": "surmount",
+    "japanese": "克服する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "8e6cf14b-05e2-41a0-b6e1-3dcee05133a1",
+    "english": "transgress",
+    "japanese": "違反する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "88e128f5-339d-4fe7-ab2d-3e1dc3697cf3",
+    "english": "venerate",
+    "japanese": "崇拝する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "21d5f223-122c-4ce5-ba39-02c2461c5841",
+    "english": "vilify",
+    "japanese": "誹謗する",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "fe6e028c-12e7-4614-bd40-eea6fe042405",
+    "english": "vitiate",
+    "japanese": "損なう",
+    "category": "動詞",
+    "level": "1級"
+  },
+  {
+    "id": "44000000-0533-0533-0533-000000000533",
+    "english": "monkey",
+    "japanese": "サル",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0534-0534-0534-000000000534",
+    "english": "elephant",
+    "japanese": "ゾウ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0535-0535-0535-000000000535",
+    "english": "dolphin",
+    "japanese": "イルカ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0536-0536-0536-000000000536",
+    "english": "whale",
+    "japanese": "クジラ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0537-0537-0537-000000000537",
+    "english": "shark",
+    "japanese": "サメ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0538-0538-0538-000000000538",
+    "english": "bee",
+    "japanese": "ハチ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0539-0539-0539-000000000539",
+    "english": "ant",
+    "japanese": "アリ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0540-0540-0540-000000000540",
+    "english": "frog",
+    "japanese": "カエル",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0541-0541-0541-000000000541",
+    "english": "sheep",
+    "japanese": "ヒツジ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0542-0542-0542-000000000542",
+    "english": "cow",
+    "japanese": "牛",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0543-0543-0543-000000000543",
+    "english": "pig",
+    "japanese": "豚",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0544-0544-0544-000000000544",
+    "english": "lion",
+    "japanese": "ライオン",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0545-0545-0545-000000000545",
+    "english": "fox",
+    "japanese": "キツネ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0546-0546-0546-000000000546",
+    "english": "wolf",
+    "japanese": "オオカミ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0547-0547-0547-000000000547",
+    "english": "duck",
+    "japanese": "アヒル",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0548-0548-0548-000000000548",
+    "english": "chicken",
+    "japanese": "ニワトリ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0549-0549-0549-000000000549",
+    "english": "butterfly",
+    "japanese": "チョウ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0550-0550-0550-000000000550",
+    "english": "panda",
+    "japanese": "パンダ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0551-0551-0551-000000000551",
+    "english": "hamster",
+    "japanese": "ハムスター",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0552-0552-0552-000000000552",
+    "english": "wrist",
+    "japanese": "手首",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0553-0553-0553-000000000553",
+    "english": "toe",
+    "japanese": "足の指",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0554-0554-0554-000000000554",
+    "english": "thumb",
+    "japanese": "親指",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0555-0555-0555-000000000555",
+    "english": "lip",
+    "japanese": "唇",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0556-0556-0556-000000000556",
+    "english": "tongue",
+    "japanese": "舌",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0557-0557-0557-000000000557",
+    "english": "chin",
+    "japanese": "あご",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0558-0558-0558-000000000558",
+    "english": "cheek",
+    "japanese": "ほお",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0559-0559-0559-000000000559",
+    "english": "forehead",
+    "japanese": "額",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0560-0560-0560-000000000560",
+    "english": "palm",
+    "japanese": "手のひら",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0561-0561-0561-000000000561",
+    "english": "elbow",
+    "japanese": "ひじ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0562-0562-0562-000000000562",
+    "english": "chest",
+    "japanese": "胸",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0563-0563-0563-000000000563",
+    "english": "stomach",
+    "japanese": "胃",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0564-0564-0564-000000000564",
+    "english": "spine",
+    "japanese": "背骨",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0565-0565-0565-000000000565",
+    "english": "banana",
+    "japanese": "バナナ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0566-0566-0566-000000000566",
+    "english": "grape",
+    "japanese": "ブドウ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0567-0567-0567-000000000567",
+    "english": "strawberry",
+    "japanese": "イチゴ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0568-0568-0568-000000000568",
+    "english": "peach",
+    "japanese": "モモ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0569-0569-0569-000000000569",
+    "english": "cherry",
+    "japanese": "サクランボ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0570-0570-0570-000000000570",
+    "english": "watermelon",
+    "japanese": "スイカ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0571-0571-0571-000000000571",
+    "english": "mango",
+    "japanese": "マンゴー",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0572-0572-0572-000000000572",
+    "english": "pineapple",
+    "japanese": "パイナップル",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0573-0573-0573-000000000573",
+    "english": "lemon",
+    "japanese": "レモン",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0574-0574-0574-000000000574",
+    "english": "carrot",
+    "japanese": "ニンジン",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0575-0575-0575-000000000575",
+    "english": "cucumber",
+    "japanese": "キュウリ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0576-0576-0576-000000000576",
+    "english": "onion",
+    "japanese": "タマネギ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0577-0577-0577-000000000577",
+    "english": "pepper",
+    "japanese": "コショウ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0578-0578-0578-000000000578",
+    "english": "potato",
+    "japanese": "ジャガイモ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0579-0579-0579-000000000579",
+    "english": "corn",
+    "japanese": "トウモロコシ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0580-0580-0580-000000000580",
+    "english": "noodle",
+    "japanese": "麺",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0581-0581-0581-000000000581",
+    "english": "hamburger",
+    "japanese": "ハンバーガー",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0582-0582-0582-000000000582",
+    "english": "salad",
+    "japanese": "サラダ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0583-0583-0583-000000000583",
+    "english": "yogurt",
+    "japanese": "ヨーグルト",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0584-0584-0584-000000000584",
+    "english": "honey",
+    "japanese": "ハチミツ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0585-0585-0585-000000000585",
+    "english": "jeans",
+    "japanese": "ジーンズ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0586-0586-0586-000000000586",
+    "english": "jacket",
+    "japanese": "ジャケット",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0587-0587-0587-000000000587",
+    "english": "scarf",
+    "japanese": "マフラー",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0588-0588-0588-000000000588",
+    "english": "glove",
+    "japanese": "手袋",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0589-0589-0589-000000000589",
+    "english": "boot",
+    "japanese": "ブーツ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0590-0590-0590-000000000590",
+    "english": "sneaker",
+    "japanese": "スニーカー",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0591-0591-0591-000000000591",
+    "english": "pajamas",
+    "japanese": "パジャマ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0592-0592-0592-000000000592",
+    "english": "belt",
+    "japanese": "ベルト",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0593-0593-0593-000000000593",
+    "english": "umbrella",
+    "japanese": "傘",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0594-0594-0594-000000000594",
+    "english": "wallet",
+    "japanese": "財布",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0595-0595-0595-000000000595",
+    "english": "suitcase",
+    "japanese": "スーツケース",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0596-0596-0596-000000000596",
+    "english": "mirror",
+    "japanese": "鏡",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0597-0597-0597-000000000597",
+    "english": "scissors",
+    "japanese": "ハサミ",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0598-0598-0598-000000000598",
+    "english": "ruler",
+    "japanese": "定規",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0599-0599-0599-000000000599",
+    "english": "calculator",
+    "japanese": "電卓",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0600-0600-0600-000000000600",
+    "english": "cinema",
+    "japanese": "映画館",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0601-0601-0601-000000000601",
+    "english": "stadium",
+    "japanese": "スタジアム",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0602-0602-0602-000000000602",
+    "english": "valley",
+    "japanese": "谷",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0603-0603-0603-000000000603",
+    "english": "pond",
+    "japanese": "池",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0604-0604-0604-000000000604",
+    "english": "waterfall",
+    "japanese": "滝",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0605-0605-0605-000000000605",
+    "english": "airplane",
+    "japanese": "飛行機",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0606-0606-0606-000000000606",
+    "english": "helicopter",
+    "japanese": "ヘリコプター",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0607-0607-0607-000000000607",
+    "english": "taxi",
+    "japanese": "タクシー",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0608-0608-0608-000000000608",
+    "english": "subway",
+    "japanese": "地下鉄",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0609-0609-0609-000000000609",
+    "english": "ferry",
+    "japanese": "フェリー",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0610-0610-0610-000000000610",
+    "english": "midnight",
+    "japanese": "真夜中",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0611-0611-0611-000000000611",
+    "english": "dawn",
+    "japanese": "夜明け",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0612-0612-0612-000000000612",
+    "english": "noon",
+    "japanese": "正午",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0613-0613-0613-000000000613",
+    "english": "spring",
+    "japanese": "春",
+    "category": "名詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0614-0614-0614-000000000614",
+    "english": "messy",
+    "japanese": "散らかった",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0615-0615-0615-000000000615",
+    "english": "tidy",
+    "japanese": "きちんとした",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "44000000-0616-0616-0616-000000000616",
+    "english": "raw",
+    "japanese": "生の",
+    "category": "形容詞",
+    "level": "4級"
+  },
+  {
+    "id": "33000000-0582-0582-0582-000000000582",
+    "english": "chase",
+    "japanese": "追いかける",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0583-0583-0583-000000000583",
+    "english": "complain",
+    "japanese": "不平を言う",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0584-0584-0584-000000000584",
+    "english": "destroy",
+    "japanese": "破壊する",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0585-0585-0585-000000000585",
+    "english": "differ",
+    "japanese": "異なる",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0586-0586-0586-000000000586",
+    "english": "dislike",
+    "japanese": "嫌いである",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0587-0587-0587-000000000587",
+    "english": "elect",
+    "japanese": "選出する",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0588-0588-0588-000000000588",
+    "english": "excite",
+    "japanese": "興奮させる",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0589-0589-0589-000000000589",
+    "english": "fetch",
+    "japanese": "取ってくる",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0590-0590-0590-000000000590",
+    "english": "guard",
+    "japanese": "守る",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0591-0591-0591-000000000591",
+    "english": "hunt",
+    "japanese": "狩る",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0592-0592-0592-000000000592",
+    "english": "injure",
+    "japanese": "けがをさせる",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0593-0593-0593-000000000593",
+    "english": "occur",
+    "japanese": "起こる",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0594-0594-0594-000000000594",
+    "english": "own",
+    "japanese": "所有する",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0595-0595-0595-000000000595",
+    "english": "recycle",
+    "japanese": "リサイクルする",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0596-0596-0596-000000000596",
+    "english": "rescue",
+    "japanese": "救助する",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0597-0597-0597-000000000597",
+    "english": "set",
+    "japanese": "設定する",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0598-0598-0598-000000000598",
+    "english": "sneeze",
+    "japanese": "くしゃみをする",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0599-0599-0599-000000000599",
+    "english": "surprise",
+    "japanese": "驚かせる",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0600-0600-0600-000000000600",
+    "english": "transport",
+    "japanese": "輸送する",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0601-0601-0601-000000000601",
+    "english": "trust",
+    "japanese": "信頼する",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0602-0602-0602-000000000602",
+    "english": "athlete",
+    "japanese": "運動選手",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0603-0603-0603-000000000603",
+    "english": "continent",
+    "japanese": "大陸",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0604-0604-0604-000000000604",
+    "english": "average",
+    "japanese": "平均的な",
+    "category": "形容詞",
+    "level": "3級"
+  },
+  {
+    "id": "dbbc5b2c-7a8e-4806-baca-9ed805b567fb",
+    "english": "affirm",
+    "japanese": "断言する",
+    "category": "動詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7fc83e58-89e8-44df-a1a4-be0cef55fbb4",
+    "english": "architecture",
+    "japanese": "建築",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "1c7a67b6-0652-40f7-89c5-99a1cfc2edfb",
+    "english": "circulation",
+    "japanese": "循環",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "9c5c66c1-13fc-4cf3-9d48-1b3802e9d504",
+    "english": "conservation",
+    "japanese": "保全",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "bfb45c8f-e3d2-4e61-8cd2-10044650836f",
+    "english": "centralize",
+    "japanese": "集中化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "f02e5a82-370d-4885-a235-c0ac26f13e22",
+    "english": "circulate",
+    "japanese": "循環する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "395554a5-d6ad-4958-8a41-9737b2b8a443",
+    "english": "coexist",
+    "japanese": "共存する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "6b32f6e1-e6c1-4ccd-8564-f1eb4b87bdf7",
+    "english": "commercialize",
+    "japanese": "商業化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "e0c93d4e-8eb2-41b5-a6f3-9e9b9f946b1c",
+    "english": "conceptualize",
+    "japanese": "概念化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "f04c48d4-a494-4d35-8010-215bf933e382",
+    "english": "contextualize",
+    "japanese": "文脈化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "5c2b9a3e-e614-4fe9-a8f7-2bf1d1c9e0d2",
+    "english": "customize",
+    "japanese": "カスタマイズする",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "7d8e74ad-1391-4d57-980f-78d7a88af71e",
+    "english": "decelerate",
+    "japanese": "減速する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "5faa5c12-c62c-4604-92b7-6c7febab4f98",
+    "english": "deepen",
+    "japanese": "深める",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "57959ede-03ce-4d5b-81e2-c2c6886b45bb",
+    "english": "destabilize",
+    "japanese": "不安定にする",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "021396f0-76cf-4dcc-ab77-b5890618c298",
+    "english": "digitize",
+    "japanese": "デジタル化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "69f2b72a-0a4e-4545-b0f8-9b1fe788f497",
+    "english": "energize",
+    "japanese": "活性化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "59a91a7a-897f-407d-aa4c-1e68c9556308",
+    "english": "equalize",
+    "japanese": "平等にする",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "bc64c9fb-6a1c-4cbb-89bb-d1bb582fe49f",
+    "english": "forecast",
+    "japanese": "予測する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "842d72ed-adbc-4846-9b82-d1d427a51849",
+    "english": "generalize",
+    "japanese": "一般化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "2d392988-aef2-4596-bc0a-ac70b8edb30c",
+    "english": "globalize",
+    "japanese": "グローバル化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "682993c6-bce8-4c59-9a82-e771d6fb9f5f",
+    "english": "homogenize",
+    "japanese": "均質化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "adb849cb-e093-42b9-ac35-47449f564fe3",
+    "english": "individualize",
+    "japanese": "個別化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "e43f127b-bbb5-408b-a9ea-11f02f2be48b",
+    "english": "industrialize",
+    "japanese": "工業化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "25bbecbb-7800-46a9-9ab1-2b86143d118f",
+    "english": "institutionalize",
+    "japanese": "制度化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "74a1d06d-e5d7-4b61-924d-7879e4dd45fd",
+    "english": "interconnect",
+    "japanese": "相互接続する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "9254a561-19f0-4009-a9f4-243ce8d85a2d",
+    "english": "internalize",
+    "japanese": "内面化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "06d0b0c4-fbc8-4e98-8118-af27e363a9af",
+    "english": "legitimize",
+    "japanese": "合法化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "13a63112-28de-4ad3-8d00-19f1b7899d79",
+    "english": "liberalize",
+    "japanese": "自由化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "7e23a7c4-c668-41fd-8f96-24a814de4266",
+    "english": "modernize",
+    "japanese": "近代化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "80ec23e7-262a-4a81-a939-b47f334e9880",
+    "english": "nationalize",
+    "japanese": "国有化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "e817e85a-db51-4aca-a36c-e034fef7eae0",
+    "english": "normalize",
+    "japanese": "正常化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "1fe55fec-799e-4465-8b0e-e845a536da67",
+    "english": "particularize",
+    "japanese": "特定化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "7b6ad025-5182-429b-b452-06f3da7bfeab",
+    "english": "penalize",
+    "japanese": "罰則を設ける",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "7dd3ca61-8f40-4f8b-84b4-9ecb24cea747",
+    "english": "popularize",
+    "japanese": "普及させる",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "25480320-379d-4e69-9439-3e44b693c5cf",
+    "english": "privatize",
+    "japanese": "民営化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "24c3f89e-1098-4351-afc2-3cbce7db8fe3",
+    "english": "professionalize",
+    "japanese": "専門化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "56df1151-4355-44a9-805b-c160c1558820",
+    "english": "rationalize",
+    "japanese": "合理化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "1c040a70-1ccf-4a11-829e-3eb4859d0c70",
+    "english": "restructure",
+    "japanese": "再構築する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "06c78839-0c23-4f2b-9d81-2e004a57580e",
+    "english": "revolutionize",
+    "japanese": "革新する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "2b4e5cd6-933b-4b86-8a99-57e2b117a00d",
+    "english": "simplify",
+    "japanese": "簡素化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "39c78696-b18d-4044-a6e8-049988582c07",
+    "english": "specialize",
+    "japanese": "専門化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "d161df42-8dbc-4d21-9118-4e619b3d5277",
+    "english": "standardize",
+    "japanese": "標準化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "6aaa4e94-3eeb-44ad-90aa-7b09360b5768",
+    "english": "subsidize",
+    "japanese": "補助金を出す",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "001f6f0e-c68a-4f11-86cb-36c2ac88a3ec",
+    "english": "systematize",
+    "japanese": "体系化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "8a15fbce-1033-4683-80fc-8f8e5472cc6b",
+    "english": "trivialize",
+    "japanese": "軽視する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "1c470844-395d-4bb5-b4dc-56b3be978ef8",
+    "english": "underestimate",
+    "japanese": "過小評価する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "eb5ab75b-6989-45ea-a073-0883461dcde8",
+    "english": "universalize",
+    "japanese": "普遍化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "2cead699-34d0-4030-844a-045285e31fd6",
+    "english": "visualize",
+    "japanese": "視覚化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "d710f74b-001a-4ce3-8080-a96619a925c5",
+    "english": "westernize",
+    "japanese": "西洋化する",
+    "category": "動詞",
+    "level": "2級"
+  },
+  {
+    "id": "32ca7949-0de8-4f90-b03c-4420fdd53257",
+    "english": "abdication",
+    "japanese": "退位",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "26c7067e-5a18-43f5-b4a7-9afb6efa08e1",
+    "english": "bankruptcy",
+    "japanese": "破産",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "36164873-cdb6-4b1b-8bdb-495902f86605",
+    "english": "bureaucrat",
+    "japanese": "官僚",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "bbf5c844-4584-4b47-862d-0bbdaa783ff6",
+    "english": "charisma",
+    "japanese": "カリスマ",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "4a6a934f-bc77-4d16-b1ed-5ba7f2161834",
+    "english": "conciliation",
+    "japanese": "和解",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "fac6c860-b60e-41ad-aa8c-bdfdbbad2095",
+    "english": "conformity",
+    "japanese": "順応",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "712b58b6-2608-4dee-889a-5c9675a75d2c",
+    "english": "deterrent",
+    "japanese": "抑止力",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "5772c7ed-de7d-4931-a8b7-5ee8f4b91271",
+    "english": "deviance",
+    "japanese": "逸脱",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "c828be72-87e2-42f5-a6d2-f25e83e6b5eb",
+    "english": "embargo",
+    "japanese": "禁輸措置",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "8661d59f-0d03-483d-b2db-207571d795f0",
+    "english": "epitome",
+    "japanese": "典型",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "e0f2b988-0a6a-4b83-86fc-72356bced867",
+    "english": "exemption",
+    "japanese": "免除",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "e5047331-a49b-4369-b2c9-441e9792ea08",
+    "english": "fiscal",
+    "japanese": "財政の",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "43dde81b-f6c8-4ce9-8f6c-e07246d9eb85",
+    "english": "flagship",
+    "japanese": "旗艦",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "027c1dd5-62a7-44eb-99f3-4f1db5684a7c",
+    "english": "inauguration",
+    "japanese": "就任",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "fc349b53-2524-4424-9225-93fc1812be3e",
+    "english": "insinuation",
+    "japanese": "ほのめかし",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "8e0de7e2-1151-4583-a3d4-4f90bd62f683",
+    "english": "intimidation",
+    "japanese": "脅迫",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "9377cfe2-46d6-44ee-b429-ef9ce0869dc4",
+    "english": "jargon",
+    "japanese": "専門用語",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "4845b6d4-1814-4b04-874d-6b82a49ac0bd",
+    "english": "nationalism",
+    "japanese": "民族主義",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "0d32fe25-d10e-46cb-9df8-f7273acbe7d7",
+    "english": "nuance",
+    "japanese": "ニュアンス",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "63343d4c-08ba-43f7-a388-c2fb9abad8f5",
+    "english": "opposition",
+    "japanese": "反対",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "27b710ba-5484-411e-846b-af9d2ddd61dc",
+    "english": "perpetrator",
+    "japanese": "加害者",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "67604fb5-8450-46b0-aafb-3128487181ef",
+    "english": "protagonist",
+    "japanese": "主人公",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "765a9a1b-05e0-405d-b63f-f2b59d6b55b4",
+    "english": "sabotage",
+    "japanese": "妨害工作",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "aa1000f0-3dc1-4115-b25e-ecf478206414",
+    "english": "scapegoat",
+    "japanese": "スケープゴート",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "daf38632-a694-4a68-bdc5-f0c52d1b62fd",
+    "english": "tribalism",
+    "japanese": "部族主義",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "1b049a0f-138b-4c2e-b766-ef59446124c7",
+    "english": "ultimatum",
+    "japanese": "最後通牒",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "3fbff243-4559-46e3-b70d-d62a84f061a3",
+    "english": "utopia",
+    "japanese": "ユートピア",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "82376682-c461-4109-8709-c68cea6cfec8",
+    "english": "vested",
+    "japanese": "既得の",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "d04cfadc-56a0-46f8-9c10-5c333349fa66",
+    "english": "vigilance",
+    "japanese": "警戒",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "5b784912-aece-4d6e-9c3b-7020359c9813",
+    "english": "virtue",
+    "japanese": "美徳",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "24145ad8-eb37-457a-9c4c-691af3558f8e",
+    "english": "volatility",
+    "japanese": "変動性",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "74dcb816-b97c-4ed0-94a1-cb02c2fa3f0e",
+    "english": "aesthetic",
+    "japanese": "美的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "dfc01585-0e31-4b88-be60-0cc58bd7b277",
+    "english": "affluent",
+    "japanese": "裕福な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "b2e62767-81a0-494e-bd7b-b549858eecf5",
+    "english": "amenable",
+    "japanese": "従順な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "a6903756-e20e-46df-8141-beb18b9da4b5",
+    "english": "arid",
+    "japanese": "乾燥した",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "d11ab1ad-a11e-4dc0-bd91-e9265fb400a1",
+    "english": "awe-inspiring",
+    "japanese": "畏敬の念を起こさせる",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "3ef56650-eb66-4114-9c3a-0ddd61b9c9ad",
+    "english": "byzantine",
+    "japanese": "複雑な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "0d8c26bb-9106-41a0-9d96-e5153f33e8dd",
+    "english": "chaotic",
+    "japanese": "混沌とした",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "48eed0f8-737d-4405-bc4a-8f4fb4341dec",
+    "english": "conciliatory",
+    "japanese": "和解的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "75d46841-c4ee-4fbf-bbde-a54642a4abc5",
+    "english": "despotic",
+    "japanese": "専制的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "468ea926-1d0e-4a0c-9f48-7e7084f63953",
+    "english": "dexterous",
+    "japanese": "器用な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "cc52a3d5-a139-4bce-a16a-57a8cf922495",
+    "english": "eclectic",
+    "japanese": "折衷的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "5d8e28f8-6600-4259-9e7f-8ebf18c0eec4",
+    "english": "eminent",
+    "japanese": "著名な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "749bad04-9d79-4cba-99d8-58dc47daa2a0",
+    "english": "equivocal",
+    "japanese": "曖昧な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "43aa38be-042a-4016-bd10-1730811bc3e9",
+    "english": "erudite",
+    "japanese": "博学な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "934be358-89c0-4aa6-b479-331da9cbd699",
+    "english": "exquisite",
+    "japanese": "精巧な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "c50254ac-3a05-4ff5-afed-c5dbfe8ac37c",
+    "english": "exuberant",
+    "japanese": "活気のある",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "0d8dc92b-83de-4031-b2d8-a0ee0468f9e3",
+    "english": "fickle",
+    "japanese": "気まぐれな",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "43d9e9fe-529a-4545-9a4d-be5eca44f0ab",
+    "english": "flamboyant",
+    "japanese": "派手な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "0c5ca7fa-a559-46e7-9624-61f7740e8291",
+    "english": "garrulous",
+    "japanese": "おしゃべりな",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "51ac9255-3af6-4c12-a66a-d01e9177a7f9",
+    "english": "grandiose",
+    "japanese": "壮大な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "edfcd651-e795-45e2-8309-11f57527292a",
+    "english": "gratuitous",
+    "japanese": "不必要な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "1f2c6c19-ce6e-48f7-accd-925f57a2a7be",
+    "english": "hackneyed",
+    "japanese": "陳腐な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "27c66c72-a4d5-42e4-a9fc-55f52179d4f5",
+    "english": "haughty",
+    "japanese": "尊大な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "d8cc0a1c-3aad-44a0-a365-adf9bd567f13",
+    "english": "heinous",
+    "japanese": "凶悪な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "164b858e-6a99-42e4-8115-f7d191929ce4",
+    "english": "heretical",
+    "japanese": "異端の",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "c0aae0b7-0a27-4a8a-bab4-3e362dea0181",
+    "english": "impeccable",
+    "japanese": "非の打ちどころのない",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "5d1e85a3-7143-4280-b9dd-d67f316bcb4a",
+    "english": "impertinent",
+    "japanese": "生意気な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "11c5fcdd-931e-47cd-b64c-16d464024653",
+    "english": "impulsive",
+    "japanese": "衝動的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "8e2604aa-4f24-4173-b7a1-558890b8c4ce",
+    "english": "incisive",
+    "japanese": "鋭い",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "54dd1531-a0cd-4e65-bc03-335cd30c120a",
+    "english": "inept",
+    "japanese": "不適切な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "dcd7753a-6fd5-42dd-991e-ee9f8d5911dc",
+    "english": "infamous",
+    "japanese": "悪名高い",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "7657aadc-6db0-4f1e-a282-e8401f1e6604",
+    "english": "ingenious",
+    "japanese": "巧妙な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "e4473222-59b8-49e6-8ead-97cb9f9c9656",
+    "english": "intrepid",
+    "japanese": "大胆な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "41cb789a-6f4c-4c35-8156-ebe7f384746e",
+    "english": "intuitive",
+    "japanese": "直感的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "101c0c2b-8edd-4e0a-9e04-b035d446fca0",
+    "english": "languid",
+    "japanese": "けだるい",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "9ea59323-5ec6-4978-889f-c5e4d118e2ce",
+    "english": "latent",
+    "japanese": "潜在的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "9fa4d9b8-bcfd-4bf8-bbde-2879371bd4b7",
+    "english": "lavish",
+    "japanese": "惜しみない",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "5c44a621-efb5-48e8-92d5-f21a2a10cbf1",
+    "english": "lethargic",
+    "japanese": "無気力な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "fafdb3d5-badf-4d97-948c-317cf183fbd5",
+    "english": "malleable",
+    "japanese": "柔軟な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "f01e47fd-863a-47d6-a13e-e1140eeea5b5",
+    "english": "militant",
+    "japanese": "戦闘的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "ab06f6c4-598c-414b-8fc4-9ab1add3b8ef",
+    "english": "misanthropic",
+    "japanese": "人間嫌いの",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "1660b5c1-1fb4-45b0-b37e-8b599271613d",
+    "english": "narcissistic",
+    "japanese": "自己陶酔的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "3c89ef10-f49f-4340-8202-e43996512650",
+    "english": "nostalgic",
+    "japanese": "郷愁的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "1fe68e3f-7ec3-4ad1-9d7a-8a84ce1b21ec",
+    "english": "notorious",
+    "japanese": "悪名高い",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "95c19167-75c2-4ca4-9045-db2ccaf041a7",
+    "english": "oblivious",
+    "japanese": "気づかない",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "942ba74c-d9c1-4409-8b61-813460cd9ae1",
+    "english": "outspoken",
+    "japanese": "率直な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "ea368706-e80d-45ad-9da1-1fb0091580d8",
+    "english": "pensive",
+    "japanese": "物思いにふける",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "3f1eb883-109a-4eef-b1f8-c1712356586c",
+    "english": "perfidious",
+    "japanese": "不誠実な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "49609b5a-9231-4aea-b2de-820e2f47d71b",
+    "english": "petulant",
+    "japanese": "すねた",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "6d76c108-9fc2-4f94-980e-358285760506",
+    "english": "provincial",
+    "japanese": "地方の",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "a52baad5-f131-4a00-bee2-7a42f5c47fd0",
+    "english": "prudent",
+    "japanese": "慎重な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "5de9f66e-df78-4e10-a944-f538a0d03a9d",
+    "english": "quirky",
+    "japanese": "風変わりな",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "8dac6794-427b-47b7-8602-7ef9c9f012f2",
+    "english": "reclusive",
+    "japanese": "引きこもりの",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "bfd8ff70-6235-43fb-84f9-67cd9ff8157a",
+    "english": "redundant",
+    "japanese": "余分な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "b181720d-b5ac-4361-b7ac-28604a9560ac",
+    "english": "sagacious",
+    "japanese": "賢明な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "9997958e-c492-4005-98ed-d6328196e978",
+    "english": "serene",
+    "japanese": "穏やかな",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "a37a6712-548c-4980-b64d-07d19c6e8a27",
+    "english": "shrewd",
+    "japanese": "鋭い",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "3c6ac7de-1f56-48e0-9f2f-9ace74dc67b2",
+    "english": "slovenly",
+    "japanese": "だらしない",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "7a1ff6af-8278-4e71-b626-5fd4221ba164",
+    "english": "solitary",
+    "japanese": "孤独な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "e0185408-4dd3-476c-abce-00bafdc76446",
+    "english": "spurious",
+    "japanese": "偽の",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "92a25ef1-a779-4f41-97ee-a1eef6d2f1c1",
+    "english": "stoic",
+    "japanese": "禁欲的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "9d4edcdb-8050-4c86-bb90-fabb66a4ebce",
+    "english": "stubborn",
+    "japanese": "頑固な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "ad2cb31d-c346-4411-a939-e197d2be6730",
+    "english": "subversive",
+    "japanese": "破壊的な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "b71fc168-822f-4ed9-8aff-dbb977b24f3a",
+    "english": "succinct",
+    "japanese": "簡潔な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "ab649012-e1b1-42a8-8538-78313aa83c68",
+    "english": "taciturn",
+    "japanese": "無口な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "27feb619-ca0d-486c-82e6-1523c8cc1713",
+    "english": "terse",
+    "japanese": "簡潔な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "54798cab-c8f0-4125-9cec-fbcefeed5162",
+    "english": "timid",
+    "japanese": "臆病な",
+    "category": "形容詞",
+    "level": "1級"
+  },
+  {
+    "id": "33000000-0605-0605-0605-000000000605",
+    "english": "determination",
+    "japanese": "決意",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0606-0606-0606-000000000606",
+    "english": "faith",
+    "japanese": "信仰",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0607-0607-0607-000000000607",
+    "english": "justice",
+    "japanese": "正義",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0608-0608-0608-000000000608",
+    "english": "financial",
+    "japanese": "財政的な",
+    "category": "形容詞",
+    "level": "3級"
+  },
+  {
+    "id": "7ae973cb-703f-428a-a7e6-3d1c1252a0cb",
+    "english": "accusation",
+    "japanese": "告発",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "bdfb6f0e-68a1-464c-b1e9-5ab5f0468384",
+    "english": "addiction",
+    "japanese": "依存症",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "6a7997b6-c353-4122-9b25-a18ae05ccffd",
+    "english": "aggregation",
+    "japanese": "集合",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "c7eb842c-4e2b-4b1f-90e8-579f8e4adfc4",
+    "english": "algorithm",
+    "japanese": "アルゴリズム",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "cec0ed9e-bb19-4c46-b0c4-7c2bcf37dd14",
+    "english": "cultivation",
+    "japanese": "栽培",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "3e4a0255-5377-4f72-9f09-338639cb7ecc",
+    "english": "accumulation",
+    "japanese": "蓄積",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "42787499-2bcf-4a93-a16b-878370244a4f",
+    "english": "aggrandizement",
+    "japanese": "拡大",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "379ae7ca-70f5-41dc-9b61-21a25ee87a32",
+    "english": "amelioration",
+    "japanese": "改善",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "36fe0b30-f05c-488a-a5dd-555af0f2cc6f",
+    "english": "assimilation",
+    "japanese": "同化",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "33000000-0609-0609-0609-000000000609",
+    "english": "frown",
+    "japanese": "眉をひそめる",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0610-0610-0610-000000000610",
+    "english": "glare",
+    "japanese": "にらみつける",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0611-0611-0611-000000000611",
+    "english": "groan",
+    "japanese": "うめく",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0612-0612-0612-000000000612",
+    "english": "grumble",
+    "japanese": "不平を言う",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0613-0613-0613-000000000613",
+    "english": "mumble",
+    "japanese": "ぶつぶつ言う",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0614-0614-0614-000000000614",
+    "english": "peek",
+    "japanese": "こっそり見る",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0615-0615-0615-000000000615",
+    "english": "pout",
+    "japanese": "ふくれる",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0616-0616-0616-000000000616",
+    "english": "sigh",
+    "japanese": "ため息をつく",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0617-0617-0617-000000000617",
+    "english": "slam",
+    "japanese": "強く閉める",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0618-0618-0618-000000000618",
+    "english": "sneak",
+    "japanese": "こそこそ動く",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0619-0619-0619-000000000619",
+    "english": "sob",
+    "japanese": "すすり泣く",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0620-0620-0620-000000000620",
+    "english": "stroll",
+    "japanese": "ぶらつく",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0621-0621-0621-000000000621",
+    "english": "sulk",
+    "japanese": "ふてくされる",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0622-0622-0622-000000000622",
+    "english": "tease",
+    "japanese": "からかう",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0623-0623-0623-000000000623",
+    "english": "wander",
+    "japanese": "さまよう",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0624-0624-0624-000000000624",
+    "english": "dash",
+    "japanese": "突進する",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0625-0625-0625-000000000625",
+    "english": "drip",
+    "japanese": "滴る",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0626-0626-0626-000000000626",
+    "english": "flutter",
+    "japanese": "ひらひら動く",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0627-0627-0627-000000000627",
+    "english": "grab",
+    "japanese": "つかむ",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0628-0628-0628-000000000628",
+    "english": "hum",
+    "japanese": "鼻歌を歌う",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0629-0629-0629-000000000629",
+    "english": "jog",
+    "japanese": "ジョギングする",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0630-0630-0630-000000000630",
+    "english": "nag",
+    "japanese": "小言を言う",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0631-0631-0631-000000000631",
+    "english": "poke",
+    "japanese": "つつく",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0632-0632-0632-000000000632",
+    "english": "rinse",
+    "japanese": "すすぐ",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0633-0633-0633-000000000633",
+    "english": "rub",
+    "japanese": "こする",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0634-0634-0634-000000000634",
+    "english": "sniff",
+    "japanese": "鼻を鳴らす",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0635-0635-0635-000000000635",
+    "english": "stare",
+    "japanese": "じっと見る",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0636-0636-0636-000000000636",
+    "english": "toss",
+    "japanese": "軽く投げる",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0637-0637-0637-000000000637",
+    "english": "tug",
+    "japanese": "引っ張る",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0638-0638-0638-000000000638",
+    "english": "tumble",
+    "japanese": "ころぶ",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0639-0639-0639-000000000639",
+    "english": "twist",
+    "japanese": "ねじる",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0640-0640-0640-000000000640",
+    "english": "tackle",
+    "japanese": "取り組む",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0641-0641-0641-000000000641",
+    "english": "swear",
+    "japanese": "誓う",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0642-0642-0642-000000000642",
+    "english": "smash",
+    "japanese": "粉砕する",
+    "category": "動詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0643-0643-0643-000000000643",
+    "english": "blossom",
+    "japanese": "花",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0644-0644-0644-000000000644",
+    "english": "boulder",
+    "japanese": "大岩",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0645-0645-0645-000000000645",
+    "english": "bruise",
+    "japanese": "打ち傷",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0646-0646-0646-000000000646",
+    "english": "bud",
+    "japanese": "芽",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0647-0647-0647-000000000647",
+    "english": "charm",
+    "japanese": "魅力",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0648-0648-0648-000000000648",
+    "english": "chunk",
+    "japanese": "塊",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0649-0649-0649-000000000649",
+    "english": "cliff",
+    "japanese": "崖",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0650-0650-0650-000000000650",
+    "english": "clue",
+    "japanese": "手がかり",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0651-0651-0651-000000000651",
+    "english": "crest",
+    "japanese": "頂上",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0652-0652-0652-000000000652",
+    "english": "curl",
+    "japanese": "巻き毛",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0653-0653-0653-000000000653",
+    "english": "depth",
+    "japanese": "深さ",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0654-0654-0654-000000000654",
+    "english": "ditch",
+    "japanese": "溝",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0655-0655-0655-000000000655",
+    "english": "dome",
+    "japanese": "ドーム",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0656-0656-0656-000000000656",
+    "english": "echo",
+    "japanese": "こだま",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0657-0657-0657-000000000657",
+    "english": "flaw",
+    "japanese": "欠点",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0658-0658-0658-000000000658",
+    "english": "foam",
+    "japanese": "泡",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0659-0659-0659-000000000659",
+    "english": "fog",
+    "japanese": "霧",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0660-0660-0660-000000000660",
+    "english": "glow",
+    "japanese": "輝き",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0661-0661-0661-000000000661",
+    "english": "gust",
+    "japanese": "突風",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0662-0662-0662-000000000662",
+    "english": "haze",
+    "japanese": "かすみ",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "33000000-0663-0663-0663-000000000663",
+    "english": "heap",
+    "japanese": "山積み",
+    "category": "名詞",
+    "level": "3級"
+  },
+  {
+    "id": "70b01d0e-7427-46a6-983f-6d9e6f68c3b1",
+    "english": "bulletin",
+    "japanese": "告示",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "a9b33c4a-605f-4a4e-b46c-c62dd2eafe0a",
+    "english": "bypass",
+    "japanese": "迂回路",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "768bdee4-33f4-4164-b700-5ea4c3aab340",
+    "english": "caption",
+    "japanese": "キャプション",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "bd5ca9e3-0ff5-481c-b52d-0646d721c52f",
+    "english": "clause",
+    "japanese": "条項",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "6bd91b70-12f4-49e1-84ac-39b81860b51f",
+    "english": "coincidence",
+    "japanese": "偶然の一致",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "bbb65ad8-4d8d-4c63-b58a-1bc8735cf45a",
+    "english": "congestion",
+    "japanese": "混雑",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "9b5e9b09-bb97-4fdc-a544-256c3f732419",
+    "english": "corridor",
+    "japanese": "廊下",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "9f0923a5-82ae-4bb9-932c-59eec02baa8c",
+    "english": "debris",
+    "japanese": "残骸",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "af254dc2-ec52-44ef-907e-38e00f248516",
+    "english": "deputy",
+    "japanese": "代理人",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "ecc780be-07cc-43fc-b4ac-9ff170ae26ec",
+    "english": "dialogue",
+    "japanese": "対話",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "eaa1a931-48c9-4570-a866-3bcec658a669",
+    "english": "distraction",
+    "japanese": "気晴らし",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "67bb526f-147f-4b95-a0cf-39d65fbe8e35",
+    "english": "drawback",
+    "japanese": "欠点",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "d84f3f6a-d58c-44b8-974e-1320fbf37f1b",
+    "english": "duration",
+    "japanese": "期間",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7d86a664-2279-4dae-9d8d-5d69451eed05",
+    "english": "ecosystem",
+    "japanese": "生態系",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "6919b33b-1d12-42d7-8e3d-9b2031baa9d8",
+    "english": "excerpt",
+    "japanese": "抜粋",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "90ff4d8a-355a-4053-98c9-84824b819935",
+    "english": "facade",
+    "japanese": "外観",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "6c8cf268-c89b-4171-9677-44715d715ea9",
+    "english": "fraction",
+    "japanese": "端数",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "fb31d712-888f-47d8-b6e4-68b1c1384052",
+    "english": "fragment",
+    "japanese": "断片",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7bd3acce-61e0-4c1b-9b13-05f5de47ad96",
+    "english": "hallmark",
+    "japanese": "特徴",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "ba1d9968-f82c-4ee5-b729-c9aa61caa9cd",
+    "english": "hazard",
+    "japanese": "危険",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "c9876cb8-1eb4-4d3c-b2f5-16e72d6092ba",
+    "english": "inception",
+    "japanese": "始まり",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "d2047609-7cd7-4a2b-8618-a2eafee28d78",
+    "english": "input",
+    "japanese": "入力",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "07300acc-f6b6-4808-978e-e1949482e873",
+    "english": "instance",
+    "japanese": "例",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "8ebef8b7-2f9a-459c-8afa-7b4f3f90ec30",
+    "english": "juncture",
+    "japanese": "時点",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "b00ec958-854d-4e2f-bb1c-422aceae94e8",
+    "english": "landfill",
+    "japanese": "埋立地",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "f797c6ca-bfb7-4836-82aa-df0527dba216",
+    "english": "landmark",
+    "japanese": "ランドマーク",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "dc8720ce-8246-448f-a595-f1b52bb38332",
+    "english": "latitude",
+    "japanese": "緯度",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7924d54a-28b8-4a46-baf7-ab7f94f9e050",
+    "english": "layout",
+    "japanese": "配置",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "fc2fe131-17fc-479c-924a-aa1f11a1605d",
+    "english": "lifecycle",
+    "japanese": "ライフサイクル",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "49a71d82-236c-48a7-8548-f86c10bf0ab6",
+    "english": "livelihood",
+    "japanese": "生計",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "9dfd11a5-59e4-4415-a38e-fa6828feb3ac",
+    "english": "milestone",
+    "japanese": "マイルストーン",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "2f97022e-13e8-41bc-9297-63fd80f587dd",
+    "english": "mindset",
+    "japanese": "考え方",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "ba6217fa-3591-4632-8a4b-00f2003d8ad6",
+    "english": "modification",
+    "japanese": "変更",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "afc3832b-21e8-4146-880c-6f756f338853",
+    "english": "motive",
+    "japanese": "動機",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "46eb0cb2-e5b5-483f-8848-7bfac5cd3922",
+    "english": "nomination",
+    "japanese": "指名",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "b6b6d698-267d-4971-bc33-f6d30f844953",
+    "english": "outlook",
+    "japanese": "見通し",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "09c610b6-3b8c-4211-b051-c4842c076f43",
+    "english": "overload",
+    "japanese": "過負荷",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "663f67f2-fa94-4031-a373-91f624df3a53",
+    "english": "overlap",
+    "japanese": "重複",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "1f5d63e4-e1b9-48ca-bb6d-72513d0e2a50",
+    "english": "oversight",
+    "japanese": "見落とし",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "20194404-d811-4cd3-b32f-8d0e37b99961",
+    "english": "pipeline",
+    "japanese": "パイプライン",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "0fc9d958-b50d-469a-8e10-3529bf340ac1",
+    "english": "plateau",
+    "japanese": "高原",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "6b942ddb-eee0-41c5-80d1-85655c5ea579",
+    "english": "precaution",
+    "japanese": "予防措置",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "3aeceb07-16ac-406c-8805-a189af21c9b2",
+    "english": "premise",
+    "japanese": "前提",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "f5157723-9678-4578-99fe-423307e24ec5",
+    "english": "profile",
+    "japanese": "プロフィール",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "f69f972f-1d52-4bdc-9b33-241fe24d962b",
+    "english": "protocol",
+    "japanese": "プロトコル",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "f0798e28-e529-4bc1-90b7-5c5730bb68db",
+    "english": "provision",
+    "japanese": "規定",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "5842f32c-5c14-4846-a067-f275b915c1f0",
+    "english": "pursuit",
+    "japanese": "追求",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "1253caf7-49ae-445d-9eb9-9534dbf1a0b1",
+    "english": "quota",
+    "japanese": "割り当て",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "71dab94a-2c6c-44e7-8d16-9a774cc3114e",
+    "english": "realization",
+    "japanese": "実現",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "b0fbc2e7-8fca-4da4-8abb-560b9204e2ae",
+    "english": "remainder",
+    "japanese": "残り",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "f48d6a31-d060-4298-adc9-6f2f12e0c3e1",
+    "english": "resistance",
+    "japanese": "抵抗",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "aa0c64e1-7142-4d84-99a4-014d278bcb44",
+    "english": "ritual",
+    "japanese": "儀式",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "0840f48e-4d7e-4119-ab74-e404ad5b7b49",
+    "english": "safeguard",
+    "japanese": "保護手段",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "dea7fbcf-8be2-4702-a2da-1c1c05799132",
+    "english": "segment",
+    "japanese": "部分",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "89f2bb7e-7269-42ac-85dc-493ff728555d",
+    "english": "snapshot",
+    "japanese": "スナップショット",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "0cd85961-ad18-48f5-9b2f-3d9ff20f9bc8",
+    "english": "spectrum",
+    "japanese": "範囲",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "2d310c27-79a5-4b21-8a76-9b9209b190ea",
+    "english": "template",
+    "japanese": "テンプレート",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "502b5f7f-1b02-4609-9d84-664c170786d1",
+    "english": "threshold",
+    "japanese": "閾値",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "91d890a5-b208-4a26-8629-4c4997b28b4a",
+    "english": "timeline",
+    "japanese": "タイムライン",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "d1018303-4159-4a56-bc3d-47ea95f7b65a",
+    "english": "trigger",
+    "japanese": "きっかけ",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "48ca1905-0bd7-4444-8c44-de45055bf67c",
+    "english": "turnover",
+    "japanese": "売上高",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "35efe9a0-d41f-44c9-8921-18041443c377",
+    "english": "uncertainty",
+    "japanese": "不確実性",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "f3ff2f66-530e-4c6b-b407-ed983e301f7f",
+    "english": "validity",
+    "japanese": "妥当性",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "745b0225-110d-4602-a6b9-22b3c8a05b88",
+    "english": "venture",
+    "japanese": "冒険",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "629abde5-5617-49b0-a656-d9e2cb291d01",
+    "english": "viability",
+    "japanese": "実行可能性",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "e19e1eb1-dfed-4084-b137-31cdacc2110f",
+    "english": "viewpoint",
+    "japanese": "視点",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "2918e9e6-1080-4ca3-9ea7-a3461b2c6e0c",
+    "english": "withdrawal",
+    "japanese": "撤退",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "856a14d9-6932-4588-a635-62f4ab3aee88",
+    "english": "workshop",
+    "japanese": "ワークショップ",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "188f86d8-3253-40b7-8dc7-228830012438",
+    "english": "differentiation",
+    "japanese": "差別化",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "3da7ee37-1b46-45ea-877f-77f18b74bc7c",
+    "english": "elevation",
+    "japanese": "標高",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "6bc561f2-906b-4bb3-b8fa-6715d1952195",
+    "english": "elimination",
+    "japanese": "排除",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "d5fba93c-78a9-4ef6-80d0-8968144acc6d",
+    "english": "emission",
+    "japanese": "排出",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "28c4250e-115d-4e91-a0b6-1ba1fa6979aa",
+    "english": "equalization",
+    "japanese": "平等化",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "52b45c61-1bbe-49ca-abe5-f29f02993f71",
+    "english": "estimation",
+    "japanese": "推定",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "0520b5f9-9277-40b9-9fac-cbc375f7281d",
+    "english": "facilitation",
+    "japanese": "促進",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "f2bd237e-0a75-4227-b107-80c38de3e847",
+    "english": "formulation",
+    "japanese": "策定",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "40818665-0e71-4bc4-ab0a-afe952b39ee1",
+    "english": "bacteria",
+    "japanese": "細菌",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "60e4b599-09af-493c-b264-5ff22d1ea8d8",
+    "english": "vitamin",
+    "japanese": "ビタミン",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "a1f32301-2535-4256-a453-428d58390f6a",
+    "english": "vaccination",
+    "japanese": "予防接種",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "34f5cf78-fe8b-4845-9935-811dec111a28",
+    "english": "anatomy",
+    "japanese": "解剖学",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "08fc6de9-2541-443d-9563-5538b69b2686",
+    "english": "antibiotic",
+    "japanese": "抗生物質",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "625b2c59-cde9-45d6-afa1-fc0dccfce0cf",
+    "english": "diagnosis",
+    "japanese": "診断",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "10105f41-7f16-472d-8a52-ebef51690152",
+    "english": "disorder",
+    "japanese": "障害",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "3cd1f79b-0b31-470e-9891-5b9c3edefc74",
+    "english": "enzyme",
+    "japanese": "酵素",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "790482b3-a599-48ed-a3b6-44c985907176",
+    "english": "extinction",
+    "japanese": "絶滅",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "0a4dcc4b-25c6-4bef-8fd3-f6195f77e99a",
+    "english": "genome",
+    "japanese": "ゲノム",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "40bb833b-c1c4-4429-bbfa-0494b959cd3a",
+    "english": "hormone",
+    "japanese": "ホルモン",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "c1ddff77-4076-4e36-8006-021b44de219a",
+    "english": "immunity",
+    "japanese": "免疫",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "f3579523-8992-462b-bbce-5b5fafbfff6e",
+    "english": "inflammation",
+    "japanese": "炎症",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "076ac86d-6b1b-469c-a1aa-eb7f3d60c909",
+    "english": "molecule",
+    "japanese": "分子",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "78247089-47a9-407a-bdc5-5f3dd84c2da5",
+    "english": "mutation",
+    "japanese": "突然変異",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "398bd9f9-b0f3-4f85-9908-32b51140bfe2",
+    "english": "obesity",
+    "japanese": "肥満",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "02d3d79e-c695-4db8-ac22-1c54d20292a7",
+    "english": "organism",
+    "japanese": "生物",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "3f44ec31-3366-432c-b25e-04e44934d1b2",
+    "english": "parasite",
+    "japanese": "寄生虫",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "c147f694-917f-4363-a5de-89303de5c5d3",
+    "english": "pathogen",
+    "japanese": "病原体",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "c1006e66-d7c6-427c-b439-2e93dca6ba56",
+    "english": "protein",
+    "japanese": "タンパク質",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "b50f340c-106b-48f7-a25a-60f2b7d8e123",
+    "english": "specimen",
+    "japanese": "標本",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "6576f239-88f3-4019-82b6-57f2670ec9d0",
+    "english": "syndrome",
+    "japanese": "症候群",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "be4eeb5c-5599-4e88-8c25-c99629600d0c",
+    "english": "habitat",
+    "japanese": "生息地",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "745b5a3e-b0a5-4989-9959-d780a0a21f8e",
+    "english": "neuron",
+    "japanese": "神経細胞",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "f5d45ee0-0c03-400b-b29c-082907fef321",
+    "english": "nucleus",
+    "japanese": "核",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "c7f982fd-6e84-4866-8772-49362ff0fd34",
+    "english": "botany",
+    "japanese": "植物学",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "3944f176-5869-416e-b931-9af3117a2d15",
+    "english": "biodiversity",
+    "japanese": "生物多様性",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "cf63f60f-c0d7-4586-8458-70cf989e65b8",
+    "english": "surplus",
+    "japanese": "余剰",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "535eb5d3-ee70-439f-82ca-e29cca38a246",
+    "english": "tariff",
+    "japanese": "関税",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "74c1dd00-203c-414a-ba48-d4846577373a",
+    "english": "verdict",
+    "japanese": "評決",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "7b96a64b-ef3f-4bb1-a737-caeac5886c85",
+    "english": "constitution",
+    "japanese": "憲法",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "3084fa85-3dc8-481b-a515-d05c21925422",
+    "english": "decree",
+    "japanese": "政令",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "c7b636b0-cfb9-4589-a2d3-7efdb1f63729",
+    "english": "enforcement",
+    "japanese": "施行",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "c4fe480b-dbab-4ec2-9c6f-c898e67001ed",
+    "english": "impeachment",
+    "japanese": "弾劾",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "315f9a54-dc7b-4f5e-a992-8a5a313d1dfe",
+    "english": "invoice",
+    "japanese": "請求書",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "0f9e97eb-8848-4094-88a9-724e50f726af",
+    "english": "judicial",
+    "japanese": "司法の",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "a8b6f67e-9612-49b7-b914-80e9a0de91ab",
+    "english": "merger",
+    "japanese": "合併",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "9650bd68-5e68-4a2f-b452-6abe84e3b34d",
+    "english": "shareholder",
+    "japanese": "株主",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "5d4c1329-963f-47ef-86da-c4ea154c4b75",
+    "english": "asset",
+    "japanese": "資産",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "5e224cf0-0f11-4e8e-badf-c1a5708a2a33",
+    "english": "audit",
+    "japanese": "監査",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "11683958-626f-45d0-94fb-318f4125bf9a",
+    "english": "commission",
+    "japanese": "手数料",
+    "category": "名詞",
+    "level": "2級"
+  },
+  {
+    "id": "103652ee-eb57-4155-8400-91eefa4d2a03",
+    "english": "antibody",
+    "japanese": "抗体",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "b1b5907b-4a91-4c28-bd8d-4b7e3cf5dcfa",
+    "english": "antigen",
+    "japanese": "抗原",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "d166f39a-fc63-4616-aff6-d3bd26134b39",
+    "english": "arthritis",
+    "japanese": "関節炎",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "5fd771f2-0c83-4703-aba7-4578887f2f87",
+    "english": "autism",
+    "japanese": "自閉症",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "92837a7c-0740-44d6-adce-a1150dfd70b2",
+    "english": "biopsy",
+    "japanese": "生検",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "ae269856-9319-46d6-8958-be9fbcb3f781",
+    "english": "cardiovascular",
+    "japanese": "心臓血管の",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "83bb6ad7-f6b5-4ef4-bc67-e79f310e56a9",
+    "english": "chromosome",
+    "japanese": "染色体",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "f0652b71-a5b3-4540-9291-989ac562ed3a",
+    "english": "cortex",
+    "japanese": "皮質",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "7652370f-1b01-4f7a-8b49-9533ad6b5f54",
+    "english": "epidemiology",
+    "japanese": "疫学",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "4450296c-9454-4c22-87f3-a74824f2a30f",
+    "english": "hemoglobin",
+    "japanese": "ヘモグロビン",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "df65cc50-6d75-42bf-870b-c76914e2bbb7",
+    "english": "heredity",
+    "japanese": "遺伝",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "c56027a1-38be-47e8-b58c-70b489e6d346",
+    "english": "photosynthesis",
+    "japanese": "光合成",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "d1c731e5-90d0-4dea-9610-2c940daaabaa",
+    "english": "physiology",
+    "japanese": "生理学",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "07518b32-6822-42dd-8aa5-584674e0cbb8",
+    "english": "respiratory",
+    "japanese": "呼吸の",
+    "category": "形容詞",
+    "level": "準1級"
+  },
+  {
+    "id": "ab535c09-9bea-425a-abf5-b675a1585e17",
+    "english": "amortization",
+    "japanese": "償却",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "eb1e6011-1ccf-417b-995f-1abda6802cef",
+    "english": "arbitrage",
+    "japanese": "裁定取引",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "cc81e903-7556-40d9-ae37-3d9b4931034e",
+    "english": "bond",
+    "japanese": "債券",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "25554787-1a0a-4b07-b032-264d1f128f1d",
+    "english": "brokerage",
+    "japanese": "仲介業",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "783a6f8f-b3be-4fcd-9e9c-c4626a53d2b1",
+    "english": "conglomerate",
+    "japanese": "複合企業",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "ca9d9584-9523-403b-9e0e-356e03498d09",
+    "english": "consortium",
+    "japanese": "コンソーシアム",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "e22fbf48-ed42-4237-b5b3-cd8c4270c56f",
+    "english": "creditworthiness",
+    "japanese": "信用力",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "5154df04-1b94-4d15-9394-5386e7152434",
+    "english": "divestiture",
+    "japanese": "資産売却",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "9866031f-0227-43ea-b833-3b429bbb387f",
+    "english": "hedge",
+    "japanese": "ヘッジ",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "768169a5-1cca-4321-aad5-91af10458915",
+    "english": "insolvency",
+    "japanese": "支払不能",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "a0b1ba81-e524-4b7a-9042-06e5e54b502a",
+    "english": "liquidation",
+    "japanese": "清算",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "709fc2fb-352e-4a7e-903e-0aa100b2b251",
+    "english": "microeconomics",
+    "japanese": "ミクロ経済学",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "6f9f86f4-f710-4113-802d-010fccdedf98",
+    "english": "oligopoly",
+    "japanese": "寡占",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "1dd814a0-4591-4b0b-be3f-9617d46334a9",
+    "english": "remittance",
+    "japanese": "送金",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "0735fa5d-61ce-42f7-b969-b645dd4043c1",
+    "english": "royalty",
+    "japanese": "ロイヤルティ",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "6573b7ae-7f7b-4290-b3c4-d202ef09d4e9",
+    "english": "securitization",
+    "japanese": "証券化",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "c8f5710e-3f86-49bf-b82b-199a23611a1c",
+    "english": "subsistence",
+    "japanese": "生存",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "ca5cbe4e-6117-4ff3-8cf9-458f83453c77",
+    "english": "underwriting",
+    "japanese": "引き受け",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "f4994c04-fd3e-4c62-9c5b-429256f5e9fd",
+    "english": "valuation",
+    "japanese": "評価",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "44927f26-02ca-45c7-98dd-eb905f0365cf",
+    "english": "disposition",
+    "japanese": "処分",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "b223907a-2b61-43fa-8390-b45db6b85f1a",
+    "english": "abandonment",
+    "japanese": "放棄",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "b3f08f7b-a917-4649-9021-9c2e9888398d",
+    "english": "advancement",
+    "japanese": "前進",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "7b567aaa-cbc3-492d-b7b9-f416daf807e2",
+    "english": "agitation",
+    "japanese": "扇動",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "1bb57ca9-1fa5-46ff-bae2-bbf6e2b5ed81",
+    "english": "appraisal",
+    "japanese": "評価",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "a86c2e6a-b675-43db-9b33-7a188ce3932a",
+    "english": "attribution",
+    "japanese": "帰属",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "b2995897-cc2e-4ba3-8bdc-eff12a31b9b4",
+    "english": "banishment",
+    "japanese": "追放",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "aa0a2ddb-8849-4d03-ad53-c0a98a773a11",
+    "english": "bargaining",
+    "japanese": "交渉",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "ff85c256-9ee3-459e-a429-81c3480a7d46",
+    "english": "characterization",
+    "japanese": "性格描写",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "c0494400-5508-478a-86f2-d67913ade214",
+    "english": "commemoration",
+    "japanese": "記念",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "efef3d17-a0bd-49a1-8c8e-1d5b20896223",
+    "english": "cumulation",
+    "japanese": "蓄積",
+    "category": "名詞",
+    "level": "準2級"
+  },
+  {
+    "id": "8e736b4c-a905-4533-a04a-e36f0d7c980e",
+    "english": "abjuration",
+    "japanese": "撤回",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "bf11115e-cd6f-4b0c-8fbd-4d7709f2aeb3",
+    "english": "absolution",
+    "japanese": "免罪",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "9115e83a-96e7-4715-a43a-437cf557a702",
+    "english": "acclimation",
+    "japanese": "順応",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "2404eb62-bf67-4529-a622-985347c9f862",
+    "english": "admonition",
+    "japanese": "訓戒",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "84625e10-0d06-4342-a223-5b47a63c0540",
+    "english": "alleviation",
+    "japanese": "緩和",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "32d1f7d6-8123-434f-a671-83e4b55e4f55",
+    "english": "amalgamation",
+    "japanese": "合併",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "a4d5f7a6-f505-4c41-8805-66403c3ae483",
+    "english": "appeasement",
+    "japanese": "宥和",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "1e075831-e116-4491-a039-da5b011b4725",
+    "english": "augmentation",
+    "japanese": "増大",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "0563e48d-f2af-4e6f-b1cb-2985febc6e04",
+    "english": "aversion",
+    "japanese": "嫌悪",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "11230880-067c-4d77-adb8-5e260d60feeb",
+    "english": "bifurcation",
+    "japanese": "二分",
+    "category": "名詞",
+    "level": "準1級"
+  },
+  {
+    "id": "628222d2-4bd2-4547-a68c-82a555a7168c",
+    "english": "castigation",
+    "japanese": "厳しい批判",
+    "category": "名詞",
+    "level": "準1級"
   }
 ]

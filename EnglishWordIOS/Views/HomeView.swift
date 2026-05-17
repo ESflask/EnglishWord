@@ -1,10 +1,17 @@
 import SwiftUI
 
+enum AppRoute: Hashable {
+    case quizLevelSelect
+    case vocabularyLevelSelect
+    case vocabularyList(String)
+}
+
 struct HomeView: View {
     @Environment(ThemeManager.self) private var themeManager
+    @State private var path = NavigationPath()
 
     var body: some View {
-        NavigationStack {
+        NavigationStack(path: $path) {
             ZStack {
                 themeManager.current.background.ignoresSafeArea()
 
@@ -18,10 +25,13 @@ struct HomeView: View {
                     Spacer()
 
                     VStack(spacing: 14) {
-                        NavigationLink {
-                            LevelSelectView()
-                        } label: {
-                            Text("スタート")
+                        Button("クイズ") {
+                            path.append(AppRoute.quizLevelSelect)
+                        }
+                        .buttonStyle(GlassButtonStyle())
+
+                        Button("単語帳") {
+                            path.append(AppRoute.vocabularyLevelSelect)
                         }
                         .buttonStyle(GlassButtonStyle())
 
@@ -38,6 +48,16 @@ struct HomeView: View {
                 }
             }
             .navigationBarHidden(true)
+            .navigationDestination(for: AppRoute.self) { route in
+                switch route {
+                case .quizLevelSelect:
+                    LevelSelectView()
+                case .vocabularyLevelSelect:
+                    VocabularyLevelSelectView(path: $path)
+                case .vocabularyList(let level):
+                    VocabularyListView(level: level, path: $path)
+                }
+            }
         }
     }
 }
