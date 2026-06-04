@@ -88,9 +88,3 @@ EnglishWord/
 - 全 View の背景は `AppBackground()` を ZStack 最背面に配置する
 - 単語データを変更する場合は `gen_words.py` を再実行し、Watch・iOS 両方の `words.json` を同期する
 - 詳細は [Management.md](Management.md) を参照
-
----
-
-## ライセンス
-
-Private repository — All rights reserved.
